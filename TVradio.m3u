@@ -755,9 +755,9 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://pull.hwgscm.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/4034970a304e251f46b43584a786c9177f3e530f.jpg" group-title="境外电视",美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="境外电视",NTD中国台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="境外电视",新唐人中国台
 https://live2.ntdimg.com/cnlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="境外电视",NTD亚太台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="境外电视",新唐人亚太台
 https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="境外电视",澳亚卫视
 http://live.mastvnet.com/4rlff1m/live.m3u8
