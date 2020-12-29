@@ -827,3 +827,5 @@ http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv4.jpg" group-title="地方电视",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ldntv.cn/Portal/Tpl/templates/default/images/live_pic1.png" group-title="地方电视",娄底综合
+http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
