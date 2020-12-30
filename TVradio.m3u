@@ -859,3 +859,11 @@ http://scgctvshow.sctv.com/hdlive/sctv6/index.m3u8
 http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="地方电视",四川公共乡村
 http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="",厦门卫视
+http://ivi6.bupt.edu.cn/hls/xmtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xmtv1.jpg" group-title="",厦门综合
+https://xiamencncc.v.wscdns.com/xiamen/xiamen1_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xmtv2.jpg" group-title="",厦门海峡
+https://xiamencncc.v.wscdns.com/xiamen/xiamen2_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xmtv6.jpg" group-title="",厦门移动
+https://xiamencncc.v.wscdns.com/xiamen/xiamenyidong_1/index.m3u8
