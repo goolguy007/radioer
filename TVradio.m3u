@@ -875,3 +875,5 @@ http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
 https://live.funhillrm.com/aac_4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.funhillrm.com/201912173520409e01fadc9c2811d72ff26f62ef.png" group-title="地方电视",房山电视台
 https://live.funhillrm.com/2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方电视",石景山电视台
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
