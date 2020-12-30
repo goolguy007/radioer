@@ -869,3 +869,9 @@ https://xiamencncc.v.wscdns.com/xiamen/xiamen2_1/index.m3u8
 https://xiamencncc.v.wscdns.com/xiamen/xiamenyidong_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dayuntongzhou.com/web/style/images/logo.png" group-title="地方电视",通州电视台
 http://pull.dayuntongzhou.com/live/tztv.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.huairtv.com/Portal/Tpl/templates/default/images/logo.png" group-title="地方电视",怀柔电视台
+http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.funhillrm.com/20191217f02d840cfde55cac9cb829e1c954c7a6.jpg" group-title="音乐广播",北京FM96.9经典调频
+https://live.funhillrm.com/aac_4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.funhillrm.com/201912173520409e01fadc9c2811d72ff26f62ef.png" group-title="地方电视",房山电视台
+https://live.funhillrm.com/2/playlist.m3u8
