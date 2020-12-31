@@ -881,3 +881,11 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hnxttv.com/_CMS_NEWS_IMG_/1/201512/31/2d115c55-302d-4eb1-806d-7ac417875d92.png" group-title="地方电视",湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bcc-app.nmm.com.tw/WebAPI/images/logo_news.jpg" group-title="境外广播",中广新闻网
+http://stream.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bcc-app.nmm.com.tw/WebAPI/images/logo_pop.jpg" group-title="境外广播",中广流行网
+http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.news98.com.tw/images/logo.png" group-title="境外广播",News98新闻台
+http://cast.news98.com.tw:8000/pntx1639ntzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uforadio.com.tw/themes/ufo/images/logo.jpg" group-title="境外广播",飞碟电台
+http://cast.uforadio.com.tw:8000/em90w4aeewzuv
