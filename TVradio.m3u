@@ -109,18 +109,18 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 http://scgctvshow.sctv.com/hdlive/emei/index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="央视卫视",山西卫视
 http://ivi6.bupt.edu.cn/hls/sxrtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557896934497_33_t1080.jpg" group-title="地方电视",黄河电视台
-https://huanghenews.sxrtv.com/HuangHeNews/HuangHeNews_ipsd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897206754_33_t1080.jpg" group-title="地方电视",山西经济与科技
-https://sxfinance.sxrtv.com/Shan1XiFinance/Shan1XiFinance_ipsd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cwz.sxrtv.com/images/2019/1/16/20191161547608973976_21.jpg" group-title="地方电视",黄河电视台
+http://live3.sxrtv.com/flvss?bitrate=800000&channel=HuangHeNews&start=0&provider=www.tvmining.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://apphhplushttps.sxrtv.com/images/2020/12/31/202012311609402311324_90.jpg" group-title="地方电视",山西经济与科技
+http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFinance&start=0&provider=www.tvmining.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897361061_33_t1080.jpg" group-title="地方电视",山西影视
-https://sxfilm.sxrtv.com/Shan1XiFilm/Shan1XiFilm_ipsd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897389325_33_t1080.jpg" group-title="地方电视",山西社会与法治
-https://sxedu.sxrtv.com/Shan1XiEdu/Shan1XiEdu_ipsd.m3u8
+http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFilm&start=0&provider=www.tvmining.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://apphhplushttps.sxrtv.com/images/2020/12/31/202012311609402077716_90.jpg" group-title="地方电视",山西社会与法治
+http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiEdu&start=0&provider=www.tvmining.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg" group-title="地方电视",山西公共
-https://sxpublic.sxrtv.com/Shan1XiPublic/Shan1XiPublic_ipsd.m3u8
+http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiPublic&start=0&provider=www.tvmining.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897444707_33_t1080.jpg" group-title="地方电视",山西少儿
-https://sxchild.sxrtv.com/Shan1XiChild/Shan1XiChild_ipsd.m3u8
+http://live4.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild&start=0&provider=www.tvmining.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" group-title="国广央广",音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29790-1I2roD_640x640.jpg" group-title="音乐广播",陕西青少广播好听1055
@@ -885,3 +885,7 @@ http://stream.rcs.revma.com/aw9uqyxy2tzuv
 http://cast.news98.com.tw:8000/pntx1639ntzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uforadio.com.tw/themes/ufo/images/logo.jpg" group-title="境外广播",飞碟电台
 http://cast.uforadio.com.tw:8000/em90w4aeewzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0404/20200404115850.jpeg" group-title="综合广播",山西健康之声广播
+rtmp://radiolive.sxrtv.com/live/gushi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2018/0214/20180214113747.jpeg" group-title="综合广播",山西农村广播
+rtmp://radiolive.sxrtv.com/live/nongcun
