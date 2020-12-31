@@ -153,7 +153,7 @@ rtmp://radiolive.sxrtv.com/live/yinyue
 http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/1231/20151231143414292.jpg" group-title="音乐广播",山东音乐广播
 http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29823-1GEZmY_180x180.jpg" group-title="综合广播",山西文艺广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29823-1GEZmY_180x180.jpg" group-title="音乐广播",山西文艺广播好听1015
 rtmp://radiolive.sxrtv.com/live/wenyi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.ajmide.com/p/image/202011/07/200-fbsCGRdRAk1604681336845_638x638.jpg" group-title="音乐广播",山东经典105
 http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
@@ -379,7 +379,7 @@ http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
 http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553157038145.jpg" group-title="网络广播",安全百科
 http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553157038145.jpg" group-title="网络广播",民谣音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/1213/20171213044209.jpeg" group-title="网络广播",民谣音乐台
 http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241848889285.png" group-title="网络广播",天籁古典
 http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
@@ -813,7 +813,7 @@ http://live.zjmc.tv/7/sd/live.m3u8
 http://live.zjmc.tv/9/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.family977.com.tw/lazyweb/images/logo.png" group-title="境外广播",台湾古典音乐台
 http://59.120.88.155:8000/live.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.superfm99-1.com.tw/web/images/logo.png" group-title="境外广播",宝岛联播网|大千电台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.superfm99-1.com.tw/uploads/root/LOGO/a07.png" group-title="境外广播",宝岛联播网|大千电台
 http://stream.superfm99-1.com.tw:8554
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv1.jpg" group-title="地方电视",福州新闻综合
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
