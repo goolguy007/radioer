@@ -153,9 +153,9 @@ rtmp://radiolive.sxrtv.com/live/yinyue
 http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/1231/20151231143414292.jpg" group-title="音乐广播",山东音乐广播
 http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29823-1GEZmY_180x180.jpg" group-title="音乐广播",山西文艺广播好听1015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sns1.sxrtv.com/player/images/pic8.jpg" group-title="音乐广播",山西文艺广播好听1015
 rtmp://radiolive.sxrtv.com/live/wenyi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.ajmide.com/p/image/202011/07/200-fbsCGRdRAk1604681336845_638x638.jpg" group-title="音乐广播",山东经典105
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.ajmide.com/p/image/202011/07/200-fbsCGRdRAk1604681336845_638x638.jpg" group-title="音乐广播",山东经典音乐广播
 http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/64/3d/643d44af9db5a820a462e61ea89f1548.jpg" group-title="境外广播",BBC World Service
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
@@ -867,7 +867,7 @@ https://xiamencncc.v.wscdns.com/xiamen/xiamenyidong_1/index.m3u8
 http://pull.dayuntongzhou.com/live/tztv.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.huairtv.com/Portal/Tpl/templates/default/images/logo.png" group-title="地方电视",怀柔电视台
 http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.funhillrm.com/20191217f02d840cfde55cac9cb829e1c954c7a6.jpg" group-title="音乐广播",北京FM96.9经典调频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.funhillrm.com/20191217f02d840cfde55cac9cb829e1c954c7a6.jpg" group-title="音乐广播",北京经典969
 http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.funhillrm.com/201912173520409e01fadc9c2811d72ff26f62ef.png" group-title="地方电视",房山电视台
 https://live.funhillrm.com/2/playlist.m3u8
