@@ -289,7 +289,7 @@ http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b8
 http://livecdn.pull.cdbs.com.cn/live/fm1032/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo.png" group-title="境外广播",美国之音
 https://voaaudio-lh.akamaihd.net/i/PACKVOA151_124L@824401/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s1651q.png" group-title="境外广播",自由亚洲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s1651q.png" group-title="境外广播",自由亚洲电台
 http://rfimonde-lh.akamaihd.net/i/rfimonde_1@412456/index_128_a-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cityfm.tw/public/mymedia/logo.jpg" group-title="境外广播",CityFM|台北健康
 http://fm901.cityfm.tw:8080/901.mp3
@@ -307,7 +307,7 @@ rtmp://radiolive.sxrtv.com/live/jiaotong
 rtmp://radiolive.sxrtv.com/live/jingji
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2017/0810/20170810105456.jpeg" group-title="综合广播",山西综合广播
 rtmp://radiolive.sxrtv.com/live/zonghe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bcc-app.nmm.com.tw/WebAPI/images/logo_music.jpg" group-title="境外广播",iRadio中广音乐网
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bcc-app.nmm.com.tw/WebAPI/images/logo_music.jpg" group-title="境外广播",中广音乐网
 http://stream.rcs.revma.com/ks4vsmg3qtzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2014/0804/20140804044043484.jpg" group-title="网络广播",中国校园之声
 http://starfish.bj.aliyun.001.qingting.fm:8000/zhongguoxiaoyuanzhisheng
@@ -755,10 +755,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://pull.hwgscm.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/4034970a304e251f46b43584a786c9177f3e530f.jpg" group-title="境外电视",美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="境外电视",新唐人中国台
-https://live2.ntdimg.com/cnlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="境外电视",新唐人亚太台
-https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="境外电视",澳亚卫视
 http://live.mastvnet.com/4rlff1m/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_bj.png" group-title="地方电视",中国交通频道（北京）
