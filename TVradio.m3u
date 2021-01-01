@@ -119,13 +119,11 @@ http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFilm
 http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiEdu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg" group-title="地方电视",山西公共
 http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiPublic
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897444707_33_t1080.jpg" group-title="地方电视",山西少儿
-http://live4.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" group-title="国广央广",音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29790-1I2roD_640x640.jpg" group-title="音乐广播",陕西青少广播好听1055
 http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/17706-1IdGrY_1620x1080.jpg" group-title="音乐广播",江西故事广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/17706-1IdGrY_1620x1080.jpg" group-title="音乐广播",江西故事广播潮台969
 http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969_aac.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.jl-media.cn/upload/user/20190919131906132_lxtjk.jpg" group-title="音乐广播",长春少儿与老年生活广播MixFM106.3
 http://starfish.bj.aliyun.002.qingting.fm:8000/changchunMIX1063
