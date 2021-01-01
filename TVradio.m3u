@@ -897,5 +897,5 @@ http://livecdn.pull.cdbs.com.cn/live/fm914/playlist.m3u8
 http://livecdn.pull.cdbs.com.cn/live/fm882/playlist.m3u8
 #EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://pic.qingting.fm/2015/1216/20151216141201263.jpg" group-title="综合广播",成都新闻广播
 http://livecdn.pull.cdbs.com.cn/live/fm998/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.superfm98-5.com.tw/web/images/logo.png" group-title="境外广播",宝岛联播网-宝岛新声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.superfm98-5.com.tw/web/images/logo.png" group-title="境外广播",宝岛联播网|大千电台
 http://stream.superfm99-1.com.tw:8555
