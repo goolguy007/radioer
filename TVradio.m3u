@@ -807,8 +807,6 @@ http://live.zjmc.tv/5/sd/live.m3u8
 http://live.zjmc.tv/4/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2017/0730/20170730020722.jpeg" group-title="综合广播",镇江经济广播
 http://live.zjmc.tv/7/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/e976924c-ffbd-11e5-86aa-5e5517507c66.jpg" group-title="综合广播",镇江FM102.7
-http://live.zjmc.tv/9/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.family977.com.tw/lazyweb/images/logo.png" group-title="境外广播",台湾古典音乐台
 http://59.120.88.155:8000/live.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.superfm99-1.com.tw/uploads/root/LOGO/a07.png" group-title="境外广播",宝岛联播网|大千电台
@@ -899,3 +897,7 @@ http://livecdn.pull.cdbs.com.cn/live/fm882/playlist.m3u8
 http://livecdn.pull.cdbs.com.cn/live/fm998/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.superfm98-5.com.tw/web/images/logo.png" group-title="境外广播",宝岛联播网|宝岛新声
 http://stream.superfm99-1.com.tw:8555
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="" group-title="测试广播",成都FM105.1
+http://livecdn.pull.cdbs.com.cn/live/fm1051/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/e976924c-ffbd-11e5-86aa-5e5517507c66.jpg" group-title="测试广播",镇江FM102.7
+http://live.zjmc.tv/9/sd/live.m3u8
