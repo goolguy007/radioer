@@ -887,3 +887,13 @@ http://cast.uforadio.com.tw:8000/em90w4aeewzuv
 rtmp://radiolive.sxrtv.com/live/gushi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2018/0214/20180214113747.jpeg" group-title="综合广播",山西农村广播
 rtmp://radiolive.sxrtv.com/live/nongcun
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0407/20200407041648.jpeg" group-title="音乐广播",成都文化休闲广播经典946
+http://livecdn.pull.cdbs.com.cn/live/fm1032/playlist.m3u8
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29848-1GGnD5_300x300.jpg" group-title="综合广播",成都经济广播
+http://livecdn.pull.cdbs.com.cn/live/fm1056/playlist.m3u8
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://pic.qingting.fm/2018/0313/20180313120303.png" group-title="综合广播",成都交通文艺广播
+http://livecdn.pull.cdbs.com.cn/live/fm914/playlist.m3u8
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="http://pic.qingting.fm/2016/0224/2016022412102243.png" group-title="综合广播",成都故事广播
+http://livecdn.pull.cdbs.com.cn/live/fm882/playlist.m3u8
+#EXTINF:-1 tvg-id="" tag-name="" tvg-logo="https://pic.qingting.fm/2015/1216/20151216141201263.jpg" group-title="综合广播",成都新闻广播
+http://livecdn.pull.cdbs.com.cn/live/fm998/playlist.m3u8
