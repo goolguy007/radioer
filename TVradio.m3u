@@ -902,64 +902,381 @@ http://livecdn.pull.cdbs.com.cn/live/fm1051/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/e976924c-ffbd-11e5-86aa-5e5517507c66.jpg" group-title="测试广播",镇江FM102.7
 http://live.zjmc.tv/9/sd/live.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第01集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第01集
 http://vip.let-kuyun.com/20180507/1iGZNfJA/index.m3u8?sign=0955c8ca71077f27dfd1bde13b7d9ad95d41c08aad56002c1937a1dc61d4ebda95e5288b98e3de8b4262f8bbe613e8205900389c6219463d21328dc604af0ecd
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第02集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第02集
 http://vip.let-kuyun.com/20180507/nBgKMM3G/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08e805feb85094a3f90cb988369c2c4a0e777a6510ae44cc0c87dfca26a7335b443477e1b9bf15a99c1bcd0f2f5bf1125e
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第03集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第03集
 http://vip.let-kuyun.com/20180507/VAliAdKu/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08358473522cd1c5809a0734b6f8d39db4b58e5102e5acd3b7b92c968dfb2eb279492d4bc83d805b46501a6b330abdcd05
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第04集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第04集
 http://vip.let-kuyun.com/20180507/l8aBtRWl/index.m3u8?sign=0955c8ca71077f27dfd1bde13b7d9ad92de485833123c52935df8c4a839f30cc69136571557d811d181807c52f5da6ad8a94c02c6f692dcc85242eed60a0afc6
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第05集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第05集
 http://vip.let-kuyun.com/20180507/dJ2GwOF4/index.m3u8?sign=8816bbca55c3a0cf0163b85c1bb872db20c7f7eac49480ac65140ef93d87f26bfc564925a71023ebe9c51864a08a2b0f6d95febee9c11847ed4ece98bdbd8178
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第06集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第06集
 http://vip.let-kuyun.com/20180507/Ago7qJsd/index.m3u8?sign=8816bbca55c3a0cf0163b85c1bb872dbeec40ab377ddd2b6527e92135fbf33ff2002a2ab3a4435fa10fe101b761014005ccb53be305d7e2c3d1de0ceb2236c48
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第07集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第07集
 http://vip.let-kuyun.com/20180507/Qp1KLtdD/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a0800ad81f7064552f06a5045a5967e2a955175967b817a3f4468563ee02db6ec518e11fc58e1255182eed39ce7e1132973
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第08集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第08集
 http://vip.let-kuyun.com/20180507/fJWiTuMD/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a088a72134178ca6e74f611f9df134419365c5a49e655cb5c7be543e5ed10d684f8b6228b240440278f3029343818699f41
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第09集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第09集
 http://vip.let-kuyun.com/20180507/n9bxlAyx/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08ebc4fd85d242f6ab5bdd523abcc6dab53442c70765b2e6ed5fb755806f2a509149056078b7da8b35988d1bab3184ecec
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第10集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第10集
 http://vip.let-kuyun.com/20180507/wmOdLUZs/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08ceb97466285983410d216a2a03ffdebae07a3c13d610f73dc5e1f272bbcae93b6993415288b866c659350aa792097d56
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第11集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第11集
 http://vip.let-kuyun.com/20180507/gxVuskCz/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a0834c3436a292d5cf2cbb9c3be6e7047376e96a591f207752bd7baa9ae3acee7067a5af56552f0aa7339a5a8795019bf0e
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第12集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第12集
 http://vip.let-kuyun.com/20180507/aPfEMR9e/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a085ee35a1ec0b14ab0bfec530ae1f974e02f8ccd0350e96946a7dc857447e0a6f4db83a1646f917228d28df4b5b29498df
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第13集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第13集
 http://vip.let-kuyun.com/20180507/s9UrL7H0/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a0801302377fdeb67ac3daec8034f6ec23b4bd048e1d1748bfb093c2c784b2c2585066423f7b0447ff15e3008da973930b3
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第14集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第14集
 http://vip.let-kuyun.com/20180507/IEXSiQnJ/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08ef5069175b8b90e8add44f3b2baec7ec825784fa23e8b15e70b547c62937646c3328934a1d8738f305c946a514f258cb
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第15集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第15集
 http://vip.let-kuyun.com/20180507/G3SoD7Ie/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08542920464dd206a025e0f5b6d48bd9503511d56f12428612f78deafba73cf727328c5e313a91d287a56f04ae8ff5c914
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第16集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第16集
 http://vip.let-kuyun.com/20180507/fvV0DoAe/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08e9a951845efaa3a6b85c05bd38db73eaf5a81abd931c7c760c8b182037dae38f9d80a28653105bb1000b68ce90ba150e
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第17集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第17集
 http://vip.let-kuyun.com/20180507/SHVopma4/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a088819f1b0424860db13ded49886c35b94fd8db80ed50c2a2c0aaeffaca24fbb2de7801e6de3ff3b72cc1df00ca00fbf82
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第18集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第18集
 http://vip.let-kuyun.com/20180507/QWHZeQ2q/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a087ef7d449af898fe7a886ec4c38a38a3833a1d31a6621e04cf5fd6b607730cb39d62a52dcc2dabee45d3876188c9552ed
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第19集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第19集
 http://vip.let-kuyun.com/20180507/cTLO7BTh/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08553dd9b323e41be750cc150caf69f99d745dbdd1e144f7c0f8e271a2386e1ac1aafe50bcd75a2720890c1cc1959c1586
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第20集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第20集
 http://vip.let-kuyun.com/20180507/T5YeLQTl/index.m3u8?sign=0955c8ca71077f27dfd1bde13b7d9ad96721224fb087119fc081a97024a43e3a8dabff6e23dc1aff557f16a73b99f928958021e35370834ffe2939f2bbe5b222
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第21集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第21集
 http://vip.let-kuyun.com/20180507/Bw3gScVv/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08ecd8b5228015a389f3d8bacb2c79e240e99ec2599b286de6f717b0cce6c5e8b816f4880615e3ad42595112b9d4180a23
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第22集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第22集
 http://vip.let-kuyun.com/20180507/m6d0fe2z/index.m3u8?sign=8816bbca55c3a0cf0163b85c1bb872db48a5c9e68ff6ad3e1cee64837b334806f95db5c88940c0aa6bb01711cfe8fc4afa6dc920b6e607b60ab2bc4c0a11aaa8
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第23集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第23集
 http://vip.let-kuyun.com/20180507/JO1PzX3K/index.m3u8?sign=8816bbca55c3a0cf0163b85c1bb872db88d8e9a2641b0a59486f745b71fdd28491b693582978195a5a5bbb1f7e18acf98c6ac9718570dbb43ece22e254ad5132
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第24集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第24集
 http://vip.let-kuyun.com/20180507/HwzhXx4t/index.m3u8?sign=8816bbca55c3a0cf0163b85c1bb872dbac3b8f909bcdcc068b2cde693c4952271d738efc78bba95c2f3726e819fcf35f936062e8092fd184a2ee2a96c9b32443
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第25集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第25集
 http://vip.let-kuyun.com/20180507/nQWs9KVq/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08da25bf100fbdd0ddd37c9587449d0661c4db172505bc34e9a1faa35ad7509ad575ade9b7e7c29fbab07dd3e98d36db73
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第26集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第26集
 http://vip.let-kuyun.com/20180507/bB7Nq1KI/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08fb9fe32417907c67e4f512a674596e367061eae37372003e6e4b385b12de3657047748ad6a58a734032e9536afa14172
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第27集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第27集
 http://vip.let-kuyun.com/20180507/tLHLTm1T/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08d36bd25fa13ace4f7e2c4e7422a9f5f5fe909f8b1130aea1cccb57d89e0d7c33b276120fecbfcda265f3431b064ab870
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第28集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第28集
 http://vip.let-kuyun.com/20180507/cdBOJH1u/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a0801b95965d157d4ddb83cde6962fc8c4e2c5153e9c8cee4d6a150c742d00dd2817d5124a7988e1c9d1055b1bcb03fb3ec
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第29集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第29集
 http://vip.let-kuyun.com/20180507/MrVPgMui/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a084b0ca936268345c6a90cf1a53a32dd7e05f4c71d3643bd3d7d501fc65b619d39b28ae50d73ab0e36949ff9b9b20cca30
-#EXTINF:-1 group-title="剧集影视",西游记张卫健版第30集
+#EXTINF:-1 group-title="TVB西游记I",西游记张卫健版第30集
 http://vip.let-kuyun.com/20180507/fwfc3d1V/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08ac8355b27537e92d7d648dc4e070c1c84bc6c78347b50acd8c9b42a51fa6c1a457820d72b4ffb461f8674c6071f36eb4
+#EXTM3U
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第01集
+http://list.47api.cn:90/qq/xigua.php?id=v0300fac0000bt14q054k595jkhipel0&sign=5b53ccaee7f7ef4ddaf003a9514c7e6b&s=1609567001&_t=1609567001562
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第02集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f740000bt15enak4pital7th1cg&sign=1e2612e61a0fb97b47cf28bb78d202d8&s=1609567014&_t=1609567014381
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第03集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f400000bt15eoateua8nokc7230&sign=9f881f59e4e803226425ee420f636cf8&s=1609567019&_t=1609567019724
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第04集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f9c0000bt15telg0n7mrumsnh0g&sign=728f13584b9492936190fa1ce366339a&s=1609567035&_t=1609567035262
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第05集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f140000bt15tkgsp4sgjahjqj40&sign=323bf66c768b8caa408e039abbe16e85&s=1609567040&_t=1609567040634
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第06集
+http://list.47api.cn:90/qq/xigua.php?id=v0300fd70000bt15tkmgliba2kop7t0g&sign=332374c13022360bb3c8cb8336d11a62&s=1609567044&_t=1609567044958
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第07集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f9c0000bt161nua0se75fb39i40&sign=2c823b6096c55e83fdbee9578e063834&s=1609567081&_t=1609567081247
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第08集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f220000bt161thak59n9m3b95hg&sign=c3525ab441256999ae7722f2edc568bb&s=1609567087&_t=1609567087545
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第09集
+http://list.47api.cn:90/qq/xigua.php?id=v0300fc80000bt161thvefrs1poca410&sign=10b1d70b44880533da98a29c95a67e29&s=1609567091&_t=1609567091955
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第10集
+http://v9-default.ixigua.com/3006585648fccf916ad56f509c07f704/5ff01810/video/tos/cn/tos-cn-ve-15/ee5f7e0aafe64d468daac8b6aa805afc/?a=2011&br=2859&bt=953&cd=0%7C0%7C0&cr=0&cs=0&dr=0&ds=3&er=&l=20210102130555010204051094596BFC70&lr=&mime_type=video_mp4&qs=0&rc=anFnNHB1aDg3dzMzOWkzM0ApN2hkNzg4Z2Q3Nzo0Njg1N2djYG8uZm9hbi5fLS1hLTBzc15iNGIwYS81YF5eXi40LTQ6Yw%3D%3D&vl=&vr=
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第11集
+http://list.47api.cn:90/qq/xigua.php?id=v0300fcf0000bt162kbuaaoarckdvbgg&sign=6e4226882c4b0ba44de4ee07561c1514&s=1609567313&_t=1609567313927
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第12集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f0a0000bt162kmvi2kl72k8ksv0&sign=34723eaecb9fe4868c66f407d0c592ea&s=1609567329&_t=1609567329255
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第13集
+https://1251883823.vod2.myqcloud.com/9dae6688vodgzp1251883823/4fd0d9595285890784564092675/8u1VHCWOUXwA.mp4
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第14集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f230000bt1654ihdpueqq278meg&sign=c4a91dd4a8f1c509f60b923840ac66a3&s=1609567477&_t=1609567477915
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第15集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f200000bt1656sdbgh8tul80920&sign=04b35bb604444ef76bdf8df96b60c8e3&s=1609567486&_t=1609567486313
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第16集
+http://list.47api.cn:90/qq/xigua.php?id=v0200fd60000bt16blte6v18nvr2pr70&sign=a4c199f30caf433ecc450d8dd1d5b79a&s=1609567492&_t=1609567492469
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第17集
+http://list.47api.cn:90/qq/xigua.php?id=v0200fa30000bt166r74k01ojk28vmj0&sign=3735334f65c7c7d002d0cafab320fa80&s=1609567501&_t=1609567501434
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第18集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f420000bt166s027gh93nj7ga50&sign=88abd7663a658d0bf1b28f38463ffb3e&s=1609567506&_t=1609567506753
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第18集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f140000bt16bn7hh85nompu38q0&sign=0de3153e09636a0e21cc1187e6d2b3da&s=1609567513&_t=1609567513752
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第20集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f2f0000bt14q5lnr13ttdvfjifg&sign=1d5e0b64c43edfab9e6cb07baf1589db&s=1609567518&_t=1609567518668
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第21集
+http://list.47api.cn:90/qq/xigua.php?id=v0200fdd0000bt16crm78j30esinfdtg&sign=70fcc133115da28cc5db3ce4e7ed16ac&s=1609567583&_t=1609567583513
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第22集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f470000bt16d1jv9d0rqo7lab20&sign=b1cd8e1fcff95885fead2d3cf565410d&s=1609567599&_t=1609567599247
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第23集
+http://list.47api.cn:90/qq/xigua.php?id=v0200fc90000bt16d1ltc5bmtimgkk5g&sign=52aac0c68f2613bce8a1e7f8d1158e65&s=1609567611&_t=1609567611948
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第24集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f0a0000bt16gkmvi2kl72k9bhtg&sign=873ce59d20210cbeded0a41a24586bf6&s=1609567636&_t=1609567636096
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第25集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f670000bt16goe2e7b98r3elup0&sign=292a7d190ba01480350726c867aefe71&s=1609567641&_t=1609567641067
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第26集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f680000bt16goqja8tbvh2d9nj0&sign=394421c033c9992f243411b9b92f57eb&s=1609567661&_t=1609567661598
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第27集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f5a0000bt16i6sf43g3tk1u3qo0&sign=9e0dc79a62af5345e0c597a6bc2573ad&s=1609567667&_t=1609567667965
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第28集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f0a0000bt16ibuvi2kl72k9eccg&sign=3d256e203c35a083e8d2fcbb26c5a83f&s=1609567684&_t=1609567684656
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第29集
+http://list.47api.cn:90/qq/xigua.php?id=v0200fd60000bt16ic0iql8q3h5ed0q0&sign=d76852adfeed5c5c2ad1ebf5151c10da&s=1609567728&_t=1609567728764
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第30集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f1c0000bt14uhrfb2n2dvhrg4a0&sign=d333f944a8c128c6e92a81bdda92ab14&s=1609567713&_t=1609567713848
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第31集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f5e0000bt16j9e4904bo02dtlu0&sign=1ed23a497a32613cc78e9596db8db974&s=1609567984&_t=1609567984370
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第32集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f5e0000bt16j9e4904bo02dtlu0&sign=cffac8db851ff3705e813048079f4a0c&s=1609567989&_t=1609567989610
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第33集
+http://list.47api.cn:90/qq/xigua.php?id=v0200fc90000bt16d1ltc5bmtimgkk5g&sign=2a870a4cda3f331b94147616bedab0e8&s=1609568012&_t=1609568012799
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第34集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f700000bt16m8bg92fj1csho2mg&sign=2409aea741eab3d0997044796d25edf9&s=1609568029&_t=1609568029554
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第35集
+http://list.47api.cn:90/qq/xigua.php?id=v0300fe30000bt16m9832j6ncjltj4ng&sign=72090460ec1fd6cf1ee9330037b207db&s=1609568047&_t=1609568047255
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第36集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f350000bt16o26goh6r1ckpnbgg&sign=97ef54b305fff866563630799c9722e9&s=1609568094&_t=1609568094431
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第37集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f070000bt16o7th3ol3il7vru60&sign=37a467e4fd3482eb412968a355aa98cc&s=1609568101&_t=1609568101310
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第38集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f190000bt16o7sud2559vt9npd0&sign=b7a7c636707bc3b00f41c2dadcf5740c&s=1609568111&_t=1609568111564
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第39集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f0a0000bt16peuvi2kl72k9q130&sign=6d01d07ade072f3377ffaef1d671c9d2&s=1609568142&_t=1609568142015
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第40集
+http://list.47api.cn:90/qq/xigua.php?id=v0300fd70000bt14umsljs664lg38qq0&sign=be015bc070dbc062c92f66ce29e1377e&s=1609568164&_t=1609568164205
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第41集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f1c0000bt16q2bfb2n2dvht1shg&sign=b7335203556e93b5cea0753ac4e9b73f&s=1609568204&_t=1609568204572
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第42集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f840000bt16q8mfvqcanf879seg&sign=7518a8ab1c9484de6d06d18fa7c26db7&s=1609568234&_t=1609568234762
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第43集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f470000bt16q8p8alkil85r7k8g&sign=bdb6f489cf661adfde60dee6095b9202&s=1609568242&_t=1609568242676
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第44集
+http://list.47api.cn:90/qq/xigua.php?id=v0300fe30000bt16tei504ru31akitt0&sign=2d7b0e852afc4df1b47e6aa1ed992269&s=1609568267&_t=1609568267580
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第45集
+http://list.47api.cn:90/qq/xigua.php?id=v0300fe30000bt16tk032j6ncjltv4g0&sign=e53579f770ed6350abbfb13e6eb34ddc&s=1609568290&_t=1609568290588
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第46集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f0a0000bt16tkdls2oeti3q6nqg&sign=ad16370711c4f258f971d124438e6e60&s=1609568300&_t=1609568300766
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第47集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f200000bt16vav436v55vsblc90&sign=86325bbaad8a96cb5e02cefd3535538d&s=1609568313&_t=1609568313176
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第48集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f1f0000bt16vhc7j1anhid9k6bg&sign=8b683a1a5baf312f4e09b1a2c0e44b00&s=1609568322&_t=1609568322840
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第49集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f650000bt16vhnr9f7u781frsag&sign=54d1b65409f7f552afb9204ca8d0a8ad&s=1609568337&_t=1609568337374
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第50集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f5e0000bt14un64904bo02bgeo0&sign=a090fa4322a5cf826220e28a46b34e03&s=1609568344&_t=1609568344535
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第51集
+http://list.47api.cn:90/qq/xigua.php?id=v0200fad0000bt1702tcse2ic349vvq0&sign=7d656ebd3ab10bde165b1e2f8f84e74b&s=1609568376&_t=1609568376436
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第52集
+http://list.47api.cn:90/qq/xigua.php?id=v0300fd70000bt17046gliba2koqvdf0&sign=6a2362244c8db2205065559c6b900931&s=1609568396&_t=1609568396967
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第53集
+http://list.47api.cn:90/qq/xigua.php?id=v0200fe90000bt171itkpp87udj80qt0&sign=b7e6d07cf529f25a6dee0f3f7e8496e6&s=1609568400&_t=1609568400754
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第54集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f9e0000bt171ndk974sj491td80&sign=8b1d100eb72cff70a075fd9378b32a04&s=1609568438&_t=1609568438543
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第55集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f5e0000bt171nm4904bo02el8bg&sign=fad2e1d26b1b3c662f141942e51201fd&s=1609568446&_t=1609568446398
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第56集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f5e0000bt171nm4904bo02el8bg&sign=8483502e993c07baeb0e11c6803b8c8b&s=1609568503&_t=1609568503299
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第57集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f280000bt173nsn2et9q8ml3kag&sign=9d40f5e58660eb48bf8c88fbf0faba50&s=1609568530&_t=1609568530707
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第58集
+http://list.47api.cn:90/qq/xigua.php?id=v0300fd70000bt173o4ljs664lg6hc6g&sign=b92d8ac187cc5f482355bb952f3d6806&s=1609568537&_t=1609568537523
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第59集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f400000bt178lqteua8nokf2490&sign=ae51efa841aed93d490586276bc87f47&s=1609568566&_t=1609568566579
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第60集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f3d0000bt150jf5u022jjt46890&sign=d66b8cc3c04082a2ad477aebe6e8b5b2&s=1609568574&_t=1609568574340
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第61集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f350000bt179jegoh6r1ckqjkeg&sign=551bbcad8c2513cb0b0f63f6c45245df&s=1609568578&_t=1609568578720
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第62集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f0c0000bt179pd2keple4hgt9b0&sign=bf0bc78ff16daaf9c554f5750c0ad8db&s=1609568589&_t=1609568589589
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第63集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f0c0000bt179pd2keple4hgt9b0&sign=4ba4ea113dffac677375c371ce43dab3&s=1609568608&_t=1609568608303
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第64集
+http://list.47api.cn:90/qq/xigua.php?id=v0300f2f0000bt17bn6vk7gj7q4h712g&sign=cd88880db36493c4463fed9cffbd996f&s=1609568614&_t=1609568614273
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第65集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f9c0000bt17bstg0n7mrumu13bg&sign=222b890ddff01c06df58bf3782306afa&s=1609568630&_t=1609568630915
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第66集
+http://list.47api.cn:90/qq/xigua.php?id=v0300fac0000bt17f1993b52vv9f3upg&sign=f9e67d24398a24da9716a2c8dae958a4&s=1609568638&_t=1609568638465
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第67集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f080000bt17f6ea1ecadvc6ulbg&sign=8e59c26f188f56d67da17ef4b3c2e828&s=1609568646&_t=1609568646800
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第68集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f080000bt17f6ea1ecadvc6ulbg&sign=e1655758cd91a87af312dcc2f5b80c13&s=1609568663&_t=1609568663553
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第69集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f8c0000bt17f6dqbkc9i2alr300&sign=155d2b6e8a59aa3a0801c296da016a54&s=1609568675&_t=1609568675700
+#EXTINF:-1 group-title="延禧攻略",延禧攻略第70集
+http://list.47api.cn:90/qq/xigua.php?id=v0200f9c0000bt150kea0se75fb2fli0&sign=f673098a98943a58e0d48074492a6ed9&s=1609568699&_t=1609568699055
+#EXTINF:-1 group-title="如懿传",如懿传第01集
+https://4.mhbobo.com/20190820/4oIE1X63/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第02集
+https://4.mhbobo.com/20190820/VnNMr0yH/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第03集
+https://4.mhbobo.com/20190820/o3JPWOG6/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第04集
+https://4.mhbobo.com/20190820/0n79rDhR/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第05集
+https://4.mhbobo.com/20190820/Oje3c22x/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第06集
+https://4.mhbobo.com/20190820/ucMDEpIn/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第07集
+https://4.mhbobo.com/20190820/owROkqM8/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第08集
+https://4.mhbobo.com/20190820/CXB4FZxc/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第09集
+https://4.mhbobo.com/20190820/MW4iZPie/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第10集
+https://4.mhbobo.com/20190820/G8Si4vKI/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第11集
+https://4.mhbobo.com/20190820/OrYTHzSb/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第12集
+https://4.mhbobo.com/20190820/3Zs6YjYM/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第13集
+https://4.mhbobo.com/20190820/1WUbJ1U4/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第14集
+https://4.mhbobo.com/20190820/DKceR5iF/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第15集
+https://4.mhbobo.com/20190820/o3P75Ue1/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第16集
+https://4.mhbobo.com/20190820/1lrmcRMM/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第17集
+https://4.mhbobo.com/20190820/2cbMWPbV/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第18集
+https://4.mhbobo.com/20190820/7OnCOApY/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第19集
+https://4.mhbobo.com/20190820/XM3W7inV/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第20集
+https://4.mhbobo.com/20190820/x9J9MOGR/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第21集
+https://4.mhbobo.com/20190820/uCPAlm4X/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第22集
+https://4.mhbobo.com/20190820/O9DHeC9E/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第23集
+https://4.mhbobo.com/20190820/7Ie8V57y/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第24集
+https://4.mhbobo.com/20190820/UkxGlGDI/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第25集
+https://4.mhbobo.com/20190820/a7y8X4yv/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第26集
+https://4.mhbobo.com/20190820/SgvKsMyO/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第27集
+https://4.mhbobo.com/20190820/cRZiThKW/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第28集
+https://4.mhbobo.com/20190820/8O3bBjel/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第29集
+https://4.mhbobo.com/20190820/E4sioYFD/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第30集
+https://4.mhbobo.com/20190820/p6gFbU7r/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第31集
+https://4.mhbobo.com/20190820/VJp3QukF/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第32集
+https://4.mhbobo.com/20190820/t5JLuF7r/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第33集
+https://4.mhbobo.com/20190820/KiBU4bEU/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第34集
+https://4.mhbobo.com/20190820/myR1DfF1/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第35集
+https://4.mhbobo.com/20190820/cdD0TyYS/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第36集
+https://4.mhbobo.com/20190820/palu8GJ0/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第37集
+https://4.mhbobo.com/20190820/koEWbxht/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第38集
+https://4.mhbobo.com/20190820/B9drzrAa/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第39集
+https://4.mhbobo.com/20190820/qMkRnz3v/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第40集
+https://4.mhbobo.com/20190820/L1mc3yOU/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第41集
+https://4.mhbobo.com/20190820/VnZkwQJP/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第42集
+https://4.mhbobo.com/20190820/Q4FeALT1/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第43集
+https://4.mhbobo.com/20190820/lbhCucJm/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第44集
+https://4.mhbobo.com/20190820/SzdMtIg7/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第45集
+https://4.mhbobo.com/20190820/4ZtZrObw/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第46集
+https://4.mhbobo.com/20190820/sgDe6SZe/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第47集
+https://4.mhbobo.com/20190820/9acvvgAc/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第48集
+https://4.mhbobo.com/20190820/Q3LJM9Yq/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第49集
+https://4.mhbobo.com/20190820/ttvljKqB/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第50集
+https://4.mhbobo.com/20190820/sj0blZlQ/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第51集
+https://4.mhbobo.com/20190820/inaYyoWx/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第52集
+https://4.mhbobo.com/20190820/1WTPrFbl/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第53集
+https://4.mhbobo.com/20190820/HecT2m1Z/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第54集
+https://4.mhbobo.com/20190820/azv4TLFn/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第55集
+https://4.mhbobo.com/20190820/MIERiIhx/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第56集
+https://4.mhbobo.com/20190820/qKKyfBD0/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第57集
+https://4.mhbobo.com/20190820/g02fSCem/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第58集
+https://4.mhbobo.com/20190820/BUYbu1qm/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第59集
+https://4.mhbobo.com/20190820/EvTJ9dU3/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第60集
+https://4.mhbobo.com/20190820/LhI0zoyD/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第61集
+https://4.mhbobo.com/20190820/74pBtR45/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第62集
+https://4.mhbobo.com/20190820/avMI1bYp/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第63集
+https://4.mhbobo.com/20190820/NsVbVAIy/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第64集
+https://4.mhbobo.com/20190820/HSBcPktA/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第65集
+https://4.mhbobo.com/20190820/F8pti4b9/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第66集
+https://4.mhbobo.com/20190820/oauOYMMV/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第67集
+https://4.mhbobo.com/20190820/XNBOPn9F/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第68集
+https://4.mhbobo.com/20190820/etz9IP6R/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第69集
+https://4.mhbobo.com/20190820/igIqLVgP/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第70集
+https://4.mhbobo.com/20190820/HMVOywvz/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第71集
+https://4.mhbobo.com/20190820/eeaVjZpY/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第72集
+https://4.mhbobo.com/20190820/uRzEQcNh/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第73集
+https://4.mhbobo.com/20190820/eJM8ub9P/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第74集
+https://4.mhbobo.com/20190820/QaEkMCbY/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第75集
+https://4.mhbobo.com/20190820/ArveKqPB/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第76集
+https://4.mhbobo.com/20190820/qtHLSqo8/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第77集
+https://4.mhbobo.com/20190820/Bul9X6k6/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第78集
+https://4.mhbobo.com/20190820/qvgZ01ux/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第79集
+https://4.mhbobo.com/20190820/LrmNut5s/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第80集
+https://4.mhbobo.com/20190820/TAIwyAlx/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第81集
+https://4.mhbobo.com/20190820/sqMltQUY/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第82集
+https://4.mhbobo.com/20190820/t1kth2lN/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第83集
+https://4.mhbobo.com/20190820/lycCSBb1/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第84集
+https://4.mhbobo.com/20190820/Ot1pVPMZ/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第85集
+https://4.mhbobo.com/20190820/GmK2POEF/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第86集
+https://4.mhbobo.com/20190820/KxfJonQT/index.m3u8
+#EXTINF:-1 group-title="如懿传",如懿传第87集
+https://4.mhbobo.com/20190820/ywqfMFIw/index.m3u8
+#EXTINF:-1 group-title="电影",刻在你心底的名字
+https://jx.ps269.com/dyy/kezainixindidemingzi.m3u8
 
