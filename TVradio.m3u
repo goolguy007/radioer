@@ -901,3 +901,65 @@ http://stream.superfm99-1.com.tw:8555
 http://livecdn.pull.cdbs.com.cn/live/fm1051/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/e976924c-ffbd-11e5-86aa-5e5517507c66.jpg" group-title="测试广播",镇江FM102.7
 http://live.zjmc.tv/9/sd/live.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第01集
+http://vip.let-kuyun.com/20180507/1iGZNfJA/index.m3u8?sign=0955c8ca71077f27dfd1bde13b7d9ad95d41c08aad56002c1937a1dc61d4ebda95e5288b98e3de8b4262f8bbe613e8205900389c6219463d21328dc604af0ecd
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第02集
+http://vip.let-kuyun.com/20180507/nBgKMM3G/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08e805feb85094a3f90cb988369c2c4a0e777a6510ae44cc0c87dfca26a7335b443477e1b9bf15a99c1bcd0f2f5bf1125e
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第03集
+http://vip.let-kuyun.com/20180507/VAliAdKu/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08358473522cd1c5809a0734b6f8d39db4b58e5102e5acd3b7b92c968dfb2eb279492d4bc83d805b46501a6b330abdcd05
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第04集
+http://vip.let-kuyun.com/20180507/l8aBtRWl/index.m3u8?sign=0955c8ca71077f27dfd1bde13b7d9ad92de485833123c52935df8c4a839f30cc69136571557d811d181807c52f5da6ad8a94c02c6f692dcc85242eed60a0afc6
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第05集
+http://vip.let-kuyun.com/20180507/dJ2GwOF4/index.m3u8?sign=8816bbca55c3a0cf0163b85c1bb872db20c7f7eac49480ac65140ef93d87f26bfc564925a71023ebe9c51864a08a2b0f6d95febee9c11847ed4ece98bdbd8178
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第06集
+http://vip.let-kuyun.com/20180507/Ago7qJsd/index.m3u8?sign=8816bbca55c3a0cf0163b85c1bb872dbeec40ab377ddd2b6527e92135fbf33ff2002a2ab3a4435fa10fe101b761014005ccb53be305d7e2c3d1de0ceb2236c48
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第07集
+http://vip.let-kuyun.com/20180507/Qp1KLtdD/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a0800ad81f7064552f06a5045a5967e2a955175967b817a3f4468563ee02db6ec518e11fc58e1255182eed39ce7e1132973
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第08集
+http://vip.let-kuyun.com/20180507/fJWiTuMD/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a088a72134178ca6e74f611f9df134419365c5a49e655cb5c7be543e5ed10d684f8b6228b240440278f3029343818699f41
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第09集
+http://vip.let-kuyun.com/20180507/n9bxlAyx/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08ebc4fd85d242f6ab5bdd523abcc6dab53442c70765b2e6ed5fb755806f2a509149056078b7da8b35988d1bab3184ecec
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第10集
+http://vip.let-kuyun.com/20180507/wmOdLUZs/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08ceb97466285983410d216a2a03ffdebae07a3c13d610f73dc5e1f272bbcae93b6993415288b866c659350aa792097d56
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第11集
+http://vip.let-kuyun.com/20180507/gxVuskCz/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a0834c3436a292d5cf2cbb9c3be6e7047376e96a591f207752bd7baa9ae3acee7067a5af56552f0aa7339a5a8795019bf0e
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第12集
+http://vip.let-kuyun.com/20180507/aPfEMR9e/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a085ee35a1ec0b14ab0bfec530ae1f974e02f8ccd0350e96946a7dc857447e0a6f4db83a1646f917228d28df4b5b29498df
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第13集
+http://vip.let-kuyun.com/20180507/s9UrL7H0/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a0801302377fdeb67ac3daec8034f6ec23b4bd048e1d1748bfb093c2c784b2c2585066423f7b0447ff15e3008da973930b3
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第14集
+http://vip.let-kuyun.com/20180507/IEXSiQnJ/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08ef5069175b8b90e8add44f3b2baec7ec825784fa23e8b15e70b547c62937646c3328934a1d8738f305c946a514f258cb
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第15集
+http://vip.let-kuyun.com/20180507/G3SoD7Ie/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08542920464dd206a025e0f5b6d48bd9503511d56f12428612f78deafba73cf727328c5e313a91d287a56f04ae8ff5c914
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第16集
+http://vip.let-kuyun.com/20180507/fvV0DoAe/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08e9a951845efaa3a6b85c05bd38db73eaf5a81abd931c7c760c8b182037dae38f9d80a28653105bb1000b68ce90ba150e
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第17集
+http://vip.let-kuyun.com/20180507/SHVopma4/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a088819f1b0424860db13ded49886c35b94fd8db80ed50c2a2c0aaeffaca24fbb2de7801e6de3ff3b72cc1df00ca00fbf82
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第18集
+http://vip.let-kuyun.com/20180507/QWHZeQ2q/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a087ef7d449af898fe7a886ec4c38a38a3833a1d31a6621e04cf5fd6b607730cb39d62a52dcc2dabee45d3876188c9552ed
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第19集
+http://vip.let-kuyun.com/20180507/cTLO7BTh/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08553dd9b323e41be750cc150caf69f99d745dbdd1e144f7c0f8e271a2386e1ac1aafe50bcd75a2720890c1cc1959c1586
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第20集
+http://vip.let-kuyun.com/20180507/T5YeLQTl/index.m3u8?sign=0955c8ca71077f27dfd1bde13b7d9ad96721224fb087119fc081a97024a43e3a8dabff6e23dc1aff557f16a73b99f928958021e35370834ffe2939f2bbe5b222
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第21集
+http://vip.let-kuyun.com/20180507/Bw3gScVv/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08ecd8b5228015a389f3d8bacb2c79e240e99ec2599b286de6f717b0cce6c5e8b816f4880615e3ad42595112b9d4180a23
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第22集
+http://vip.let-kuyun.com/20180507/m6d0fe2z/index.m3u8?sign=8816bbca55c3a0cf0163b85c1bb872db48a5c9e68ff6ad3e1cee64837b334806f95db5c88940c0aa6bb01711cfe8fc4afa6dc920b6e607b60ab2bc4c0a11aaa8
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第23集
+http://vip.let-kuyun.com/20180507/JO1PzX3K/index.m3u8?sign=8816bbca55c3a0cf0163b85c1bb872db88d8e9a2641b0a59486f745b71fdd28491b693582978195a5a5bbb1f7e18acf98c6ac9718570dbb43ece22e254ad5132
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第24集
+http://vip.let-kuyun.com/20180507/HwzhXx4t/index.m3u8?sign=8816bbca55c3a0cf0163b85c1bb872dbac3b8f909bcdcc068b2cde693c4952271d738efc78bba95c2f3726e819fcf35f936062e8092fd184a2ee2a96c9b32443
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第25集
+http://vip.let-kuyun.com/20180507/nQWs9KVq/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08da25bf100fbdd0ddd37c9587449d0661c4db172505bc34e9a1faa35ad7509ad575ade9b7e7c29fbab07dd3e98d36db73
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第26集
+http://vip.let-kuyun.com/20180507/bB7Nq1KI/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08fb9fe32417907c67e4f512a674596e367061eae37372003e6e4b385b12de3657047748ad6a58a734032e9536afa14172
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第27集
+http://vip.let-kuyun.com/20180507/tLHLTm1T/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08d36bd25fa13ace4f7e2c4e7422a9f5f5fe909f8b1130aea1cccb57d89e0d7c33b276120fecbfcda265f3431b064ab870
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第28集
+http://vip.let-kuyun.com/20180507/cdBOJH1u/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a0801b95965d157d4ddb83cde6962fc8c4e2c5153e9c8cee4d6a150c742d00dd2817d5124a7988e1c9d1055b1bcb03fb3ec
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第29集
+http://vip.let-kuyun.com/20180507/MrVPgMui/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a084b0ca936268345c6a90cf1a53a32dd7e05f4c71d3643bd3d7d501fc65b619d39b28ae50d73ab0e36949ff9b9b20cca30
+#EXTINF:-1 group-title="剧集影视",西游记张卫健版第30集
+http://vip.let-kuyun.com/20180507/fwfc3d1V/index.m3u8?sign=5dc40dd12c4bde404eddcee21dc13a08ac8355b27537e92d7d648dc4e070c1c84bc6c78347b50acd8c9b42a51fa6c1a457820d72b4ffb461f8674c6071f36eb4
+
