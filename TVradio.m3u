@@ -51,11 +51,15 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字频道",第一剧场FHD
 http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/huanqiuqiguan.jpg" group-title="数字频道",环球奇观
+http://hdtv.lzu6.edu.cn/hls/hls62.m3u8
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="数字频道",风云音乐FHD
 http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",喜剧影院
+http://hdtv.lzu6.edu.cn/hls/hls6.m3u8
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="数字频道",风云剧场FHD
 http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="数字频道",怀旧剧场FHD
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvhjjc.jpg" group-title="数字频道",怀旧剧场FHD
 http://hdtv.lzu6.edu.cn/hls/hls184a518.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视FHD
 http://hdtv.lzu6.edu.cn/hls/hls130.m3u8
@@ -106,13 +110,13 @@ http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg" group-title="港台频道",澳视澳门
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卫视频道",优漫卡通
-http://hdtv.lzu6.edu.cn/hls/hls159.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls184a505.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",家庭剧场
 http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",家庭影院
 http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字频道",全纪实
-http://hdtv.lzu6.edu.cn/hls/documentaryhd.m3u8
+http://itv.ahau.edu.cn/hls/documentaryhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",卡通剧场
 http://hdtv.lzu6.edu.cn/hls/hls167.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",晴天动画馆
@@ -142,19 +146,25 @@ http://itv.ahau.edu.cn/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",iHOT爱怀旧
 http://itv.ahau.edu.cn/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视频道",金鹰卡通
-http://hdtv.lzu6.edu.cn/hls/jykttv.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls158.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视频道",哈哈炫动
-http://hdtv.lzu6.edu.cn/hls/hls103.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls184a427.m3u8
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视频道",嘉佳卡通
+http://itv.ahau.edu.cn/PLTV/2/224/3221226099/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",上海教育
+http://itv.ahau.edu.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV",CCTV 4K超高清
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV-5 体育
 http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字频道",第一剧场
 http://hdtv.lzu6.edu.cn/hls/dyjctv.m3u8
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="数字频道",怀旧剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvhjjc.jpg" group-title="数字频道",怀旧剧场
 http://hdtv.lzu6.edu.cn/hls/hjjctv.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="数字频道",风云足球
 http://hdtv.lzu6.edu.cn/hls/fyzqtv.m3u8
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="数字频道",风云足球FHD
+http://hdtv.lzu6.edu.cn/hls/hls184a510.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台频道",星空卫视
 http://hdtv.lzu6.edu.cn/hls/startv.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
@@ -187,6 +197,8 @@ http://hdtv.lzu6.edu.cn/hls/hls184a636.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls184a89.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="数字频道",游戏风云
 http://hdtv.lzu6.edu.cn/hls/hls184a637.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="数字频道",劲爆体育
+http://itv.ahau.edu.cn/PLTV/2/224/3221226045/2.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台频道",民视新闻
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="测试频道",纬来日本
@@ -495,27 +507,27 @@ http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
 rtmp://radiolive.sxrtv.com/live/wenyi
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://upload.ajmide.com/p/image/202011/07/200-fbsCGRdRAk1604681336845_638x638.jpg" group-title="音乐广播",山东经典音乐广播
 http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/64/3d/643d44af9db5a820a462e61ea89f1548.jpg" group-title="国际广播",BBC World Service
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/bbcws.png" group-title="国际广播",BBC World Service
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/npr.png" group-title="国际广播",n p r | News and Culture
 http://nprnat-i.akamaihd.net/hls/live/217898/nprnational/256k/program3.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/9c/98/9c98a961e74a5450ee8ab998f636c530.jpg" group-title="国际广播",BBC Radio 1
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/bbc1.png" group-title="国际广播",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20277g.png" group-title="国际广播",BBC Radio 1 Xtra
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/bbc1xtra.png" group-title="国际广播",BBC Radio 1 Xtra
 https://as-hls-ww-live.bbcfmt.s.llnwi.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/320x320/p090hlbf.jpg" group-title="国际广播",BBC Radio 1 Dance
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/bbc1dance.png" group-title="国际广播",BBC Radio 1 Dance
 https://as-hls-ww-live.bbcfmt.s.llnwi.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/1e/13/1e13eb225a722093fd925d3570117c7b.jpg" group-title="国际广播",BBC Radio 2
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/bbc2.png" group-title="国际广播",BBC Radio 2
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/bf/da/bfda4d385dc9d8523a3865cb16b9c17d.jpg" group-title="国际广播",BBC Radio 3
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/bbc3.png" group-title="国际广播",BBC Radio 3
 https://as-hls-ww-live.bbcfmt.s.llnwi.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/fd/4f/fd4f261a482613fab1994c3d7a77328c.jpg" group-title="国际广播",BBC Radio 4
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/bbc4.png" group-title="国际广播",BBC Radio 4
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s6839g.png" group-title="国际广播",BBC Radio 4 Extra
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/bbc4extra.png" group-title="国际广播",BBC Radio 4 Extra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24943g.png" group-title="国际广播",BBC Radio 5
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/bbc5.png" group-title="国际广播",BBC Radio 5
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/9d/87/9d87f69605ca046dc91bf696ea85f671.jpg" group-title="国际广播",BBC Radio 6
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/bbc6.png" group-title="国际广播",BBC Radio 6
 https://as-hls-ww-live.bbcfmt.s.llnwi.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://cdn-web-us-west-2-tunein-com.s3-us-west-2.amazonaws.com/assets/img/shared/tiles/todays-hits-small.jpg" group-title="网络广播",Today’s Hits
 http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
@@ -1063,7 +1075,7 @@ https://14033.live.streamtheworld.com/938NOW_PREM.aac
 https://22393.live.streamtheworld.com/YES933_PREM.aac
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://www.melisten.sg/api/blob/10711290/888770d34985f5fcf4fa0389e372e50f/love-972-logoImage.jpg" group-title="国际广播",LOVE 972
 https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/T6JacQ4RDk.png" group-title="国际广播",UFM 1003
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/ufm1003.png" group-title="国际广播",UFM 1003
 https://22283.live.streamtheworld.com/UFM_1003AAC.aac
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/8bcjgtwwmbxg.png" group-title="国际广播",好FM
 https://22283.live.streamtheworld.com/HAO_963AAC.aac
