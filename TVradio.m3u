@@ -106,19 +106,19 @@ http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg" group-title="港台频道",澳视澳门
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卫视频道",优漫卡通
-http://itv.ahau.edu.cn/hls/hls159.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls159.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",家庭剧场
-http://itv.ahau.edu.cn/hls/hls75a28.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",家庭影院
-http://itv.ahau.edu.cn/hls/hls75a29.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字频道",全纪实
-http://itv.ahau.edu.cn/hls/documentaryhd.m3u8
+http://hdtv.lzu6.edu.cn/hls/documentaryhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",卡通剧场
 http://hdtv.lzu6.edu.cn/hls/hls167.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",晴天动画馆
-http://itv.ahau.edu.cn/hls/hls78a47.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls78a47.m3u8
 #EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="数字频道",新动漫
-http://itv.ahau.edu.cn/hls/hls64.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls64.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",北京IPTV淘剧场
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226553/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",北京IPTV淘电影
@@ -142,9 +142,9 @@ http://itv.ahau.edu.cn/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",iHOT爱怀旧
 http://itv.ahau.edu.cn/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视频道",金鹰卡通
-http://itv.ahau.edu.cn/hls/jykttv.m3u8
+http://hdtv.lzu6.edu.cn/hls/jykttv.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视频道",哈哈炫动
-http://itv.ahau.edu.cn/hls/hls103.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls103.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视频道",嘉佳卡通
 http://itv.ahau.edu.cn/PLTV/2/224/3221226099/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",上海教育
@@ -152,35 +152,35 @@ http://itv.ahau.edu.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV",CCTV 4K超高清
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV-5 体育
-http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
+http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字频道",第一剧场
-http://itv.ahau.edu.cn/hls/dyjctv.m3u8
+http://hdtv.lzu6.edu.cn/hls/dyjctv.m3u8
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="数字频道",怀旧剧场
-http://itv.ahau.edu.cn/hls/hjjctv.m3u8
+http://hdtv.lzu6.edu.cn/hls/hjjctv.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="数字频道",风云足球
-http://itv.ahau.edu.cn/hls/fyzqtv.m3u8
+http://hdtv.lzu6.edu.cn/hls/fyzqtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台频道",星空卫视
-http://itv.ahau.edu.cn/hls/startv.m3u8
+http://hdtv.lzu6.edu.cn/hls/startv.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
-http://itv.ahau.edu.cn/hls/zjhd.m3u8
+http://hdtv.lzu6.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",足球频道
 http://ivi6.bupt.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台频道",[V]
-http://itv.ahau.edu.cn/hls/channelv.m3u8
+http://hdtv.lzu6.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字频道",CHC动作电影
 http://hdtv.lzu6.edu.cn/hls/hls261.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字频道",CHC家庭影院
 http://hdtv.lzu6.edu.cn/hls/hls259.m3u8
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港台频道",凤凰卫视电影台
-http://itv.ahau.edu.cn/hls/fhdy.m3u8
+http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港台频道",国家地理
-http://itv.ahau.edu.cn/hls/natlgeo.m3u8
+http://hdtv.lzu6.edu.cn/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰卫视中文台
 http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰卫视资讯台
 http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港台频道",探索频道
-http://itv.ahau.edu.cn/hls/discovery.m3u8
+http://hdtv.lzu6.edu.cn/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字频道",欢笑剧场4K
 http://hdtv.lzu6.edu.cn/hls/hls185a97.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",都市剧场
@@ -192,7 +192,7 @@ http://hdtv.lzu6.edu.cn/hls/hls184a89.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="数字频道",游戏风云
 http://hdtv.lzu6.edu.cn/hls/hls184a637.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="数字频道",劲爆体育
-http://itv.ahau.edu.cn/PLTV/2/224/3221226045/2.m3u8
+http://hdtv.lzu6.edu.cn/PLTV/2/224/3221226045/2.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台频道",民视新闻
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="测试频道",纬来日本
