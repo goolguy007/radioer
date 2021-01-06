@@ -49,17 +49,17 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="测试频道",第一剧场
 rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字频道",第一剧场FHD
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="专业影视",第一剧场FHD
 http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/huanqiuqiguan.jpg" group-title="数字频道",环球奇观
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/huanqiuqiguan.jpg" group-title="专业频道",环球奇观
 http://hdtv.lzu6.edu.cn/hls/hls62.m3u8
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="数字频道",风云音乐FHD
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="专业频道",风云音乐FHD
 http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",喜剧影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",喜剧影院
 http://hdtv.lzu6.edu.cn/hls/hls6.m3u8
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="数字频道",风云剧场FHD
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="专业影视",风云剧场FHD
 http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvhjjc.jpg" group-title="数字频道",怀旧剧场FHD
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvhjjc.jpg" group-title="专业影视",怀旧剧场FHD
 http://hdtv.lzu6.edu.cn/hls/hls184a518.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视FHD
 http://hdtv.lzu6.edu.cn/hls/hls130.m3u8
@@ -111,39 +111,45 @@ http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卫视频道",优漫卡通
 http://hdtv.lzu6.edu.cn/hls/hls184a505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",家庭剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",家庭剧场
 http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",家庭影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",家庭影院
 http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字频道",全纪实
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="专业频道",全纪实
 http://itv.ahau.edu.cn/hls/documentaryhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",卡通剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/高清HD卡通剧场.png" group-title="专业影视",卡通剧场
 http://hdtv.lzu6.edu.cn/hls/hls167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",晴天动画馆
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",晴天动画馆
 http://hdtv.lzu6.edu.cn/hls/hls78a47.m3u8
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="数字频道",新动漫
+#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="专业影视",新动漫
 http://hdtv.lzu6.edu.cn/hls/hls64.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",北京IPTV淘剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",北京IPTV淘剧场
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226553/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",北京IPTV淘电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",北京IPTV淘电影
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",北京IPTV大健康
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",@大健康
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226556/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",时光剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",时光剧场
 http://hdtv.lzu6.edu.cn/hls/hls78a48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",大众影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",大众影视
 http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",iHOT爱江湖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",爱映画
+http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",星影
+http://hdtv.lzu6.edu.cn/hls/hls59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",北京IPTV4K超高清
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",iHOT爱江湖
 http://itv.ahau.edu.cn/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",iHOT爱科幻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",iHOT爱科幻
 http://itv.ahau.edu.cn/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",iHOT爱院线
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",iHOT爱院线
 http://itv.ahau.edu.cn/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",iHOT爱探索
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",iHOT爱探索
 http://itv.ahau.edu.cn/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",iHOT爱动漫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",iHOT爱动漫
 http://itv.ahau.edu.cn/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",iHOT爱怀旧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",iHOT爱怀旧
 http://itv.ahau.edu.cn/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视频道",金鹰卡通
 http://hdtv.lzu6.edu.cn/hls/hls158.m3u8
@@ -157,25 +163,59 @@ http://itv.ahau.edu.cn/slive/shedu02_1200k.m3u8
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV-5 体育
 http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字频道",第一剧场
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="专业影视",第一剧场
 http://hdtv.lzu6.edu.cn/hls/dyjctv.m3u8
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvhjjc.jpg" group-title="数字频道",怀旧剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",金色频道
+http://hdtv.lzu6.edu.cn/hls/hls184a90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",快乐垂钓
+http://hdtv.lzu6.edu.cn/hls/hls186a69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",茶频道
+http://hdtv.lzu6.edu.cn/hls/hls186a70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",极速汽车MAX
+http://hdtv.lzu6.edu.cn/hls/hls184a94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",生活时尚
+http://hdtv.lzu6.edu.cn/hls/hls184a91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",老故事
+http://hdtv.lzu6.edu.cn/hls/hls113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",兵器科技
+http://hdtv.lzu6.edu.cn/hls/hls23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",女性时尚
+http://hdtv.lzu6.edu.cn/hls/hls44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",央视文化精品
+http://hdtv.lzu6.edu.cn/hls/hls61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",中学生
+http://hdtv.lzu6.edu.cn/hls/hls184a536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",国学频道
+http://hdtv.lzu6.edu.cn/hls/hls100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",武术世界
+http://hdtv.lzu6.edu.cn/hls/hls36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",梨园频道
+http://hdtv.lzu6.edu.cn/hls/hls42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",亚洲电影
+http://hdtv.lzu6.edu.cn/hls/hls30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",热播电影
+http://hdtv.lzu6.edu.cn/hls/hls32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",原声电影
+http://hdtv.lzu6.edu.cn/hls/hls33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",精选
+http://hdtv.lzu6.edu.cn/hls/hls102.m3u8
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/radioer/photo/raw/main/CCTV-怀旧剧场.png" group-title="专业影视",怀旧剧场
 http://hdtv.lzu6.edu.cn/hls/hjjctv.m3u8
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="数字频道",风云足球
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="专业频道",风云足球
 http://hdtv.lzu6.edu.cn/hls/fyzqtv.m3u8
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="数字频道",风云足球FHD
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="专业频道",风云足球FHD
 http://hdtv.lzu6.edu.cn/hls/hls184a510.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台频道",星空卫视
 http://hdtv.lzu6.edu.cn/hls/startv.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
 http://hdtv.lzu6.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",足球频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",足球频道
 http://ivi6.bupt.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台频道",[V]
 http://hdtv.lzu6.edu.cn/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字频道",CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="专业影视",CHC动作电影
 http://hdtv.lzu6.edu.cn/hls/hls261.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字频道",CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="专业影视",CHC家庭影院
 http://hdtv.lzu6.edu.cn/hls/hls259.m3u8
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港台频道",凤凰卫视电影台
 http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8
@@ -187,19 +227,19 @@ http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港台频道",探索频道
 http://hdtv.lzu6.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字频道",欢笑剧场4K
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="专业影视",欢笑剧场4K
 http://hdtv.lzu6.edu.cn/hls/hls185a97.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",都市剧场
 http://hdtv.lzu6.edu.cn/hls/hls185a95.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",动漫秀场
 http://hdtv.lzu6.edu.cn/hls/hls184a636.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",法治天地
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",法治天地
 http://hdtv.lzu6.edu.cn/hls/hls184a89.m3u8
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="数字频道",游戏风云
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="专业频道",游戏风云
 http://hdtv.lzu6.edu.cn/hls/hls184a637.m3u8
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="数字频道",劲爆体育
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="专业频道",劲爆体育
 http://itv.ahau.edu.cn/PLTV/2/224/3221226045/2.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台频道",民视新闻
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台频道",民视新闻台
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="测试频道",纬来日本
 rtmp://59.124.75.156/sat/tv521
@@ -213,7 +253,7 @@ rtmp://59.124.75.156/sat/tv071
 rtmp://59.124.75.156/sat/tv111
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="测试频道",中视
 rtmp://59.124.75.156/sat/tv091
-#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="测试频道",TVBS 欢乐
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="测试频道",TVBS欢乐台
 rtmp://59.124.75.156/sat/tv421
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="测试频道",纬来育乐
 rtmp://59.124.75.156/sat/tv701
@@ -241,7 +281,7 @@ http://ivi6.bupt.edu.cn/hls/szhd.m3u8
 http://ivi6.bupt.edu.cn/hls/btv1hd.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视频道",山东卫视
 http://ivi6.bupt.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1607657352685&di=ed00d923c91ff06d5f5db5aa0466f831&imgtype=0&src=http%3A%2F%2Ftva4.sinaimg.cn%2Fcrop.776.487.497.497.1024%2F77eb57eajw1e9o3j1l2shj21kw16odj1.jpg" group-title="数字频道",CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/radioer/photo/blob/main/CHC高清电影.png" group-title="专业影视",CHC高清电影
 http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
 http://ivi6.bupt.edu.cn/hls/ahhd.m3u8
@@ -317,7 +357,7 @@ http://ivi6.bupt.edu.cn/hls/cctv12hd.m3u8
 http://ivi.neu6.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="国际频道",半岛电视台
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="港台频道",RTHK31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/RTHK31.png" group-title="港台频道",RTHK31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="港台频道",RTHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
@@ -377,21 +417,21 @@ http://pull.hwgscm.com/live/playlist.m3u8
 https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="港台频道",澳亚卫视
 http://live.mastvnet.com/4rlff1m/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_bj.png" group-title="数字频道",中国交通频道（北京）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_bj.png" group-title="专业频道",中国交通频道（北京）
 https://tv.cctbn.com/cctbn/beijing/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_ah.png" group-title="数字频道",中国交通频道（安徽）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_ah.png" group-title="专业频道",中国交通频道（安徽）
 https://tv.lanjingfm.com/cctbn/anhui.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_hub.png" group-title="数字频道",中国交通频道（湖北）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_hub.png" group-title="专业频道",中国交通频道（湖北）
 https://tv.lanjingfm.com/cctbn/hubei.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_jl.png" group-title="数字频道",中国交通频道（吉林）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_jl.png" group-title="专业频道",中国交通频道（吉林）
 https://tv.lanjingfm.com/cctbn/jilin.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_sc.jpg" group-title="数字频道",中国交通频道（四川）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_sc.jpg" group-title="专业频道",中国交通频道（四川）
 https://tv.lanjingfm.com/cctbn/sichuan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="数字频道",中国交通频道（海南）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="专业频道",中国交通频道（海南）
 https://tv.lanjingfm.com/cctbn/hainan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_cq.png" group-title="数字频道",中国交通频道（重庆）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctbn.com/images/cctbn_cq.png" group-title="专业频道",中国交通频道（重庆）
 https://tv.lanjingfm.com/cctbn/chongqing.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.weathertv.cn/m/i/documentary/logo.png" group-title="数字频道",中国天气频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.weathertv.cn/m/i/documentary/logo.png" group-title="专业频道",中国天气频道
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv1.jpg" group-title="地方频道",西安新闻综合
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
@@ -422,7 +462,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahjjsh.jpg" group-title="地方频道",安徽经济生活
 http://zbbf2.ahtv.cn/live/750.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/anhys.jpg" group-title="地方频道",安徽影视
-http://zbbf2.ahtv.cn/live/756.m3u8
+http://zbbf1.ahtv.cn/live/756.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahzy.jpg" group-title="地方频道",安徽综艺体育
 http://zbbf2.ahtv.cn/live/758.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgg.jpg" group-title="地方频道",安徽公共
@@ -430,7 +470,7 @@ http://zbbf2.ahtv.cn/live/752.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahkj.jpg" group-title="地方频道",安徽农业科教
 http://zbbf2.ahtv.cn/live/754.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahrw.jpg" group-title="地方频道",安徽人物
-http://zbbf2.ahtv.cn/live/da9.m3u8
+http://zbbf1.ahtv.cn/live/da9.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ss1.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/baike/w=268;g=0/sign=99d4887928a446237ecaa264a0191533/3ac79f3df8dcd1004e570a227a8b4710b8122fee.jpg" group-title="地方频道",睛彩安徽
 http://zbbf2.ahtv.cn/live/db9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="地方频道",四川文化旅游
@@ -473,15 +513,15 @@ http://stream.sxsztv.com/live1/playlist.m3u8
 http://stream.sxsztv.com/live2/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" group-title="国广央广",音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29790-1I2roD_640x640.jpg" group-title="音乐广播",陕西青少广播好听1055
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29790-1I2roD_640x640.jpg" group-title="音乐广播",陕西青少广播·好听1055
 http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/17706-1IdGrY_1620x1080.jpg" group-title="音乐广播",江西故事广播潮台969
-http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969_aac.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://image.jl-media.cn/upload/user/20190919131906132_lxtjk.jpg" group-title="音乐广播",长春少儿与老年生活广播MixFM106.3
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/jxgsgb.jpg" group-title="音乐广播",江西故事广播·潮台969
+http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969.m3u8
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://image.jl-media.cn/upload/user/20190919131906132_lxtjk.jpg" group-title="音乐广播",长春少儿与老年生活广播·MixFM106.3
 http://starfish.bj.aliyun.002.qingting.fm:8000/changchunMIX1063
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/1C7hCW.png" group-title="音乐广播",湖南旅游广播年代音乐台
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/1C7hCW.png" group-title="音乐广播",湖南旅游广播·年代音乐台
 http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://ytmedia.radio.cn/radioLogo/10595171.png" group-title="音乐广播",湖南文艺广播摩登音乐台
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://ytmedia.radio.cn/radioLogo/10595171.png" group-title="音乐广播",湖南文艺广播·摩登音乐台
 http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439525359.png" group-title="国广央广",轻松调频
 http://sk.cri.cn/915.m3u8
@@ -491,19 +531,19 @@ http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29832-1GF09W_180x180.png" group-title="综合广播",News938潇湘之声
 http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/11-ef77ae41-d9d2-46bc-8739-6968d7ebdf32.png" group-title="音乐广播",上海流行音乐广播动感101
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/11-ef77ae41-d9d2-46bc-8739-6968d7ebdf32.png" group-title="音乐广播",上海流行音乐广播·动感101
 http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm101d7/live.m3u8?se=broadcast&_fk=0&ct=1
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/2-8fb011e7-05a5-4cab-9d7f-d46e4f6b46ff.jpg" group-title="音乐广播",上海经典金曲广播love💋radio
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/2-8fb011e7-05a5-4cab-9d7f-d46e4f6b46ff.jpg" group-title="音乐广播",上海经典金曲广播·love💋radio
 http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm103d7/live.m3u8?se=broadcast&_fk=0&ct=1
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29880-1GGqJ3_500x500.png" group-title="音乐广播",苏州音乐广播
 http://audio-live.radio.cn/live/szyy1/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://img-ossimg.ajmide.com/program/channel-1Hv8IG_640x640.jpg" group-title="音乐广播",山西音乐广播
 rtmp://radiolive.sxrtv.com/live/yinyue
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2018/0316/20180316022139.jpeg" group-title="音乐广播",湖北经典音乐广播
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/湖北经典音乐广播.jpg" group-title="音乐广播",湖北经典音乐广播
 http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/1231/20151231143414292.jpg" group-title="音乐广播",山东音乐广播
 http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://sns1.sxrtv.com/player/images/pic8.jpg" group-title="音乐广播",山西文艺广播好听1015
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://sns1.sxrtv.com/player/images/pic8.jpg" group-title="音乐广播",山西文艺广播·好听1015
 rtmp://radiolive.sxrtv.com/live/wenyi
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://upload.ajmide.com/p/image/202011/07/200-fbsCGRdRAk1604681336845_638x638.jpg" group-title="音乐广播",山东经典音乐广播
 http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
@@ -633,7 +673,7 @@ http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm107d2/live.m3u8?se
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2016/1214/20161214124757.jpeg" group-title="综合广播",江苏故事广播
 http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0331/20170331082734.png" group-title="音乐广播",湖南音乐之声893汽车音乐电台
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0331/20170331082734.png" group-title="音乐广播",湖南音乐之声·893汽车音乐电台
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2018/0403/20180403035958.jpeg" group-title="音乐广播",成都唯一音乐广播
 http://livecdn.pull.cdbs.com.cn/live/fm1032/playlist.m3u8
@@ -771,7 +811,7 @@ http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2018/0201/20180201120816.png" group-title="综合广播",陕西交通广播
 http://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2020/0405/20200405084716.jpeg" group-title="综合广播",陕西经济广播896汽车调频
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2020/0405/20200405084716.jpeg" group-title="综合广播",陕西经济广播·896汽车调频
 http://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="hhttp://pic.qingting.fm/2016/0731/20160731092316.jpeg" group-title="综合广播",陕西都市广播
 http://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
@@ -1073,7 +1113,7 @@ http://icecast-ruvr.cdnvideo.ru/rian.voicechi
 https://14033.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://www.melisten.sg/api/blob/10711288/cd52d370e0cc18492418783418684746/yes933-logoImage.png" group-title="国际广播",YES 933
 https://22393.live.streamtheworld.com/YES933_PREM.aac
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://www.melisten.sg/api/blob/10711290/888770d34985f5fcf4fa0389e372e50f/love-972-logoImage.jpg" group-title="国际广播",LOVE 972
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/love972.png" group-title="国际广播",LOVE 972
 https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/ufm1003.png" group-title="国际广播",UFM 1003
 https://22283.live.streamtheworld.com/UFM_1003AAC.aac
@@ -1119,7 +1159,7 @@ http://cast.uforadio.com.tw:8000/em90w4aeewzuv
 rtmp://radiolive.sxrtv.com/live/jiankang
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2018/0214/20180214113747.jpeg" group-title="综合广播",山西农村广播
 rtmp://radiolive.sxrtv.com/live/nongcun
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0407/20200407041648.jpeg" group-title="音乐广播",成都文化休闲广播经典946
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0407/20200407041648.jpeg" group-title="音乐广播",成都文化休闲广播·经典946
 http://livecdn.pull.cdbs.com.cn/live/fm946/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tag-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29848-1GGnD5_300x300.jpg" group-title="综合广播",成都经济广播
 http://livecdn.pull.cdbs.com.cn/live/fm1056/playlist.m3u8
@@ -1139,3 +1179,11 @@ http://live.zjmc.tv/9/sd/live.m3u8
 https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://static.rti.org.tw/img/fb-rti-logo.png" group-title="台湾广播",RTI音乐
 https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img1.kxm.xmtv.cn/201912302c3d660c449f4d79c28cb134e6bbdcb7.png" group-title="综合广播",厦门综合广播
+https://live1.kxm.xmtv.cn/aac_zhgb/playlist.m3u8
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img1.kxm.xmtv.cn/20201121d975c1e0379a01dd3e62a09f5631f9df.png" group-title="综合广播",厦门经济交通广播
+https://live1.kxm.xmtv.cn/aac_xmjjjt/sd/live.m3u8
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img1.kxm.xmtv.cn/20201121c47e851bac669d31e1f8603ba160bb58.png" group-title="综合广播",厦门闽南之声
+https://live1.kxm.xmtv.cn/aac_mnzs/playlist.m3u8
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0628/20170628114327.jpeg" group-title="音乐广播",河南影视广播·My Radio
+http://stream2.hndt.com/zbj/MyRadio900.m3u8
