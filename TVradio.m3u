@@ -155,6 +155,8 @@ http://hdtv.lzu6.edu.cn/hls/hls64.m3u8
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226553/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/北京IPTV-淘电影.png" group-title="专业影视",北京IPTV淘电影
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业影视",北京IPTV淘BABY
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221226554/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/北京IPTV@大健康.png" group-title="专业频道",@大健康
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226556/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/高清时光剧场.png" group-title="专业影视",时光剧场
@@ -393,6 +395,8 @@ http://ivi6.bupt.edu.cn/hls/cctv12hd.m3u8
 http://ivi.neu6.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="国际频道",半岛电视台
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/detail/215-2151705_cbs-news-png-vector-transparent-stock-cbs-news.png" group-title="国际频道",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="港台频道",RTHK31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK32.png" group-title="港台频道",RTHK32
