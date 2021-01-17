@@ -695,7 +695,7 @@ http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
 http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm93d4/live.m3u8?se=broadcast&_fk=0&ct=1
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/五星体育广播.png" group-title="综合广播",五星体育广播
 http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm94d4/live.m3u8?se=broadcast&_fk=0&ct=1
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/上海经典947.png" group-title="音乐广播",上海经典947
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/上海经典947.png" group-title="音乐广播",上海经典947
 http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm94d7/live.m3u8?se=broadcast&_fk=0&ct=1
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/上海戏曲广播.png" group-title="综合广播",上海戏曲广播
 http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm97d2/live.m3u8?se=broadcast&_fk=0&ct=1
@@ -997,7 +997,7 @@ http://satellitepull.cnr.cn/live/wxjljjgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/吉林乡村广播.png" group-title="综合广播",吉林乡村广播
 http://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2018/1016/20181016033024.jpeg" group-title="综合广播",延边新闻广播
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/延边新闻广播.png" group-title="综合广播",延边新闻广播
 http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/辽宁之声.png" group-title="综合广播",辽宁之声
 http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
@@ -1167,7 +1167,7 @@ http://39.106.225.170/OwtSm84/1000/live.m3u8
 http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/fm997.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/益阳交通频道.png" group-title="综合广播",益阳交通频道·汽车881
 http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/fm881.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://kzqbtv.com/public/images/headlogo1.png" group-title="综合广播",开州之声
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/开州之声.png" group-title="综合广播",开州之声
 http://183.64.174.171:10124/tlgb.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/花都广播电台.png" group-title="综合广播",花都广播电台
 mmst://119.33.31.132:1755/pub
@@ -1229,5 +1229,5 @@ http://23023.live.streamtheworld.com/988_FMAAC.aac
 https://astro1.rastream.com/myfm
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/onefm.png" group-title="国际广播",one FM
 https://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/channel-1BdNCd.jpg" group-title="综合广播",徐州新闻综合广播
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/徐州新闻综合广播.png" group-title="综合广播",徐州新闻综合广播
 http://stream1.huaihai.tv/aac_gbfm93/playlist.m3u8
