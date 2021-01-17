@@ -694,7 +694,7 @@ http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/上海新闻广播.png" group-title="综合广播",上海新闻广播
 http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm93d4/live.m3u8?se=broadcast&_fk=0&ct=1
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/五星体育广播.png" group-title="综合广播",五星体育广播
-http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm94d4/live.m3u8?se=broadcast&_fk=0&ct=1
+http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm94d0/live.m3u8?se=broadcast&_fk=0&ct=1
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/上海经典947.png" group-title="音乐广播",上海经典947
 http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm94d7/live.m3u8?se=broadcast&_fk=0&ct=1
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/上海戏曲广播.png" group-title="综合广播",上海戏曲广播
