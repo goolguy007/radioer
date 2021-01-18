@@ -545,6 +545,12 @@ http://stream.sxsztv.com/live2/playlist.m3u8
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/好听1055.png" group-title="音乐广播",陕西青少广播·好听1055
 http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江西旅游广播.png" group-title="音乐广播",江西旅游广播iFM97.4
+http://playing.cbct.cn/live/36353_swqe2u_100.m3u8
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/合肥资讯广播.png" group-title="音乐广播",合肥资讯广播·YES Radio
+http://playing.cbct.cn/live/36353_swqent_100.m3u8
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/内蒙古音乐之声.png" group-title="音乐广播",内蒙古音乐之声
+http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江西故事广播.png" group-title="音乐广播",江西故事广播·潮台969
 http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长春mixfm.png" group-title="音乐广播",长春MixFM106.3
@@ -573,7 +579,7 @@ rtmp://radiolive.sxrtv.com/live/yinyue
 http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东音乐广播.png" group-title="音乐广播",山东音乐广播
 http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山西文艺广播.png" group-title="音乐广播",山西文艺广播·好听1015
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山西文艺广播.png" group-title="综合广播",山西文艺广播·好听1015
 rtmp://radiolive.sxrtv.com/live/wenyi
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东经典音乐广播.png" group-title="音乐广播",山东经典音乐广播
 http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
@@ -685,7 +691,7 @@ http://live.zohi.tv/audio/s10001-FM901/index.m3u8
 http://live.zohi.tv/audio/s10001-FM876/index.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/福州新闻广播.png" group-title="综合广播",福州新闻广播
 http://live.zohi.tv/audio/s10001-FM944/index.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/金鹰955.png" group-title="综合广播",金鹰955
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/金鹰955.png" group-title="综合广播",金鹰之声
 http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/hitfm.png" group-title="国广央广",HIT FM
 http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
@@ -1079,7 +1085,7 @@ http://ihzlh.linker.cc/ihzlh/zjnb_ts05_904.m3u8
 http://ihzlh.linker.cc/ihzlh/zjnb_ts01_939.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波经济广播.png" group-title="综合广播",宁波经济广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南新闻综合广播.png" group-title="综合广播",湖南新闻综合广播
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南新闻综合广播.png" group-title="综合广播",湖南综合广播
 http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南交通广播.png" group-title="综合广播",湖南交通广播
 http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
@@ -1219,7 +1225,7 @@ https://live1.kxm.xmtv.cn/aac_zhgb/playlist.m3u8
 https://live1.kxm.xmtv.cn/aac_xmjjjt/sd/live.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/闽南之声.png" group-title="综合广播",厦门闽南之声
 https://live1.kxm.xmtv.cn/aac_mnzs/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/myradio.png" group-title="音乐广播",My Radio·音乐有话说
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/myradio.png" group-title="音乐广播",河南影视广播·My Radio
 http://stream2.hndt.com/zbj/MyRadio900.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/capital958.png" group-title="国际广播",CAPITAL 958
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
