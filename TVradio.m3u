@@ -231,8 +231,12 @@ http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8
 http://hdtv.lzu6.edu.cn/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外频道",凤凰卫视中文台
 http://hdtv.lzu6.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外频道",凤凰卫视中文台FHD
+http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外频道",凤凰卫视资讯台
 http://hdtv.lzu6.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外频道",凤凰卫视资讯台FHD
+http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="境外频道",探索频道
 http://hdtv.lzu6.edu.cn/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字频道",欢笑剧场4K
@@ -544,7 +548,7 @@ http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/好听1055.png" group-title="音乐广播",陕西青少广播·好听1055
 http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江西旅游广播.png" group-title="音乐广播",江西旅游广播iFM97.4
-http://playing.cbct.cn/live/36353_swqe2u_100.m3u8
+https://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_pyhgb_aac.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/合肥资讯广播.png" group-title="音乐广播",合肥资讯广播·YES Radio
 http://playing.cbct.cn/live/36353_swqent_100.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/内蒙古音乐之声.png" group-title="音乐广播",内蒙古音乐之声
@@ -569,7 +573,7 @@ http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
 http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm101d7/live.m3u8?se=broadcast&_fk=0&ct=1
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/loveradio.png" group-title="音乐广播",上海经典金曲广播·love💋radio
 http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm103d7/live.m3u8?se=broadcast&_fk=0&ct=1
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/苏州音乐广播.png" group-title="音乐广播",苏州音乐广播
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/苏州音乐广播.png" group-title="音乐广播",苏州都市音乐广播·自在1028
 http://audio-live.radio.cn/live/szyy1/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山西音乐广播.png" group-title="音乐广播",山西音乐广播
 rtmp://radiolive.sxrtv.com/live/yinyue
