@@ -107,6 +107,8 @@ http://hdtv.lzu6.edu.cn/hls/hls95.m3u8
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ctstvnet.com/uploads/image/20190904/1567573278176773.png" group-title="境外频道",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外频道",莲花卫视
+http://149.129.100.78/lotus.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/aomen-macau.jpg" group-title="境外频道",澳门卫星
 http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmgq.jpg" group-title="境外频道",澳门综艺
@@ -566,7 +568,7 @@ http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/摩登音乐台.png" group-title="音乐广播",湖南文艺广播·摩登音乐台
 http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江西旅游广播.png" group-title="音乐广播",江西旅游广播iFM97.4
-https://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_pyhgb_aac.m3u8
+mmst://111.75.206.136/poyanghu
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长春摩登900.png" group-title="音乐广播",长春摩登900
 http://starfish.bj.aliyun.005.qingting.fm:8000/FM90.0niandaiyinletai
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/合肥资讯广播.png" group-title="音乐广播",合肥资讯广播·YES Radio
@@ -574,7 +576,7 @@ http://playing.cbct.cn/live/36353_swqent_100.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/内蒙古音乐之声.png" group-title="音乐广播",内蒙古音乐之声
 http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江西故事广播.png" group-title="音乐广播",江西故事广播·潮台969
-http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969.m3u8
+mmst://111.75.206.136/myfm969
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/轻松调频.png" group-title="国广央广",轻松调频
 http://sk.cri.cn/915.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/中国交通广播.png" group-title="国广央广",中国交通广播
@@ -583,6 +585,8 @@ http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/潇湘之声.png" group-title="综合广播",News938潇湘之声
 http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/房山电台.png" group-title="综合广播",房山电台
+http://live.funhillrm.com/3/sd/live.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/动感101.png" group-title="音乐广播",上海流行音乐广播·动感101
 http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm101d7/live.m3u8?se=broadcast&_fk=0&ct=1
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/loveradio.png" group-title="音乐广播",上海经典金曲广播·love💋radio
@@ -952,11 +956,11 @@ http://satellitepull.cnr.cn/live/wx32fjdnjtgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/福建东南广播.png" group-title="综合广播",福建东南广播
 http://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江西新闻广播.png" group-title="综合广播",江西新闻广播
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江西新闻广播.png" group-title="综合广播",江西综合新闻广播
 http://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江西都市广播.png" group-title="综合广播",江西都市广播
 http://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江西交通广播.png" group-title="综合广播",江西交通广播
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江西交通广播.png" group-title="综合广播",江西信息交通广播
 http://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江西民生广播.png" group-title="综合广播",江西民生广播
 http://satellitepull.cnr.cn/live/wx32jiangxmsgb/playlist.m3u8
