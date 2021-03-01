@@ -839,8 +839,6 @@ http://ivi6.bupt.edu.cn/hls/gxhd.m3u8
 http://ivi6.bupt.edu.cn/hls/jlhd.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://ivi6.bupt.edu.cn/hls/schd.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv1.png" group-title="卫视",中国教育1台
-http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://ivi6.bupt.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
@@ -853,10 +851,6 @@ http://149.129.100.78/guangdong.php?id=66
 http://ivi6.bupt.edu.cn/hls/sstv.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
 http://149.129.100.78/guangdong.php?id=51
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv3.png" group-title="卫视",中国教育3台
-http://ivi6.bupt.edu.cn/hls/cetv3.m3u8
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv4.png" group-title="卫视",中国教育4台
-http://ivi6.bupt.edu.cn/hls/cetv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.rmb.bdstatic.com/1b45a887efeb6548e55b6e5e4d48073f.png" group-title="卫视",山东教育卫视
 http://ivi6.bupt.edu.cn/hls/sdetv.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
@@ -873,6 +867,14 @@ http://[2001:250:5405:13::47]/hls/hls69a25.m3u8
 http://[2001:250:5405:13::47]/hls/hls75a26.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv1.png" group-title="卫视",中国教育1台FHD
 http://[2001:250:5405:13::47]/hls/hls67a45.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv1.png" group-title="卫视",中国教育1台
+http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="" group-title="卫视",中国教育2台
+http://149.129.100.78/cetv.php?id=cetv2
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv3.png" group-title="卫视",中国教育3台
+http://ivi6.bupt.edu.cn/hls/cetv3.m3u8
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv4.png" group-title="卫视",中国教育4台
+http://ivi6.bupt.edu.cn/hls/cetv4.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视FHD
 http://[2001:250:5405:13::47]/hls/hls125.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视FHD
