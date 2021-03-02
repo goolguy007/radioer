@@ -1687,6 +1687,8 @@ http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/hitfm.png" group-title="音乐广播",HIT FM
 http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/绵阳音乐广播.png" group-title="音乐广播",绵阳音乐广播
+http://live.sctvcloud.com/live/yygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/好听1055.png" group-title="音乐广播",陕西青少广播·好听1055
 http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/动感101.png" group-title="音乐广播",上海流行音乐广播·动感101
