@@ -57,6 +57,10 @@ http://hdtv.lzu6.edu.cn/hls/hls184a89.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls184a515.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",音乐台
 http://[2001:250:5405:13::47]/PLTV/88888888/224/3221226120/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tog-logo="" group-title="数字",虎牙音乐新歌榜
+http://149.129.100.78/huya.php?id=20432223
+#EXTINF:-1 tvg-id="" tvg-name="" tog-logo="" group-title="数字",一周流行推荐
+http://149.129.100.78/huya.php?id=22971119
 #EXTINF:-1 tvg-id="6650" tvg-name="欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="数字",欧美影院
 http://[2001:250:5405:13::47]/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",亚洲影院
