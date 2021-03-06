@@ -1559,9 +1559,9 @@ rtmp://radiolive.sxrtv.com/live/jingji
 rtmp://radiolive.sxrtv.com/live/zonghe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/山西故事广播.png" group-title="综合广播",山西故事广播
 rtmp://radiolive.sxrtv.com/live/gushi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宜昌新闻综合广播.png" group-title="综合广播",宜昌新闻综合广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宜昌广播.png" group-title="综合广播",宜昌新闻综合广播
 http://playfmaliyun.3xgd.com/fm/xwt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宜昌交通广播.png" group-title="综合广播",宜昌交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宜昌广播.png" group-title="综合广播",宜昌交通广播
 http://playfmaliyun.3xgd.com/fm/jtt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/欢乐调频.png" group-title="综合广播",欢乐调频
 http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin
@@ -1733,7 +1733,7 @@ http://bst.broadcast.live.bestvcdn.com.cn/live/program/live/fm103d7/live.m3u8?se
 http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东经典音乐广播.png" group-title="音乐广播",山东经典音乐广播
 http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宜昌音乐生活广播.png" group-title="音乐广播",宜昌音乐生活广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宜昌广播.png" group-title="音乐广播",宜昌音乐生活广播
 http://playfmaliyun.3xgd.com/fm/qct.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江西旅游广播.png" group-title="音乐广播",江西旅游广播iFM97.4
 mmst://111.75.206.136/poyanghu
