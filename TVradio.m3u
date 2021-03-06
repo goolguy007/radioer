@@ -333,6 +333,12 @@ http://149.129.100.78/hunan.php?id=344
 http://149.129.100.78/hunan.php?id=484
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南国际
 http://149.129.100.78/hunan.php?id=229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宜昌综合
+http://149.129.100.78/yichang.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宜昌旅游生活
+http://149.129.100.78/yichang.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宜昌公共
+http://149.129.100.78/yichang.php?id=11
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大连新闻综合
 rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?t
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大连生活
