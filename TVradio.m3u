@@ -1121,7 +1121,7 @@ mmst://goldfm.cn/goldfm
 mmst://asiafm.cn/asiahd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2018/01/05/1515144881197542.png" group-title="网络广播" radio="true",星河音乐台
 http://stream.hndt.com/live/1061/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络广播" radio="true",金十电台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/金十电台.png" group-title="网络广播" radio="true",金十电台
 http://fmcdn.jin10.com/AAC/voice.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-web-us-west-2-tunein-com.s3-us-west-2.amazonaws.com/assets/img/shared/tiles/todays-hits-small.jpg" group-title="网络广播" radio="true",Today’s Hits
 http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
