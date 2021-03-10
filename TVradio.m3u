@@ -333,6 +333,8 @@ http://149.129.100.78/hunan.php?id=344
 http://149.129.100.78/hunan.php?id=484
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南国际
 http://149.129.100.78/hunan.php?id=229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南教育
+http://pull.hnedutv.com/live/hnedutv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宜昌综合
 http://149.129.100.78/yichang.php?id=zhpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宜昌旅游生活
