@@ -347,6 +347,14 @@ http://149.129.100.78/yichang.php?id=zhpd
 http://149.129.100.78/yichang.php?id=lysw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宜昌公共
 http://149.129.100.78/yichang.php?id=ggpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁新闻综合
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁都市生活
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁影视娱乐
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁公共
+http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大连新闻综合
 rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?t
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大连生活
