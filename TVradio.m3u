@@ -1131,6 +1131,8 @@ http://live.mastvnet.com/4rlff1m/live.m3u8
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ctstvnet.com/uploads/image/20190904/1567573278176773.png" group-title="境外",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/全球华语音乐之声.png" group-title="网络广播" radio="true",全球华语音乐之声
+http://starfish.bj.aliyun.002.qingting.fm:8000/quanqiuhuayuyinle
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/亚洲音乐台.png" group-title="网络广播" radio="true",AsiaFM亚洲音乐台
 mmst://asiafm.cn/asiafm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/亚洲天空台.png" group-title="网络广播" radio="true",AsiaFM亚洲天空台
