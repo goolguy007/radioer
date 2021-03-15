@@ -385,6 +385,18 @@ http://149.129.100.78/dxxw.php?id=151
 http://149.129.100.78/dxxw.php?id=152
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南国际
 http://149.129.100.78/dxxw.php?id=153
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",郑州新闻综合
+http://stream1.zztv.tv/zhpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",郑州商都
+http://stream2.zztv.tv/zztv2/sd/live.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",郑州文体旅游
+http://stream1.zztv.tv/zztv3/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",郑州影视戏曲
+http://stream2.zztv.tv/zztv4/sd/live.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",郑州妇女儿童
+http://stream1.zztv.tv/zztv5/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",郑州都市生活
+http://stream2.zztv.tv/zztv6/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃都市
 https://hls.gstv.com.cn/49048r/l54391.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃公共
