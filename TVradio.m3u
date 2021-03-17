@@ -21,7 +21,7 @@ http://hdtv.lzu6.edu.cn/hls/hls78a48.m3u8
 http://[2001:250:5405:13::47]/hls/hls167.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/高清HD大众影视.png" group-title="数字",大众影视
 http://[2001:250:5405:13::47]/hls/hls75a27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",北京IPTV 4K超高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",北京IPTV 4K超清
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",北京IPTV 淘剧场
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
