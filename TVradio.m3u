@@ -1051,6 +1051,24 @@ http://[2001:250:5405:13::47]/hls/natlgeo.m3u8
 http://[2001:250:5405:13::47]/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",莲花卫视
 http://149.129.100.78/lotus.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",KBS1
+http://149.129.100.78/kbs.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",KBS2
+http://149.129.100.78/kbs.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",KBS World
+http://149.129.100.78/kbs.php?id=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",KBS24
+http://149.129.100.78/kbs.php?id=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",KBS Drama
+http://149.129.100.78/kbs.php?id=5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",KBS Joy
+http://149.129.100.78/kbs.php?id=6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",KBSN Life
+http://149.129.100.78/kbs.php?id=7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",KBS W
+http://149.129.100.78/kbs.php?id=8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",KBSN Kids
+http://149.129.100.78/kbs.php?id=9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",大爱2台
