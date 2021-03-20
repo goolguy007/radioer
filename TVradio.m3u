@@ -1631,7 +1631,7 @@ http://ngcdn012.cnr.cn/live/zygb/index.m3u8
 http://ngcdn025.cnr.cn/live/hygb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",POP Radio
 https://hitoradio-hichannel.cdn.hinet.net/live/pool/hich-ra000080/ra-hls/index.m3u8?token1=8Z_0s-pYqd0vmT39I5vc9Q&token2=8uHjV345akU2IRnzGgoVnA&expire1=2514758400&expire2=2199139200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm联播网.png" group-title="境外广播" radio="true",HitFM联播网|台北之音
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/newhitfm.png" group-title="境外广播" radio="true",HitFM联播网|台北之音
 http://hitoradio-hichannel.cdn.hinet.net/live/pool/hich-ra000036/ra-hls/index.m3u8?token1=TU1L4WVv_nJYBJV8QVYmCQ&token2=knJACYm2jKSeMqtm7ocb0w&expire1=2514758400&expire2=2199139200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hiradio.png" group-title="境外广播" radio="true",hi radio
 http://stream.rcs.revma.com/m5vcf26np7zuv
