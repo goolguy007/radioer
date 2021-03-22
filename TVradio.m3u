@@ -1161,6 +1161,29 @@ http://live.mastvnet.com/4rlff1m/live.m3u8
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ctstvnet.com/uploads/image/20190904/1567573278176773.png" group-title="境外",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+http://cm.wshls.homecdn.com/live/4387.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息综合台
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息真理台
+http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息3
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息5
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息天堂敬拜
+http://live.streamingfast.net/osmflivech40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息祷告频道
+http://live.streamingfast.net/osmflivech49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息牧者频道
+http://live.streamingfast.net/osmflivech47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息亲近神诗歌音乐
+http://live.streamingfast.net/osmflivech6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息华语讲员
+http://live.streamingfast.net/osmflivech21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息现代诗歌
+http://live.streamingfast.net/osmflivech28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息空中圣经学院
+http://live.streamingfast.net/osmflivech27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/全球华语音乐之声.png" group-title="网络广播" radio="true",全球华语音乐之声
 http://starfish.bj.aliyun.002.qingting.fm:8000/quanqiuhuayuyinle
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/亚洲音乐台.png" group-title="网络广播" radio="true",AsiaFM亚洲音乐台
