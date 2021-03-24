@@ -1242,6 +1242,8 @@ http://sfy2011.hj0758.cn:8000/zb2020.mp3
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经济之声.png" group-title="综合广播" radio="true",经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/台海之声.png" group-title="综合广播" radio="true",台海之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/中国交通广播.png" group-title="综合广播" radio="true",中国交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/环球资讯广播.png" group-title="综合广播" radio="true",环球资讯广播
@@ -1284,8 +1286,6 @@ http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/cnr神州之声.png" group-title="综合广播" radio="true",神州之声
 http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/cnr中华之声.png" group-title="综合广播" radio="true",中华之声
-http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://f2.cri.cn/M00/8D/F9/CqgNOlr5LoOAeOC0AAAAAAAAAAA4780633.logo.png" group-title="综合广播" radio="true",南海之声
 http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/华语环球广播.png" group-title="综合广播" radio="true",华语环球广播
