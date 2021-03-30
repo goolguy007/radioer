@@ -1792,7 +1792,7 @@ http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/苏州音乐广播.png" group-title="音乐广播" radio="true",苏州都市音乐广播·自在1028
 http://audio-live.radio.cn/live/szyy1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山西音乐广播.png" group-title="音乐广播" radio="true",山西音乐广播
-rtmp://radiolive.sxrtv.com/live/yinyue
+https://radiolive.sxrtv.com/live/yinyue/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长春mixfm.png" group-title="音乐广播" radio="true",长春MixFM106.3
 http://starfish.bj.aliyun.002.qingting.fm:8000/changchunMIX1063
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/动感101.png" group-title="音乐广播" radio="true",上海流行音乐广播·动感101
