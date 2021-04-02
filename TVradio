@@ -1234,7 +1234,7 @@ http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498187765828570.png" group-title="网络广播" radio="true",国乐悠扬
 http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/怀集音乐之声.png" group-title="网络广播" radio="true",怀集音乐之声
-http://sfy2011.hj0758.cn:8000/wx320.mp3
+http://sfy2011.hj0758.cn:8000/2012.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/西江之声.png" group-title="网络广播" radio="true",西江之声
 http://sfy2011.hj0758.cn:8000/zb2020.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/中国之声.png" group-title="综合广播" radio="true",中国之声
