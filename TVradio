@@ -493,6 +493,10 @@ http://149.129.100.78/yangzhou.php?id=236
 http://149.129.100.78/yangzhou.php?id=290
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",扬州邗江
 http://149.129.100.78/yangzhou.php?id=292
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",常熟新闻综合
+http://149.129.100.78/changshu.php?id=xwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",常熟民生经济
+http://149.129.100.78/changshu.php?id=msjj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",杭州综合
 http://149.129.100.78/hz.php?id=hztv1
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="地方",杭州西湖明珠
