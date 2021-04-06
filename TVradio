@@ -275,6 +275,8 @@ http://149.129.100.78/tv.php?id=sxjjzx
 http://149.129.100.78/tv.php?id=sxys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg" group-title="地方",山西公共
 http://149.129.100.78/tv.php?id=sxgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",太原教育
+http://playhls.shineoninteraction.top/taiyuan/800fb160-44eb-11eb-8ae6-fa26000167fb.m3u8
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="地方",峨眉电影
 http://scgctvshow.sctv.com/hdlive/emei/index.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="地方",东方影视
@@ -1058,7 +1060,7 @@ http://[2001:250:5405:13::47]/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="境外",探索频道
 http://[2001:250:5405:13::47]/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",莲花卫视
-http://149.129.100.78/lotus.php?id=1
+http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",KBS-1
 http://149.129.100.78/kbs.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",KBS-2
