@@ -1045,6 +1045,8 @@ http://[2001:250:5405:13::47]/PLTV/88888888/224/3221226758/1.m3u8
 http://[2001:250:5405:13::47]/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",V2BEAT
+http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/星空卫视.png" group-title="境外",星空卫视
 http://[2001:250:5405:13::47]/hls/startv.m3u8
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/凤凰卫视电影台.png" group-title="境外",凤凰卫视电影台
