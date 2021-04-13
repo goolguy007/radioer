@@ -624,15 +624,13 @@ http://149.129.100.78/tv.php?id=zszh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中山教育
 http://149.129.100.78/tv.php?id=zsjy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南昌新闻综合
-http://149.129.100.78/nanchang.php?id=1
+http://149.129.100.78/nc.php?id=nctv1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南昌都市
-http://149.129.100.78/nanchang.php?id=2
+http://149.129.100.78/nc.php?id=nctv2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南昌资讯
-http://149.129.100.78/nanchang.php?id=3
+http://149.129.100.78/nc.php?id=nctv3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南昌公共
-http://149.129.100.78/nanchang.php?id=4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南昌县电视台
-http://149.129.100.78/nanchang.php?id=8
+http://149.129.100.78/nc.php?id=nctv4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州新闻综合
 http://149.129.100.78/suzhou.php?id=szxw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州社会经济
@@ -1554,11 +1552,11 @@ https://live1.kxm.xmtv.cn/aac_xmjjjt/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/闽南之声.png" group-title="综合广播" radio="true",厦门闽南之声
 https://live1.kxm.xmtv.cn/aac_mnzs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/南昌综合广播.png" group-title="综合广播" radio="true",南昌综合广播
-http://149.129.100.78/nanchang.php?id=5
+http://149.129.100.78/nc.php?id=fm917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/南昌交通音乐广播.png" group-title="综合广播" radio="true",南昌交通音乐广播
-http://149.129.100.78/nanchang.php?id=6
+http://149.129.100.78/nc.php?id=fm951
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/南昌经济生活广播.png" group-title="综合广播" radio="true",南昌经济生活广播
-http://149.129.100.78/nanchang.php?id=7
+http://149.129.100.78/nc.php?id=fm897
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/福州左海之声.png" group-title="综合广播" radio="true",福州左海之声
 http://live.zohi.tv/audio/s10001-FM901/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/福州交通广播.png" group-title="综合广播" radio="true",福州交通之声
