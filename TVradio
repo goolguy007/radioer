@@ -430,13 +430,13 @@ http://live6.plus.hebtv.com/sekjx/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河北公共
 http://live7.plus.hebtv.com/hbggx/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙政法
-https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+http://149.129.100.78/cs.php?id=348
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20200109/f5078b7d3a8f020b8d6f6fcdcd938f1d.jpeg" group-title="地方",长沙影视
-https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+http://149.129.100.78/cs.php?id=350
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙新闻
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+http://149.129.100.78/cs.php?id=346
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙女性
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+http://149.129.100.78/cs.php?id=349
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahjjsh.jpg" group-title="地方",安徽经济生活
 http://149.129.100.78/anhui.php?id=71
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/anhys.jpg" group-title="地方",安徽影视
