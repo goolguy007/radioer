@@ -816,9 +816,9 @@ http://stream2.xiancity.cn/xatv5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.66zhibo.net/d/file/2018/0806/af2ee98fb3e3b7fcafb3bbbdae9d7957.jpg" group-title="地方",西安乐购购物
 http://stream2.xiancity.cn/xatv6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jisutiyu.com/uploads/150706/16-150F61J645626.jpg" group-title="地方",潮州公共
-http://live.zscz0768.com/live/ggpd.m3u8
+http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jisutiyu.com/uploads/150706/16-150F61J645626.jpg" group-title="地方",潮州综合
-http://live.zscz0768.com/live/zhpd.m3u8
+http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv1.jpg" group-title="地方",福州新闻综合
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv2.jpg" group-title="地方",福州影视
