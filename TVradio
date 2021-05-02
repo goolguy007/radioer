@@ -1306,7 +1306,7 @@ http://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/轻松调频.png" group-title="综合广播" radio="true",轻松调频
 http://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/文艺之声.png" group-title="综合广播" radio="true",文艺之声
-http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0701/20200701052348.png" group-title="综合广播" radio="true",交通广播网
 http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南新闻综合广播.png" group-title="综合广播" radio="true",湖南综合广播
