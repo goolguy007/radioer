@@ -1687,6 +1687,8 @@ http://stream.rcs.revma.com/aw9uqyxy2tzuv
 http://cast.news98.com.tw:8000/pntx1639ntzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/飞碟电台.png" group-title="境外广播" radio="true",飞碟电台
 http://cast.uforadio.com.tw:8000/em90w4aeewzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/澳门电台.png" group-title="境外广播" radio="true",澳门电台
+https://live4.tdm.com.mo/live/_definst_/rch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/宝岛联播网.png" group-title="境外广播" radio="true",宝岛联播网|宝岛新声
 http://stream.superfm99-1.com.tw:8555
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/rti.png" group-title="境外广播" radio="true",RTI国语
