@@ -1765,6 +1765,10 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_ra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/bbcradio/bbc6.png" group-title="境外广播" radio="true",BBC Radio 6
 https://as-hls-ww-live.bbcfmt.s.llnwi.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kcrw.com/music/shows/eclectic24/@@images/square_image/giant-square" group-title="境外广播" radio="true",Eclectic24
+https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/vocalo.org/wp-content/uploads/2017/01/black_teal_square.png?resize=170%2C170&ssl=1" group-title="境外广播" radio="true",VOCALO
+https://stream.wbez.org/vocalolinear
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/wunc_fm.png" group-title="境外广播" radio="true",n p r | WUNC
 http://216.246.39.189/wunc-source
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/kjzz_fm.png" group-title="境外广播" radio="true",n p r | KJZZ
