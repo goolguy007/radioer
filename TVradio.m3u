@@ -344,7 +344,6 @@ http://149.129.100.78/hunan.php?id=484
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南国际
 http://149.129.100.78/hunan.php?id=229
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南教育
-http://pull.hnedutv.com/live/hnedutv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宜昌综合
 http://149.129.100.78/yichang.php?id=zhpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宜昌旅游生活
@@ -608,15 +607,17 @@ http://149.129.100.78/cdtv.php?id=5
 #EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="地方",成都少儿
 http://149.129.100.78/cdtv.php?id=6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑龙江影视
-http://stream3.hljtv.com/hljys2/sd/live.m3u8
+http://idclive.hljtv.com:8080/live/yingshi_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑龙江都市
-http://stream3.hljtv.com/hljdd2/sd/live.m3u8
+http://idclive.hljtv.com:8080/live/dushi_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑龙江新闻法治
-http://stream3.hljtv.com/hljxw2/sd/live.m3u8
+http://idclive.hljtv.com:8080/live/xinwen_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑龙江少儿
-http://stream3.hljtv.com/hljse2/sd/live.m3u8
+http://idclive.hljtv.com:8080/live/shaoer_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑龙江文体
-http://stream3.hljtv.com/hljwy2/sd/live.m3u8
+http://idclive.hljtv.com:8080/live/wenyi_sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑龙江公共农业
+http://idclive.hljtv.com:8080/live/gonggong_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中山公共
 http://149.129.100.78/tv.php?id=zsgg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中山综合
