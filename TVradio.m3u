@@ -11,8 +11,6 @@ http://hdtv.lzu6.edu.cn/hls/hls185a97.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱映画
 http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",酷喵云LIVE
-https://cloud-live.kumiaocloud.com/live/hellolive.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/高清HD家庭剧场.png" group-title="数字",家庭剧场
 http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/高清HD家庭影院.png" group-title="数字",家庭影院
@@ -57,82 +55,8 @@ http://hdtv.lzu6.edu.cn/hls/hls184a91.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls184a89.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字",世界地理
 http://hdtv.lzu6.edu.cn/hls/hls184a515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",音乐台
-http://hdtv.lzu6.edu.cn/PLTV/88888888/224/3221226120/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tog-logo="" group-title="数字",虎牙音乐新歌榜
-http://149.129.100.78/huya.php?id=20432223
-#EXTINF:-1 tvg-id="" tvg-name="" tog-logo="" group-title="数字",一周流行推荐
-http://149.129.100.78/huya.php?id=22971119
-#EXTINF:-1 tvg-id="6650" tvg-name="欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="数字",欧美影院
-http://hdtv.lzu6.edu.cn/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",亚洲影院
-http://hdtv.lzu6.edu.cn/PLTV/88888888/224/3221226245/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",黑莓电影
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.weathertv.cn/m/i/documentary/logo.png" group-title="数字",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",埋堆堆1台
-http://149.129.100.78/huya.php?id=23740156
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",埋堆堆2台
-http://149.129.100.78/huya.php?id=23734183
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",TVB剧集台
-http://149.129.100.78/huya.php?id=23735126
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",TVB古装大片
-http://149.129.100.78/huya.php?id=23865025
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",永州影视
-http://hls.haokan.bdstatic.com/haokan/stream_bduid_1628726667_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",周口影视
-http://hls.haokan.bdstatic.com/haokan/stream_bduid_1646578943_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",星级剧集台
-http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",怀旧经典台
-http://hls.haokan.bdstatic.com/haokan/stream_bduid_1868968677_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",齐影视综合
-http://hls.haokan.bdstatic.com/haokan/stream_bduid_756209034_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",齐影视电视剧
-http://hls.haokan.bdstatic.com/haokan/stream_bduid_2477966232_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",周星驰电影
-http://149.129.100.78/huya.php?id=11342412
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",虎牙8点档
-http://149.129.100.78/huya.php?id=880261
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",喜剧大片
-http://149.129.100.78/huya.php?id=23352525
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",高分好片
-http://149.129.100.78/huya.php?id=23352530
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",动作大片
-http://149.129.100.78/huya.php?id=23352535
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",警匪大片
-http://149.129.100.78/huya.php?id=23358421
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱情大片
-http://149.129.100.78/huya.php?id=23358431
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",悬疑恐怖
-http://149.129.100.78/huya.php?id=23358441
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",梦剧场
-http://149.129.100.78/egame.php?id=616645877
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",蚂蚁经典怀旧影院
-http://149.129.100.78/egame.php?id=157023183
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱情公寓
-http://149.129.100.78/egame.php?id=322842111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",德云电视台
-http://149.129.100.78/egame.php?id=620346223
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",星光经典台
-http://149.129.100.78/egame.php?id=670235113
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",香港喜剧电影
-http://149.129.100.78/youku.php?id=8097366
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",校园经典
-http://149.129.100.78/youku.php?id=8018659
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",末世硬核
-http://149.129.100.78/youku.php?id=8019690
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",欧美英雄
-http://149.129.100.78/youku.php?id=8026516
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",金庸武侠
-http://149.129.100.78/youku.php?id=8026519
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",硬汉厅
-http://149.129.100.78/youku.php?id=8032842
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",亲子厅
-http://149.129.100.78/youku.php?id=8032841
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",少女厅
-http://149.129.100.78/youku.php?id=8032840
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC动作电影
 http://hdtv.lzu6.edu.cn/hls/hls261.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC高清电影
@@ -161,50 +85,6 @@ http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls6.m3u8
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/radioer/photo/raw/main/CCTV-怀旧剧场.png" group-title="数字",怀旧剧场FHD
 http://hdtv.lzu6.edu.cn/hls/hls184a518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN经典剧场
-http://149.129.100.78/cibn.php?id=107
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN古装剧场
-http://149.129.100.78/cibn.php?id=80
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN炫佳动漫
-http://149.129.100.78/cibn.php?id=81
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN怡家
-http://149.129.100.78/cibn.php?id=79
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN动漫剧场
-http://149.129.100.78/cibn.php?id=99
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN骄阳剧场
-http://149.129.100.78/cibn.php?id=98
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN流金岁月
-http://149.129.100.78/cibn.php?id=97
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN纪录片
-http://149.129.100.78/cibn.php?id=103
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN新知
-http://149.129.100.78/cibn.php?id=104
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN幼儿绘画教程
-http://149.129.100.78/cibn.php?id=57
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN真人秀
-http://149.129.100.78/cibn.php?id=106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN风尚运动
-http://149.129.100.78/cibn.php?id=108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN东方教育
-http://149.129.100.78/cibn.php?id=113
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN综合
-http://149.129.100.78/cibn.php?id=112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN全电竞
-http://149.129.100.78/cibn.php?id=115
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN映画
-http://149.129.100.78/cibn.php?id=120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN时尚生活
-http://149.129.100.78/cibn.php?id=122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN嗨播
-http://149.129.100.78/cibn.php?id=136
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN MV
-http://149.129.100.78/cibn.php?id=338
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN流行榜单
-http://149.129.100.78/cibn.php?id=155
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CIBN巨星演唱会
-http://149.129.100.78/cibn.php?id=135
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",动漫电影
-http://hdtv.lzu6.edu.cn/PLTV/88888888/224/3221226178/index.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="数字",IPTV少儿动画
 http://hdtv.lzu6.edu.cn/hls/hls104.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="数字",游戏风云
@@ -1075,15 +955,15 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="境外",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台
-http://149.129.100.78/fhx.php?id=2
+http://zb.ios.ifeng.com:80/live/05QGDA0CIRK/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台FHD
 http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台
-http://149.129.100.78/fhx.php?id=1
+http://zb.ios.ifeng.com:80/live/05QGCOB3T34/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台FHD
 http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="境外",凤凰卫视香港台
-http://149.129.100.78/fhx.php?id=3
+http://zb.ios.ifeng.com:80/live/05QGDOFQJ28/index.m3u8
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/凤凰卫视电影台.png" group-title="境外",凤凰卫视电影台
 http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/channelv.png" group-title="境外",[V]
