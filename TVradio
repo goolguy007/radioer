@@ -1016,30 +1016,6 @@ http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="境外",民视新闻台
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="境外",纬来日本
-rtmp://59.124.75.156/sat/tv521
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="境外",东森财经新闻
-rtmp://59.124.75.156/sat/tv571
-#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="境外",民视
-rtmp://59.124.75.156/sat/tv051
-#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="境外",台视
-rtmp://59.124.75.156/sat/tv071
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="境外",华视
-rtmp://59.124.75.156/sat/tv111
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="https://gitee.com/radioer/radioer/raw/main/中视.jpg" group-title="境外",中视
-rtmp://59.124.75.156/sat/tv091
-#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="境外",TVBS欢乐台
-rtmp://59.124.75.156/sat/tv421
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="境外",TVBS新闻台
-rtmp://59.124.75.156/sat/tv551
-#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="境外",纬来育乐
-rtmp://59.124.75.156/sat/tv701
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="境外",纬来体育
-rtmp://59.124.75.156/sat/tv721
-#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="境外",东森超视
-rtmp://59.124.75.156/sat/tv771
-#EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1911191932380-L.jpg" group-title="境外",MOMO综合
-rtmp://59.124.75.156/sat/tv761
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="境外",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="境外",BabyFirst
