@@ -45,6 +45,10 @@ http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字",全纪实
 http://hdtv.lzu6.edu.cn/hls/hls184a639.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="" tvg-logo="" group-title="数字",魅力足球
+http://140.207.241.2:8080/live/program/live/mlyyhd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="" tvg-logo="" group-title="数字",幸福彩
+http://140.207.241.2:8080/live/program/live/xfchd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="数字",极速汽车
 http://hdtv.lzu6.edu.cn/hls/hls184a94.m3u8
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="数字",快乐垂钓
@@ -164,6 +168,7 @@ http://hdtv.lzu6.edu.cn/PLTV/88888888/224/3221226189/index.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
 http://hdtv.lzu6.edu.cn/PLTV/88888888/224/3221226172/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="地方",五星体育
+http://140.207.241.2:8080/live/program/live/ssty/2300000/mnf.m3u8
 http://play.gsports.net.cn/Gsports/001.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市
 http://149.129.100.78/kankan.php?id=90
