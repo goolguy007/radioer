@@ -925,6 +925,10 @@ http://hdtv.lzu6.edu.cn/hls/hls186a13.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls71a13.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV 4K超高清
 http://hdtv.lzu6.edu.cn/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now新闻台
+http://149.129.100.78/now.php?id=332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now直播台
+http://149.129.100.78/now.php?id=331
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",BBC News
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="境外",RTHK31
