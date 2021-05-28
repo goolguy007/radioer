@@ -169,7 +169,6 @@ http://hdtv.lzu6.edu.cn/PLTV/88888888/224/3221226189/index.m3u8
 http://hdtv.lzu6.edu.cn/PLTV/88888888/224/3221226172/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="地方",五星体育
 http://140.207.241.2:8080/live/program/live/ssty/2300000/mnf.m3u8
-http://play.gsports.net.cn/Gsports/001.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市
 http://149.129.100.78/kankan.php?id=90
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="地方",上海新闻综合
