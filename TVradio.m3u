@@ -925,10 +925,25 @@ http://hdtv.lzu6.edu.cn/hls/hls186a13.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls71a13.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV 4K超高清
 http://hdtv.lzu6.edu.cn/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台
+http://zb.ios.ifeng.com:80/live/05QGDA0CIRK/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台FHD
+http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台
+http://zb.ios.ifeng.com:80/live/05QGCOB3T34/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台FHD
+http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="境外",凤凰卫视香港台
+http://zb.ios.ifeng.com:80/live/05QGDOFQJ28/index.m3u8
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/凤凰卫视电影台.png" group-title="境外",凤凰卫视电影台
+http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/channelv.png" group-title="境外",[V]
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now新闻台
 http://149.129.100.78/now.php?id=332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now直播台
 http://149.129.100.78/now.php?id=331
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="境外",民视新闻台
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",BBC News
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="境外",RTHK31
@@ -963,19 +978,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="境外",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台
-http://zb.ios.ifeng.com:80/live/05QGDA0CIRK/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台FHD
-http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台
-http://zb.ios.ifeng.com:80/live/05QGCOB3T34/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台FHD
-http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="境外",凤凰卫视香港台
-http://zb.ios.ifeng.com:80/live/05QGDOFQJ28/index.m3u8
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/凤凰卫视电影台.png" group-title="境外",凤凰卫视电影台
-http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/channelv.png" group-title="境外",[V]
 http://hdtv.lzu6.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
@@ -1023,8 +1025,6 @@ http://live2.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg" group-title="境外",澳视澳门
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="境外",民视新闻台
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="境外",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="境外",BabyFirst
