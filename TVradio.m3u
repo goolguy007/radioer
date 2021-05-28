@@ -896,7 +896,7 @@ http://hdtv.lzu6.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/cgtn.png" group-title="央视",CGTN
 http://hdtv.lzu6.edu.cn/hls/cctv16.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://gitee.com/radioer/photo/raw/main/CGTN纪录.png" group-title="央视",CGTN Documentary
-http://hdtv.lzu6.edu.cn/hls/cgtndochd.m3u8
+http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/CCTV-1.png" group-title="央视",CCTV-1 综合FHD
 http://hdtv.lzu6.edu.cn/hls/hls27.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV2.png" group-title="央视",CCTV-2 财经FHD
