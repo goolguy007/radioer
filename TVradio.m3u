@@ -243,19 +243,19 @@ http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁公共
 http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大连新闻综合
-rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?t
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5ED7B106U3090F010K7791383EI286DB97BPBM3233C4BV1044EZ33519WE78C972FA61&playtoken=ABCDEFGHIGK&programid=4200000001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大连生活
-rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?t
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5ED7B106U3090F010K7791383EI286DB97BPBM3233C4BV1044EZ33519WE78C972FA61&playtoken=ABCDEFGHIGK&programid=4200000002.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大连公共
-rtmp://secret.dltv.cn/dreamStreamCore/51V6n6x/lv500?t
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5ED7B106U3090F010K7791383EI286DB97BPBM3233C4BV1044EZ33519WE78C972FA61&playtoken=ABCDEFGHIGK&programid=4200000003.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大连文体
-rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500?t
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5ED7B106U3090F010K7791383EI286DB97BPBM3233C4BV1044EZ33519WE78C972FA61&playtoken=ABCDEFGHIGK&programid=4200000004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大连综合影视
-rtmp://secret.dltv.cn/dreamStreamCore/8cuL6wa/lv500?t
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5ED7B106U3090F010K7791383EI286DB97BPBM3233C4BV1044EZ33519WE78C972FA61&playtoken=ABCDEFGHIGK&programid=4200000005.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大连少儿
-rtmp://secret.dltv.cn/dreamStreamCore/cq6tZ6Ba/lv500?t
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5ED7B106U3090F010K7791383EI286DB97BPBM3233C4BV1044EZ33519WE78C972FA61&playtoken=ABCDEFGHIGK&programid=4200000006.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大连财经
-rtmp://secret.dltv.cn/dreamStreamCore/PN4pom8/lv500?t
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5ED7B106U3090F010K7791383EI286DB97BPBM3233C4BV1044EZ33519WE78C972FA61&playtoken=ABCDEFGHIGK&programid=4200000007.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南都市
 http://149.129.100.78/dxxw.php?id=141
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南电视剧
