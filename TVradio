@@ -937,6 +937,7 @@ http://zb.ios.ifeng.com:80/live/05QGDOFQJ28/index.m3u8
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/凤凰卫视电影台.png" group-title="境外",凤凰卫视电影台
 http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/channelv.png" group-title="境外",[V]
+http://hdtv.lzu6.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now新闻台
 http://149.129.100.78/now.php?id=332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now直播台
