@@ -1558,6 +1558,8 @@ http://cast.uforadio.com.tw:8000/em90w4aeewzuv
 https://live4.tdm.com.mo/live/_definst_/rch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/宝岛联播网.png" group-title="境外广播" radio="true",宝岛联播网|宝岛新声
 http://stream.superfm99-1.com.tw:8555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/大千电台.png" group-title="境外广播" radio="true",宝岛联播网|大千电台
+http://stream.superfm99-1.com.tw:8554
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/rti.png" group-title="境外广播" radio="true",RTI国语
 https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/rti.png" group-title="境外广播" radio="true",RTI音乐
@@ -1580,8 +1582,6 @@ http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
 https://n18.rcs.revma.com/044q61ha7a0uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/台湾古典音乐台.png" group-title="境外广播" radio="true",台湾古典音乐台
 http://59.120.88.155:8000/live.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/大千电台.png" group-title="境外广播" radio="true",宝岛联播网|大千电台
-http://stream.superfm99-1.com.tw:8554
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/kissradio.png" group-title="境外广播" radio="true",Kiss Radio
 http://api.kiss.com.tw/test/hichannel2.php?api=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/capital958.png" group-title="境外广播" radio="true",CAPITAL 958
