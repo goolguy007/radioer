@@ -812,15 +812,13 @@ http://hdtv.lzu6.edu.cn/hls/hls77a55.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls69a25.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实FHD
 http://hdtv.lzu6.edu.cn/hls/hls75a26.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv1.png" group-title="卫视",中国教育1台FHD
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv1.png" group-title="卫视",中国教育1FHD
 http://hdtv.lzu6.edu.cn/hls/hls67a45.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv1.png" group-title="卫视",中国教育1台
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv1.png" group-title="卫视",中国教育1
 http://hdtv.lzu6.edu.cn/hls/cetv1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="" group-title="卫视",中国教育2台
-http://149.129.100.78/cetv.php?id=cetv2
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv3.png" group-title="卫视",中国教育3台
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv3.png" group-title="卫视",中国教育3
 http://hdtv.lzu6.edu.cn/hls/cetv3.m3u8
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv4.png" group-title="卫视",中国教育4台
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv4.png" group-title="卫视",中国教育4
 http://hdtv.lzu6.edu.cn/hls/cetv4.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视FHD
 http://hdtv.lzu6.edu.cn/hls/hls125.m3u8
