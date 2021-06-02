@@ -133,16 +133,28 @@ http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",榆社电视台
 https://hb2stream1.baoxinwen.com/2527ebd712334a70/6616141643588305925_1600914820.m3u8?auth_key=1893456000-0-0-700f7561f8b4f86818c5d7bae4afd140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",太原新闻综合
+http://149.129.100.78/cutv.php?id=tyxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",太原经济生活
+http://149.129.100.78/cutv.php?id=tyjjsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",太原新闻综合
+http://149.129.100.78/cutv.php?id=tyxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",太原社教法制
+http://149.129.100.78/cutv.php?id=tysjfz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",太原影视
+http://149.129.100.78/cutv.php?id=tyys
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",太原文体
+http://149.129.100.78/cutv.php?id=tywt
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://apphhplushttps.sxrtv.com/images/2020/12/31/202012311609402077716_90.jpg" group-title="地方",山西社会与法治
 http://149.129.100.78/tv.php?id=sxkj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="地方",黄河电视台
-http://149.129.100.78/tv.php?id=sxhh
+http://149.129.100.78/cutv.php?id=sxhh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://apphhplushttps.sxrtv.com/images/2020/12/31/202012311609402311324_90.jpg" group-title="地方",山西经济与科技
-http://149.129.100.78/tv.php?id=sxjjzx
+http://149.129.100.78/cutv.php?id=sxkj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897361061_33_t1080.jpg" group-title="地方",山西影视
-http://149.129.100.78/tv.php?id=sxys
+http://149.129.100.78/cutv.php?id=sxys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg" group-title="地方",山西公共
-http://149.129.100.78/tv.php?id=sxgg
+http://149.129.100.78/cutv.php?id=sxgg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",太原教育
 http://playhls.shineoninteraction.top/taiyuan/800fb160-44eb-11eb-8ae6-fa26000167fb.m3u8
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="地方",峨眉电影
