@@ -610,6 +610,10 @@ http://149.129.100.78/fjtv.php?id=jspd
 http://149.129.100.78/fjtv.php?id=typd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建少儿
 http://149.129.100.78/fjtv.php?id=sepd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",东莞综合
+http://149.129.100.78/dg.php?id=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",东莞公共
+http://149.129.100.78/dg.php?id=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州综合
 http://149.129.100.78/gztv.php?id=zhonghe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州南国都市
