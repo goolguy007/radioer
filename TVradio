@@ -35,8 +35,6 @@ http://hdtv.lzu6.edu.cn/hls/hls78a47.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls184a636.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",动漫电影
 http://hdtv.lzu6.edu.cn/PLTV/88888888/224/3221226178/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",黑莓动画
-http://hdtv.lzu6.edu.cn/PLTV/88888888/224/3221226654/index.m3u8
 #EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="数字",新动漫
 http://hdtv.lzu6.edu.cn/hls/hls64.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字",第一剧场
@@ -67,20 +65,6 @@ http://hdtv.lzu6.edu.cn/hls/hls261.m3u8
 http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC家庭影院
 http://hdtv.lzu6.edu.cn/hls/hls259.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",星影
-http://hdtv.lzu6.edu.cn/hls/hls59.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱江湖.png" group-title="数字",iHOT爱江湖
-http://hdtv.lzu6.edu.cn/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱科幻.png" group-title="数字",iHOT爱科幻
-http://hdtv.lzu6.edu.cn/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱院线.png" group-title="数字",iHOT爱院线
-http://hdtv.lzu6.edu.cn/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱探索.png" group-title="数字",iHOT爱探索
-http://hdtv.lzu6.edu.cn/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱动漫.png" group-title="数字",iHOT爱动漫
-http://hdtv.lzu6.edu.cn/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/IHOT-爱怀旧.png" group-title="数字",iHOT爱怀旧
-http://hdtv.lzu6.edu.cn/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
 #EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://www.tvyan.com/uploads/dianshi/huanqiuqiguan.jpg" group-title="数字",环球奇观
 http://hdtv.lzu6.edu.cn/hls/hls62.m3u8
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="数字",风云音乐FHD
