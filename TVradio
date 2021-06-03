@@ -1613,7 +1613,7 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world
 http://nprnat-i.akamaihd.net/hls/live/217898/nprnational/256k/program3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/bbcradio/bbc1.png" group-title="境外广播" radio="true",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/bbcradio/bbc1xtra.png" group-title="境外广播" radio="true",BBC Radio 1 Xtra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/bbcradio/bbc1xtra.png" group-title="境外广播" radio="true",BBC Radio 1Xtra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/bbcradio/bbc1dance.png" group-title="境外广播" radio="true",BBC Radio 1 Dance
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
