@@ -7,8 +7,6 @@ http://hdtv.lzu6.edu.cn/hls/hls184a90.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls185a95.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字",欢笑剧场
 http://hdtv.lzu6.edu.cn/hls/hls185a97.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",咪咕4K
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱映画
 http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/高清HD家庭剧场.png" group-title="数字",家庭剧场
