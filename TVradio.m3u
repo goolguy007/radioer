@@ -1427,6 +1427,10 @@ http://149.129.100.78/cdgb.php?id=433-22
 http://149.129.100.78/cdgb.php?id=433-40
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/成都新闻广播.png" group-title="综合广播" radio="true",成都新闻广播
 http://149.129.100.78/cdgb.php?id=433-21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",雅安综合广播
+https://m3u8channel.wuxianyaan.com/cms/audios/nmip-media/audiolive/audio10/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",雅安交通旅游广播
+https://m3u8channel.wuxianyaan.com/cms/audios/nmip-media/audiolive/audio12/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/徐州新闻综合广播.png" group-title="综合广播" radio="true",徐州新闻综合广播
 http://stream1.huaihai.tv/aac_gbfm93/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/黑龙江新闻广播.png" group-title="综合广播" radio="true",黑龙江新闻广播
