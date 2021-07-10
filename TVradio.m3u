@@ -929,6 +929,18 @@ http://zb.ios.ifeng.com:80/live/05QGDOFQJ28/index.m3u8
 http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/channelv.png" group-title="境外",[V]
 http://hdtv.lzu6.edu.cn/hls/channelv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",无线新闻台
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",无线财经资讯台
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",ViU TV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",ViU 6
+https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now新闻台
 http://149.129.100.78/now.php?id=332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now直播台
@@ -1570,7 +1582,7 @@ http://flv.ccdntech.com/live/_definst_/mp4:vod256_Live/fm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/国立教育电台.png" group-title="境外广播" radio="true",国立教育电台
 http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/全国广播.png" group-title="境外广播" radio="true",M-Radio全国广播
-https://n18.rcs.revma.com/044q61ha7a0uv
+http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/台湾古典音乐台.png" group-title="境外广播" radio="true",台湾古典音乐台
 http://59.120.88.155:8000/live.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/kissradio.png" group-title="境外广播" radio="true",Kiss Radio
