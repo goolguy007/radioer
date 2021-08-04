@@ -943,6 +943,10 @@ http://zb.ios.ifeng.com:80/live/05QGDOFQJ28/index.m3u8
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/channelv.png" group-title="境外",[V]
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/channelv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/channelv.png" group-title="境外",[V]国际
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",CMC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",爱尔达体育2台
 rtmp://59.124.75.153/sat/md021
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",爱尔达奥运2台
@@ -951,12 +955,15 @@ rtmp://161.202.204.248:1935/sat/md011
 rtmp://161.202.204.248/sat/tv771
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",无线新闻台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",无线财经资讯台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",ViU 6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",ViU TV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",ViU 6
@@ -967,6 +974,22 @@ http://149.129.100.78/now.php?id=332
 http://149.129.100.78/now.php?id=331
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="境外",民视新闻台
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",民视
+rtmp://161.202.204.248/sat/tv051
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",台视
+rtmp://161.202.204.248/sat/tv071
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",中视
+rtmp://161.202.204.248/sat/tv091
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",华视
+rtmp://161.202.204.248:1935/sat/tv111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",TVBS欢乐
+rtmp://161.202.204.248/sat/tv421
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",纬来体育
+rtmp://161.202.204.248/sat/tv721
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",纬来育乐
+rtmp://161.202.204.248/sat/tv701
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",纬来日本
+rtmp://161.202.204.248:1935/sat/tv521
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",BBC News
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="境外",RTHK31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
@@ -1052,6 +1075,8 @@ http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="境外",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="境外",香港开电视FHD
+https://cdn.hkdtmb.com/hls/77/index.m3u8
 #EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="境外",BabyFirst
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="境外",BBC Lifestyle
@@ -1717,8 +1742,6 @@ http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 http://audio-live.radio.cn/live/szyy1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山西音乐广播.png" group-title="音乐广播" radio="true",山西音乐广播
 https://radiolive.sxrtv.com/live/yinyue/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长春mixfm.png" group-title="音乐广播" radio="true",长春MixFM106.3
-http://starfish.bj.aliyun.002.qingting.fm:8000/changchunMIX1063
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/动感101.png" group-title="音乐广播" radio="true",上海流行音乐广播·动感101
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/loveradio.png" group-title="音乐广播" radio="true",上海经典金曲广播·love💋radio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/hitfm.png" group-title="音乐广播" radio="true",HIT FM
