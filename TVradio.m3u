@@ -17,6 +17,8 @@ http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/2.m3u
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a90.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",百视通体育
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/都市剧场.png" group-title="数字",都市剧场
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a95.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字",欢笑剧场
@@ -300,17 +302,23 @@ http://stream1.zztv.tv/zztv5/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",郑州都市生活
 http://stream2.zztv.tv/zztv6/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃都市
-https://hls.gstv.com.cn/49048r/l54391.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃公共应急
-https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃经济
-https://hls.gstv.com.cn/49048r/10iv1j.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃少儿
-https://hls.gstv.com.cn/49048r/922k96.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃文化影视
-https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃移动
-https://hls.gstv.com.cn/49048r/y72q36.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",兰州新闻综合
+http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",兰州公共
+http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",兰州经济生活
+http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",兰州综艺体育
+http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",睛彩中原
 http://149.129.100.78/dxxw.php?id=157
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",移动戏曲
