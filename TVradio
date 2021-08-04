@@ -734,11 +734,11 @@ http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ldntv.cn/Portal/Tpl/templates/default/images/live_pic1.png" group-title="地方",娄底综合
 http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/厦门-1.png" group-title="地方",厦门综合
-https://xiamencncc.v.wscdns.com/xiamen/xiamen1_1/index.m3u8
+https://xiamencncc.v.wscdns.com/atjtd/yhxmt1_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/厦门-2.png" group-title="地方",厦门海峡
-https://xiamencncc.v.wscdns.com/xiamen/xiamen2_1/index.m3u8
+https://xiamencncc.v.wscdns.com/atjtd/yhxmt2_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xmtv6.jpg" group-title="地方",厦门移动
-https://xiamencncc.v.wscdns.com/xiamen/xiamenyidong_1/index.m3u8
+https://xiamencncc.v.wscdns.com/atjtd/yhxmtyd_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dayuntongzhou.com/web/style/images/logo.png" group-title="地方",通州电视台
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.huairtv.com/Portal/Tpl/templates/default/images/logo.png" group-title="地方",怀柔电视台
