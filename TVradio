@@ -19,6 +19,8 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a90.m3u8
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV 4k
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/都市剧场.png" group-title="数字",都市剧场
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a95.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字",欢笑剧场
