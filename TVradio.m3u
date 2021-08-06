@@ -225,17 +225,17 @@ http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/bf6ad9ce4da1182a3a7ed0e188d8632f.png" group-title="地方",浙江钱江频道
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南都市
-http://yntvpullhls.ynradio.com/live/yunnandushi/playlist.m3u8
+http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南娱乐
-http://yntvpullhls.ynradio.com/live/yunnanyule/playlist.m3u8
+http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南公共
-http://yntvpullhls.ynradio.com/live/yunnangonggong/playlist.m3u8
+http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南国际
-http://yntvpullhls.ynradio.com/live/yunnanguoji/playlist.m3u8
+http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南生活资讯
-http://yntvpullhls.ynradio.com/live/yunnanshenghuo/playlist.m3u8
+http://tvlive.ynradio.com/live/yunnanshenghuo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南少儿
-http://yntvpullhls.ynradio.com/live/yunnanshaoer/playlist.m3u8
+http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南经视
 http://149.129.100.78/hunan.php?id=280
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南公共
