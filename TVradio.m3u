@@ -160,7 +160,7 @@ http://149.129.100.78/cutv.php?id=sxkj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="地方",黄河电视台
 http://149.129.100.78/cutv.php?id=sxhh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://apphhplushttps.sxrtv.com/images/2020/12/31/202012311609402311324_90.jpg" group-title="地方",山西经济与科技
-http://149.129.100.78/cutv.php?id=sxkj
+http://149.129.100.78/cutv.php?id=sxjj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897361061_33_t1080.jpg" group-title="地方",山西影视
 http://149.129.100.78/cutv.php?id=sxys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg" group-title="地方",山西公共
@@ -406,7 +406,7 @@ http://149.129.100.78/jiangsu.php?id=jsxx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州新闻综合
 rtmp://csztv.2500sz.com/live/c01
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州社会经济
-,rtmp://csztv.2500sz.com/live/c02
+rtmp://csztv.2500sz.com/live/c02
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州文化生活
 rtmp://csztv.2500sz.com/live/c03
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州生活资讯
