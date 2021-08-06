@@ -236,6 +236,18 @@ http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
 http://tvlive.ynradio.com/live/yunnanshenghuo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南少儿
 http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",昆明新闻综合
+https://devlivepull.migucloud.com/live/01YCQY7M_C0.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",昆明公共
+https://devlivepull.migucloud.com/live/UD0YLY2G_C0_3.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",昆明经济生活
+https://devlivepull.migucloud.com/live/JT9JEQ54_C0_2.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",昆明科学教育
+https://devlivepull.migucloud.com/live/ZBXWIMTD_C0_2.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",昆明文体娱乐
+https://devlivepull.migucloud.com/live/6KN3ZB2S_C0_2.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",昆明影视综艺
+https://devlivepull.migucloud.com/live/KYLNJWFD_C0_2.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南经视
 http://149.129.100.78/hunan.php?id=280
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南公共
@@ -391,6 +403,14 @@ http://149.129.100.78/jiangsu.php?id=jslz
 http://149.129.100.78/jiangsu.php?id=jsgj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏学习
 http://149.129.100.78/jiangsu.php?id=jsxx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州新闻综合
+rtmp://csztv.2500sz.com/live/c01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州社会经济
+,rtmp://csztv.2500sz.com/live/c02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州文化生活
+rtmp://csztv.2500sz.com/live/c03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州生活资讯
+rtmp://csztv.2500sz.com/live/c04
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",扬州新闻综合
 http://149.129.100.78/yangzhou.php?id=235
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",扬州教育
