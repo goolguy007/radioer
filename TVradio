@@ -33,6 +33,36 @@ http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a95.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字",欢笑剧场
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a97.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="数字",iHOT爱院线
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="数字",iHOT爱浪漫
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="数字",iHOT爱喜剧
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="数字",iHOT爱科幻
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",Hot亚洲影院
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",Hot少儿动漫
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",Hot探索纪录
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",Hot欧美影院
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",Hot漫游世界
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",Hot炫动3D
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",Hot电子竞技
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",Hot精品剧场
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",Hot风尚音乐
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",Hot高清娱乐
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",华数
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC动作电影
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls261.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC高清电影
@@ -58,15 +88,17 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a518.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字",全纪实
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a639.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="数字",求索记录
-http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="" group-title="数字",求索科学
-http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="" group-title="数字",求索动物
-http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="" group-title="数字",求索生活
-http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字",世界地理
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",Y+
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1976" tvg-name="" tvg-logo="" group-title="数字",魅力足球
 http://140.207.241.2:8080/live/program/live/mlyyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="" tvg-logo="" group-title="数字",幸福彩
