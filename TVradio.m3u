@@ -49,8 +49,6 @@ http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="数字",Hot欧美影院
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="数字",Hot漫游世界
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="数字",Hot炫动3D
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="数字",Hot电子竞技
@@ -1200,20 +1198,15 @@ http://live.streamingfast.net/osmflivech21.m3u8
 http://live.streamingfast.net/osmflivech28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息空中圣经学院
 http://live.streamingfast.net/osmflivech27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p2-yueting.yuetingapp.com/upload/new-mc/2021-07/c66fa90f3b349deaOSS1626337779.jpg" group-title="网络广播" radio="true",精选807
+https://tv-live.yuetingapp.com/live/fmmusic807.m3u8?auth_key=1628779118-0-0-b8f7ea2f023ef076b87180df93cc6bec
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/全球华语音乐之声.png" group-title="网络广播" radio="true",全球华语音乐之声
 http://starfish.bj.aliyun.002.qingting.fm:8000/quanqiuhuayuyinle
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/亚洲音乐台.png" group-title="网络广播" radio="true",AsiaFM亚洲音乐台
-mmst://asiafm.cn/asiafm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/亚洲天空台.png" group-title="网络广播" radio="true",AsiaFM亚洲天空台
-mmst://funradio.cn/funradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/亚洲经典台.png" group-title="网络广播" radio="true",AsiaFM亚洲经典台
-mmst://goldfm.cn/goldfm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/亚洲HD音乐台.png" group-title="网络广播" radio="true",AsiaFM亚洲HD音乐台
-mmst://asiafm.cn/asiahd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2018/01/05/1515144881197542.png" group-title="网络广播" radio="true",星河音乐台
-http://stream.hndt.com/live/1061/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/金十电台.png" group-title="网络广播" radio="true",金十电台
-http://fmcdn.jin10.com/AAC/voice.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-web-us-west-2-tunein-com.s3-us-west-2.amazonaws.com/assets/img/shared/tiles/todays-hits-small.jpg" group-title="网络广播" radio="true",Today’s Hits
 http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newpophits.png" group-title="网络广播" radio="true",Pop Hits
