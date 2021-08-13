@@ -683,13 +683,13 @@ http://149.129.100.78/nantong.php?id=gg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南通文化旅游
 http://149.129.100.78/nantong.php?id=ly
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",常州新闻综合
-http://stream.cztv.tv/cztvxw/playlist.m3u8
+http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227899/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",常州都市
-http://stream.cztv.tv/cztvds/playlist.m3u8
+http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227955/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",常州生活
-http://stream.cztv.tv/cztvsh/playlist.m3u8
+http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227902/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",常州公共
-http://stream.cztv.tv/cztvgg/playlist.m3u8
+http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227905/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京教科
