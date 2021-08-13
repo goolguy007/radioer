@@ -61,6 +61,8 @@ http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="数字",华数
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",华数古装
+http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 #EXTINF:-1 group-title="数字",影视1
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 #EXTINF:-1 group-title="数字",影视5
@@ -69,6 +71,20 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
 #EXTINF:-1 group-title="数字",动漫2
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
+#EXTINF:-1 group-title="数字",光影
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240343_1/playlist.m3u8?
+#EXTINF:-1 group-title="数字",家庭影院
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240278_1/playlist.m3u8?
+#EXTINF:-1 group-title="数字",动作影院
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240277_1/playlist.m3u8?
+#EXTINF:-1 group-title="数字",武侠剧场
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240308_1/playlist.m3u8?
+#EXTINF:-1 group-title="数字",城市剧场
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240336_1/playlist.m3u8?
+#EXTINF:-1 group-title="数字",军旅剧场
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240337_1/playlist.m3u8?
+#EXTINF:-1 group-title="数字",音乐现场
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240339_1/playlist.m3u8?
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC动作电影
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls261.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC高清电影
@@ -103,6 +119,18 @@ http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字",世界地理
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV经典电影
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240090_1/playlist.m3u8?CONTENTID=00000110240090_1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV谍战剧场
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240003_1/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV热播剧场
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240089_1/playlist.m3u8?CONTENTID=00000110240089_1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV相声小品
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240006_1/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV野外
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240095_1/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV法治
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240096_1/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",Y+
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1976" tvg-name="" tvg-logo="" group-title="数字",魅力足球
