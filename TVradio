@@ -594,6 +594,12 @@ http://149.129.100.78/guizhou.php?id=kjjk
 http://149.129.100.78/guizhou.php?id=dwpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵州家有购物
 http://149.129.100.78/guizhou.php?id=8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",雅安新闻综合
+https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",雅安公共
+https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",雨城频道
+https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="地方",成都新闻综合
 http://149.129.100.78/cdtv.php?id=1
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="地方",成都经济
