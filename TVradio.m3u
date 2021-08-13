@@ -8,7 +8,7 @@ http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",芒果4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱上4K
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",4K花园
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱映画
@@ -61,6 +61,14 @@ http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="数字",华数
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字",影视1
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
+#EXTINF:-1 group-title="数字",影视5
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
+#EXTINF:-1 group-title="数字",影视6
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
+#EXTINF:-1 group-title="数字",动漫2
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC动作电影
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls261.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC高清电影
@@ -1199,9 +1207,7 @@ http://live.streamingfast.net/osmflivech28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息空中圣经学院
 http://live.streamingfast.net/osmflivech27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p2-yueting.yuetingapp.com/upload/new-mc/2021-07/c66fa90f3b349deaOSS1626337779.jpg" group-title="网络广播" radio="true",精选807
-https://tv-live.yuetingapp.com/live/fmmusic807.m3u8?auth_key=1628779118-0-0-b8f7ea2f023ef076b87180df93cc6bec
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p2-yueting.yuetingapp.com/upload/new-mc/2021-07/e5b9b264ab83c617OSS1627555214.jpg" group-title="网络广播" radio="true",太平洋之声
-https://tv-live.yuetingapp.com/live/fmytrs.m3u8?auth_key=1628800248-0-0-92f33d005a21040519f07cd7f37409a3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/全球华语音乐之声.png" group-title="网络广播" radio="true",全球华语音乐之声
 http://starfish.bj.aliyun.002.qingting.fm:8000/quanqiuhuayuyinle
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/亚洲音乐台.png" group-title="网络广播" radio="true",AsiaFM亚洲音乐台
