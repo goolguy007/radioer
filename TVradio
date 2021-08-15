@@ -990,9 +990,9 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls158.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/CCTV-1.png" group-title="央视",CCTV-1 综合FHD
-http://124.232.231.246:6610/000000001001/201500000063/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV2.png" group-title="央视",CCTV-2 财经FHD
-http://124.232.231.246:6610/000000001001/201500000129/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV3.png" group-title="央视",CCTV-3 综艺FHD
 http://124.232.231.246:6610/000000001001/201500000124/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV4.png" group-title="央视",CCTV-4 中文国际FHD
@@ -1000,26 +1000,26 @@ http://124.232.231.246:6610/000000001001/201500000204/index.m3u8?IASHttpSessionI
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/cctv5.png" group-title="央视",CCTV-5 体育FHD
 http://124.232.231.246:6610/000000001001/201500000125/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事FHD
-http://124.232.231.246:6610/000000001001/201500000062/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV6.png" group-title="央视",CCTV-6 电影FHD
 http://124.232.231.246:6610/000000001001/201500000126/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV7.png" group-title="央视",CCTV-7 国防军事FHD
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV8.png" group-title="央视",CCTV-8 电视剧FHD
 http://124.232.231.246:6610/000000001001/201500000127/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV9.png" group-title="央视",CCTV-9 纪录FHD
-http://124.232.231.246:6610/000000001001/201500000131/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV10.png" group-title="央视",CCTV-10 科教FHD
 http://124.232.231.246:6610/000000001001/201500000132/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV11.png" group-title="央视",CCTV-11 戏曲FHD
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV12.png" group-title="央视",CCTV-12 社会与法FHD
-http://124.232.231.246:6610/000000001001/201500000133/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV13.png" group-title="央视",CCTV-13 新闻FHD
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/CCTV-14.png" group-title="央视",CCTV-14 少儿FHD
 http://124.232.231.246:6610/000000001001/201500000134/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/CCTV-14.png" group-title="央视",CCTV-15 音乐FHD
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/CCTV-15.png" group-title="央视",CCTV-15 音乐FHD
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV-17 农业农村FHD
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
@@ -1060,7 +1060,7 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a11.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/CCTV-14.png" group-title="央视",CCTV-14 少儿
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV15.png" group-title="央视",CCTV-15 音乐
