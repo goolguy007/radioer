@@ -53,8 +53,6 @@ http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="数字",Hot电子竞技
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="数字",Hot精品剧场
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="数字",Hot风尚音乐
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="数字",Hot高清娱乐
@@ -594,6 +592,14 @@ http://149.129.100.78/guizhou.php?id=kjjk
 http://149.129.100.78/guizhou.php?id=dwpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵州家有购物
 http://149.129.100.78/guizhou.php?id=8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵阳新闻综合
+https://zzgyhls.tianma3600.com/zzgy/xwzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵阳经济生活
+https://zzgyhls.tianma3600.com/zzgy/jjsh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵阳法制
+https://zzgyhls.tianma3600.com/zzgy/fzpd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵阳都市
+https://zzgyhls.tianma3600.com/zzgy/dspd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",雅安新闻综合
 https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",雅安公共
@@ -638,14 +644,6 @@ http://149.129.100.78/nc.php?id=nctv2
 http://149.129.100.78/nc.php?id=nctv3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南昌公共
 http://149.129.100.78/nc.php?id=nctv4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州新闻综合
-http://149.129.100.78/suzhou.php?id=szxw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州社会经济
-http://149.129.100.78/suzhou.php?id=szshjj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州文化生活
-http://149.129.100.78/suzhou.php?id=szwhsh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州生活资讯
-http://149.129.100.78/suzhou.php?id=szshzx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",惠州新闻综合
 http://livehuiz.chinamcache.com/live/zb01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",惠州公共
@@ -929,7 +927,7 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/btv1hd.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/sdhd.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
-http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/jlu_ahhd.m3u8
+http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/ahhd.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视",北京冬奥纪实
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/btv11hd.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",纪实人文
@@ -937,7 +935,7 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/docuchina.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/gedocu.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
-http://124.232.231.246:6610/000000001001/201500000335/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/gdhd.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/dnhd.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
@@ -950,7 +948,8 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/tjhd.m3u8
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hbhd.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cqhd.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+#EXTINF:-1 tvg-id="45" tag-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hebhd.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/jxhd.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
@@ -1060,7 +1059,7 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a11.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
+http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/CCTV-14.png" group-title="央视",CCTV-14 少儿
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV15.png" group-title="央视",CCTV-15 音乐
