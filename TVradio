@@ -5,6 +5,8 @@ http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/2.m3u
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV4K
 http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV高清院线
+http://58.20.64.92:9999/tsfile/live/1033_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",芒果4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱上4K
@@ -115,6 +117,10 @@ http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字",世界地理
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV抗战剧场
+http://58.20.64.92:9999/tsfile/live/1032_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV古装剧场
+http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV经典电影
 http://117.71.37.17/live.aishang.ctlcdn.com/00000110240090_1/playlist.m3u8?CONTENTID=00000110240090_1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV谍战剧场
@@ -730,7 +736,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226911/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226973/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建乡村振兴公共
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226907/index.m3u8
-http://149.129.100.78/fjtv.php?id=typd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建少儿
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",东莞综合
