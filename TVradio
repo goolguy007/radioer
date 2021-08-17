@@ -61,8 +61,6 @@ http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="数字",华数古装
 http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-#EXTINF:-1 group-title="数字",影视1
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 #EXTINF:-1 group-title="数字",影视5
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 #EXTINF:-1 group-title="数字",影视6
@@ -70,19 +68,19 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m
 #EXTINF:-1 group-title="数字",动漫2
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
 #EXTINF:-1 group-title="数字",光影
-http://117.71.37.17/live.aishang.ctlcdn.com/00000110240343_1/playlist.m3u8?
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240343_1/playlist.m3u8
 #EXTINF:-1 group-title="数字",家庭影院
-http://117.71.37.17/live.aishang.ctlcdn.com/00000110240278_1/playlist.m3u8?
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240278_1/playlist.m3u8
 #EXTINF:-1 group-title="数字",动作影院
-http://117.71.37.17/live.aishang.ctlcdn.com/00000110240277_1/playlist.m3u8?
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240277_1/playlist.m3u8
 #EXTINF:-1 group-title="数字",武侠剧场
-http://117.71.37.17/live.aishang.ctlcdn.com/00000110240308_1/playlist.m3u8?
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240308_1/playlist.m3u8
 #EXTINF:-1 group-title="数字",城市剧场
-http://117.71.37.17/live.aishang.ctlcdn.com/00000110240336_1/playlist.m3u8?
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240336_1/playlist.m3u8
 #EXTINF:-1 group-title="数字",军旅剧场
-http://117.71.37.17/live.aishang.ctlcdn.com/00000110240337_1/playlist.m3u8?
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240337_1/playlist.m3u8
 #EXTINF:-1 group-title="数字",音乐现场
-http://117.71.37.17/live.aishang.ctlcdn.com/00000110240339_1/playlist.m3u8?
+http://117.71.37.17/live.aishang.ctlcdn.com/00000110240339_1/playlist.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC动作电影
 http://117.71.37.17/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC高清电影
@@ -435,11 +433,11 @@ http://149.129.100.78/dxxw.php?id=157
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",移动戏曲
 http://149.129.100.78/dxxw.php?id=163
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙政法
-http://149.129.100.78/cs.php?id=348
+http://124.232.231.246:6610/000000001001/201500000229/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20200109/f5078b7d3a8f020b8d6f6fcdcd938f1d.jpeg" group-title="地方",长沙影视
 http://149.129.100.78/cs.php?id=350
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙新闻
-http://149.129.100.78/cs.php?id=346
+http://124.232.231.246:6610/000000001001/201500000232/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙女性
 http://149.129.100.78/cs.php?id=349
 #EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="地方",四川文化旅游
@@ -868,7 +866,7 @@ http://124.232.231.246:6610/000000001001/201500000233/index.m3u8?IASHttpSessionI
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视FHD
 http://124.232.231.246:6610/000000001001/201500000064/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视FHD
-http://124.232.231.246:6610/000000001001/201500000069/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视FHD
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视FHD
@@ -900,19 +898,21 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/ind
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视FHD
 http://124.232.231.246:6610/000000001001/201500000072/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",河北卫视FHD
-http://117.71.37.17/live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225713/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",海南卫视FHD
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",海峡卫视FHD
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",贵州卫视FHD
-http://117.71.37.17/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",甘肃卫视FHD
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视",北京冬奥纪实FHD
 http://39.134.155.149/PLTV/88888888/224/3221225645/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实FHD
-http://117.71.37.17/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8
+http://124.232.231.246:6610/000000001001/201500000240/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",金鹰卡通FHD
+http://124.232.231.246:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
