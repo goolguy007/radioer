@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",北京IPTV 4K超清
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",4K超高清电影
+http://60.255.49.202/live/emdy4k_8000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV电影4K
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV4K
 http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV高清院线
 http://58.20.64.92:9999/tsfile/live/1033_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV古装剧场
+http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",芒果4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱上4K
@@ -71,11 +75,6 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226214/1/ind
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="" group-title="数字",求索生活
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字",世界地理
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV抗战剧场
-http://58.20.64.92:9999/tsfile/live/1032_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV古装剧场
-http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",Y+
 #EXTINF:-1 tvg-id="1976" tvg-name="" tvg-logo="" group-title="数字",魅力足球
 http://140.207.241.2:8080/live/program/live/mlyyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="" tvg-logo="" group-title="数字",幸福彩
@@ -144,6 +143,18 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls102.m3u8
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/fyzqtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",足球频道
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/zqhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",精品大剧场
+http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",家庭剧场
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",军旅剧场
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",精品记录
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",古装剧场
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",惊悚悬疑
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/index.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_ah.png" group-title="数字",中国交通频道(安徽)
 https://tv.lanjingfm.com/cctbn/anhui.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_hub.png" group-title="数字",中国交通频道(湖北)
@@ -178,6 +189,10 @@ http://149.129.100.78/cutv.php?id=sxjj
 http://149.129.100.78/cutv.php?id=sxys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg" group-title="地方",山西公共
 http://149.129.100.78/cutv.php?id=sxgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",峨眉电影1
+http://60.255.49.202/live/emdygqH265_4000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",峨眉电影2
+http://110.184.199.31:4000/rtp/239.93.1.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电影
 http://124.232.231.246:6610/000000001001/201500000237/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南经视
@@ -1011,11 +1026,11 @@ http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台
-http://zb.ios.ifeng.com:80/live/05QGDA0CIRK/index.m3u8
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台FHD
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls254.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台
-http://zb.ios.ifeng.com:80/live/05QGCOB3T34/index.m3u8
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台FHD
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls255.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="境外",凤凰卫视香港台
