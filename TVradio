@@ -27,10 +27,10 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls78a47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",大健康
 http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",金色频道
-http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a90.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",百视通体育
+http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a90.m3u8#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",百视通体育
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTVhttp://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV记录4K
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/都市剧场.png" group-title="数字",都市剧场
@@ -46,7 +46,7 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m
 #EXTINF:-1 group-title="数字",动漫2
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC动作电影
-http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC高清电影
 http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC家庭影院
@@ -1825,6 +1825,8 @@ https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/pl
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/音乐之声.png" group-title="音乐广播" radio="true",音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/安徽音乐广播.png" group-title="音乐广播" radio="true",安徽音乐广播
+http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/陕西音乐广播.png" group-title="音乐广播" radio="true",陕西音乐广播
 http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/好听1055.png" group-title="音乐广播" radio="true",陕西青少广播·好听1055
@@ -1893,8 +1895,6 @@ http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/动听968.png" group-title="音乐广播" radio="true",浙江音乐调频·动听968
 http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/安徽音乐广播.png" group-title="音乐广播" radio="true",安徽音乐广播
-http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/河北音乐广播.png" group-title="音乐广播" radio="true",河北音乐广播
 http://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/广东音乐之声.png" group-title="音乐广播" radio="true",广东音乐之声
