@@ -498,19 +498,19 @@ http://149.129.100.78/guangdong.php?id=46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东少儿
 http://149.129.100.78/guangdong.php?id=54
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山综合
-http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.flv
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山影视
-http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.flv
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山南海
-http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.flv
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山顺德
-http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.flv
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山公共
-http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.flv
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山高明
-http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.flv
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山三水
-http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.flv
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南方购物
 http://149.129.100.78/guangdong.php?id=42
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",岭南戏曲
