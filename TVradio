@@ -497,6 +497,20 @@ http://149.129.100.78/guangdong.php?id=16
 http://149.129.100.78/guangdong.php?id=46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东少儿
 http://149.129.100.78/guangdong.php?id=54
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山综合
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山影视
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山南海
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山顺德
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山公共
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山高明
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山三水
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南方购物
 http://149.129.100.78/guangdong.php?id=42
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",岭南戏曲
@@ -1869,8 +1883,6 @@ http://pull.hrbtv.net/tv/12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/福州音乐广播.png" group-title="音乐广播" radio="true",福州音乐广播
 http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/上海经典947.png" group-title="音乐广播" radio="true",上海经典947
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/成都唯一音乐广播.png" group-title="音乐广播" radio="true",成都唯一音乐广播
-http://livecdn.pull.cdbs.com.cn/live/fm1032/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/海口音乐广播.png" group-title="音乐广播" radio="true",WHIZ Radio 海口音乐广播
 http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙品味音乐广播.png" group-title="音乐广播" radio="true",长沙品味音乐广播
