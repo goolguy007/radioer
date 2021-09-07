@@ -160,10 +160,8 @@ http://149.129.100.78/cutv.php?id=sxjj
 http://149.129.100.78/cutv.php?id=sxys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg" group-title="地方",山西公共
 http://149.129.100.78/cutv.php?id=sxgg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",峨眉电影1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",峨眉电影
 http://60.255.49.202/live/emdygqH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",峨眉电影2
-http://110.184.199.31:4000/rtp/239.93.1.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电影
 http://124.232.231.246:6610/000000001001/201500000237/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南经视
@@ -1795,6 +1793,8 @@ http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经典音乐广播.png" group-title="音乐广播" radio="true",经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/苏州音乐广播.png" group-title="音乐广播" radio="true",苏州都市音乐广播
+http://audio-live.radio.cn/live/szyy1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山西音乐广播.png" group-title="音乐广播" radio="true",山西音乐广播
 https://radiolive.sxrtv.com/live/yinyue/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/动感101.png" group-title="音乐广播" radio="true",上海流行音乐广播·动感101
