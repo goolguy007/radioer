@@ -1357,6 +1357,12 @@ http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖北资讯广播.png" group-title="综合广播" radio="true",湖北资讯广播
 http://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2015/0617/2015061718015278.jpg" group-title="综合广播" radio="true",武汉新闻广播
+http://stream.appwuhan.com/xwpdzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2018/0101/20180101120944.jpeg" group-title="综合广播" radio="true",武汉交通广播
+http://stream.appwuhan.com/jtpdzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/1125/20151125214015766.jpg" group-title="综合广播" radio="true",武汉经济广播
+http://stream.appwuhan.com/cjpdzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/河北文艺广播.png" group-title="综合广播" radio="true",河北文艺广播
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/河北综合广播.png" group-title="综合广播" radio="true",河北综合广播
@@ -1904,6 +1910,10 @@ http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/北京音乐广播.png" group-title="音乐广播" radio="true",北京音乐广播
 http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0501/20170501063612.jpeg" group-title="音乐广播" radio="true",武汉音乐广播
+http://stream.appwuhan.com/yypdzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" group-title="音乐广播" radio="true",武汉青少广播·M-radio
+http://stream.appwuhan.com/sepdzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/武安旅游音乐广播.png" group-title="音乐广播" radio="true",武安旅游音乐广播
 http://starfish.qd.aliyun.001.qingting.fm:8000/FM934lvyouyinle
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/滨州文艺音乐广播.png" group-title="音乐广播" radio="true",滨州文艺音乐广播
