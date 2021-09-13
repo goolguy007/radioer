@@ -14,12 +14,8 @@ http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
 http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",4K花园
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱映画
-http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls78a46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",大众影院
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",晴天动画馆
-http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls78a47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",大健康
 http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",金色频道
@@ -1649,6 +1645,10 @@ https://hitoradio-hichannel.cdn.hinet.net/live/pool/hich-ra000080/ra-hls/index.m
 http://hitoradio-hichannel.cdn.hinet.net/live/pool/hich-ra000036/ra-hls/index.m3u8?token1=TU1L4WVv_nJYBJV8QVYmCQ&token2=knJACYm2jKSeMqtm7ocb0w&expire1=2514758400&expire2=2199139200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hiradio.png" group-title="境外广播" radio="true",hi radio
 http://stream.rcs.revma.com/m5vcf26np7zuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.loveradio889.com.tw/ecms102077/store/AdImage/最愛正義.jpg" group-title="境外广播" radio="true",正义电台
+http://211.20.119.103:8081
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.loveradio889.com.tw/ecms102077/store/AdImage/sunnyradio.jpg" group-title="境外广播" radio="true",太阳电台
+http://211.20.119.102:8081
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外广播" radio="true",Ai FM
 https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/台北广播电台.png" group-title="境外广播" radio="true",台北广播电台FM93.1
@@ -1905,7 +1905,7 @@ http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/青海交通音乐广播.png" group-title="音乐广播" radio="true",青海交通音乐广播
 http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/北京音乐广播.png" group-title="音乐广播" radio="true",北京音乐广播
-http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
+http://audiolive2.rbc.cn:1935/live/fm974/96K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0501/20170501063612.jpeg" group-title="音乐广播" radio="true",武汉音乐广播
 http://stream.appwuhan.com/yypdzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" group-title="音乐广播" radio="true",武汉青少广播·M-radio
