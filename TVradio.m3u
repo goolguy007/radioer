@@ -1643,6 +1643,16 @@ http://ngcdn025.cnr.cn/live/hygb/index.m3u8
 https://hitoradio-hichannel.cdn.hinet.net/live/pool/hich-ra000080/ra-hls/index.m3u8?token1=8Z_0s-pYqd0vmT39I5vc9Q&token2=8uHjV345akU2IRnzGgoVnA&expire1=2514758400&expire2=2199139200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM联播网|台北之音
 http://hitoradio-hichannel.cdn.hinet.net/live/pool/hich-ra000036/ra-hls/index.m3u8?token1=TU1L4WVv_nJYBJV8QVYmCQ&token2=knJACYm2jKSeMqtm7ocb0w&expire1=2514758400&expire2=2199139200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/全国广播.png" group-title="境外广播" radio="true",M-Radio全国广播
+http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|城市广播
+http://fm929.cityfm.tw:8080/929.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|台北健康
+http://fm901.cityfm.tw:8080/901.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|台南之音
+http://fm971.cityfm.tw:8080/971.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|大苗栗广播
+http://fm983.cityfm.tw:8080/983.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hiradio.png" group-title="境外广播" radio="true",hi radio
 http://stream.rcs.revma.com/m5vcf26np7zuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.loveradio889.com.tw/ecms102077/store/AdImage/最愛正義.jpg" group-title="境外广播" radio="true",正义电台
@@ -1677,20 +1687,8 @@ http://stream.superfm99-1.com.tw:8554
 https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/rti.png" group-title="境外广播" radio="true",RTI音乐
 https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|台北健康
-http://fm901.cityfm.tw:8080/901.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|城市广播
-http://fm929.cityfm.tw:8080/929.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|南投广播
-http://fm997.cityfm.tw:8080/997.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|台南之音
-http://fm971.cityfm.tw:8080/971.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|大苗栗广播
-http://fm983.cityfm.tw:8080/983.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/国立教育电台.png" group-title="境外广播" radio="true",国立教育电台
 http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/全国广播.png" group-title="境外广播" radio="true",M-Radio全国广播
-http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/台湾古典音乐台.png" group-title="境外广播" radio="true",台湾古典音乐台
 http://59.120.88.155:8000/live.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/kissradio.png" group-title="境外广播" radio="true",Kiss Radio
