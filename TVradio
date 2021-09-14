@@ -1077,9 +1077,9 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="境外",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="境外",RT
-https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="境外",RT记录
-https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
+https://rt-rtd.gcdn.co/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="境外",France 24
 http://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="" group-title="境外",Cheddar News
@@ -1676,7 +1676,7 @@ http://stream.rcs.revma.com/aw9uqyxy2tzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/news98新闻台.png" group-title="境外广播" radio="true",News98新闻台
 http://stream.rcs.revma.com/55tyxsy4qtzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/飞碟电台.png" group-title="境外广播" radio="true",飞碟电台
-http://cast.uforadio.com.tw:8000/em90w4aeewzuv
+http://stream.rcs.revma.com/em90w4aeewzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/澳门电台.png" group-title="境外广播" radio="true",澳门电台
 https://live4.tdm.com.mo/live/_definst_/rch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/宝岛联播网.png" group-title="境外广播" radio="true",宝岛联播网|宝岛新声
