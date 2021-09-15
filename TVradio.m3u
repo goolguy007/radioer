@@ -994,30 +994,51 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv14hd.m3u8
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="境外",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="境外",Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="" group-title="境外",VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="境外",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="https://gitee.com/radioer/radioer/raw/main/abcnews.jpg" group-title="境外",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="境外",Sky News
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="境外",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="" group-title="境外",Cheddar News
+https://live.chdrstatic.com/cbn/index.m3u8
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="" group-title="境外",亚洲新闻台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/detail/215-2151705_cbs-news-png-vector-transparent-stock-cbs-news.png" group-title="境外",CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_8.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="境外",NHK World 
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" group-title="境外",NHK华语视界
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="境外",阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="境外",RT新闻
+https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="境外",RT记录
+https://rt-rtd.gcdn.co/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台FHD
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls254.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台FHD
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls255.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="境外",凤凰卫视香港台
 http://zb.ios.ifeng.com:80/live/05QGDOFQJ28/index.m3u8
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/凤凰卫视电影台.png" group-title="境外",凤凰卫视电影台
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/fhdy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",莲花卫视
+http://149.129.100.78/lotus.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/channelv.png" group-title="境外",[V]
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/channelv.png" group-title="境外",[V]国际
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",爱尔达体育2台
-rtmp://59.124.75.153/sat/md021
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",爱尔达奥运2台
-rtmp://161.202.204.248:1935/sat/md011
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",东森超视
-rtmp://161.202.204.248/sat/tv771
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",明珠台
@@ -1035,12 +1056,36 @@ https://cdn.hkdtmb.com/hls/82/index.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",ViU 6
 https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="境外",香港开电视
+https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="境外",RTHK31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="境外",RTHK32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmzxt.jpg" group-title="境外",澳门资讯
+http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/aomen-macau.jpg" group-title="境外",澳门卫星
+http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmgq.jpg" group-title="境外",澳门综艺
+http://live2.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmty.jpg" group-title="境外",澳门体育
+http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg" group-title="境外",澳视澳门
+http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="境外",澳亚卫视
+http://live.mastvnet.com/4rlff1m/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now新闻台
 http://149.129.100.78/now.php?id=332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now直播台
 http://149.129.100.78/now.php?id=331
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="境外",民视新闻台
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",爱尔达体育2台
+rtmp://59.124.75.153/sat/md021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",爱尔达奥运2台
+rtmp://161.202.204.248:1935/sat/md011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",东森超视
+rtmp://161.202.204.248/sat/tv771
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",民视
 rtmp://161.202.204.248/sat/tv051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",台视
@@ -1057,45 +1102,6 @@ rtmp://161.202.204.248/sat/tv721
 rtmp://161.202.204.248/sat/tv701
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",纬来日本
 rtmp://161.202.204.248:1935/sat/tv521
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",BBC News
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="境外",RTHK31
-http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="境外",RTHK31 FHD
-https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK32.png" group-title="境外",RTHK32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="境外",RTHK32 FHD
-https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="境外",半岛电视台
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/detail/215-2151705_cbs-news-png-vector-transparent-stock-cbs-news.png" group-title="境外",CBS News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_8.m3u8
-#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="" group-title="境外",亚洲新闻台
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="https://gitee.com/radioer/radioer/raw/main/abcnews.jpg" group-title="境外",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="境外",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="" group-title="境外",VOA
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="境外",RT新闻
-https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="境外",RT记录
-https://rt-rtd.gcdn.co/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="境外",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="" group-title="境外",Cheddar News
-https://live.chdrstatic.com/cbn/index.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="境外",NHK World 
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" group-title="境外",NHK华语视界
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="境外",阿里郎
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="境外",德国之声
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="境外",Newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",V2BEAT
@@ -1106,48 +1112,18 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/startv.m3u8
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="境外",探索频道
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",莲花卫视
-http://149.129.100.78/lotus.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",Star Sports
+http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/starsports.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="境外",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/4034970a304e251f46b43584a786c9177f3e530f.jpg" group-title="境外",美国中文电视
+https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",大爱海外
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",Star Sports
-http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/starsports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/aomen-macau.jpg" group-title="境外",澳门卫星
-http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmgq.jpg" group-title="境外",澳门综艺
-http://live2.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmty.jpg" group-title="境外",澳门体育
-http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg" group-title="境外",澳视澳门
-http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="境外",香港开电视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="境外",香港开电视FHD
-https://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="境外",BabyFirst
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="境外",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/weathernation.jpeg" group-title="境外",WeatherNation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="境外",Bloomberg
-https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="境外",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chttv.com/UpLoadFile/image/20180412/20180412100657_98319.png" group-title="境外",中华卫视
-http://pull.hwgscm.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/4034970a304e251f46b43584a786c9177f3e530f.jpg" group-title="境外",美国中文电视
-https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="境外",澳亚卫视
-http://live.mastvnet.com/4rlff1m/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmzxt.jpg" group-title="境外",澳门资讯
-http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ctstvnet.com/uploads/image/20190904/1567573278176773.png" group-title="境外",亚旅卫视
-http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息综合台
 http://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",好消息真理台
