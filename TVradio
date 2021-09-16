@@ -1157,6 +1157,24 @@ http://live.streamingfast.net/osmflivech27.m3u8
 http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newpophits.png" group-title="网络广播" radio="true",Pop Hits
 http://rfcmedia.streamguys1.com/newpophitspremium.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249914/images/logod.png?t=1" group-title="网络广播" radio="true",Alternative Hits
+http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249981/images/logog.jpg?t=2" group-title="网络广播" radio="true",Country Hits
+http://rfcmedia.streamguys1.com/countryhitspremium.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s224628/images/logog.jpg?t=4" group-title="网络广播" radio="true",Country Roads
+http://rfcmedia.streamguys1.com/countryroadspremium.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249937/images/logog.jpg?t=2" group-title="网络广播" radio="true",Relax & Unwind
+http://rfcmedia.streamguys1.com/relaxationpremium.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249973/images/logog.jpg?t=162282" group-title="网络广播" radio="true",Smooth Jazz
+http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s291088g.png" group-title="网络广播" radio="true",The Hit List
+http://rfcmedia.streamguys1.com/srhitlist.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s303095/images/logod.png?t=158589" group-title="网络广播" radio="true",Dance One
+http://rfcmedia.streamguys1.com/srdanceone.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-profiles.tunein.com/g385/images/logod.png?t=636564760576470000" group-title="网络广播" radio="true",Disco Beats
+http://rfcmedia.streamguys1.com/srdiscobeats.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249981/images/logog.jpg?t=2" group-title="网络广播" radio="true",Today's Country Hits
+http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s293704g.png" group-title="网络广播" radio="true",Coffee House ☕️
 http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播" radio="true",潮流音悦台
@@ -1892,11 +1910,10 @@ http://stream.appwuhan.com/yypdzb/sd/live.m3u8
 http://stream.appwuhan.com/sepdzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/武安旅游音乐广播.png" group-title="音乐广播" radio="true",武安旅游音乐广播
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/滨州文艺音乐广播.png" group-title="音乐广播" radio="true",滨州文艺音乐广播
-http://starfish.qd.aliyun.005.qingting.fm:8000/binzhouyinle
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长治顶尖音乐广播.png" group-title="音乐广播" radio="true",长治顶尖音乐Top-radio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/乐动1056.png" group-title="音乐广播" radio="true",Heart FM 乐动1056
 http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingdianyinle
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/成都经典946.png" group-title="音乐广播" radio="true",成都文化休闲广播·经典946
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/成都经典946.png" group-title="音乐广播" radio="true",成都文化休闲广播·radio946
 http://149.129.100.78/cdgb.php?id=433-20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/myradio.png" group-title="音乐广播" radio="true",河南影视广播·My Radio
 http://stream2.hndt.com/zbj/MyRadio900.m3u8
