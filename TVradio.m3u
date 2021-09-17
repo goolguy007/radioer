@@ -994,8 +994,6 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv14hd.m3u8
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV-17 农业农村FHD
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/cgtn.png" group-title="央视",CGTN
 http://124.232.231.246:6610/000000001001/201500000019/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://gitee.com/radioer/photo/raw/main/CGTN纪录.png" group-title="央视",CGTN记录
