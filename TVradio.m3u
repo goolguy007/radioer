@@ -38,6 +38,10 @@ http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/2.m3u
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",北京IPTV 淘BABY
 http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",Y+
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",芒果TV体育
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231276/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",动漫秀场
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字",第一剧场
@@ -1049,9 +1053,11 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",无线新闻台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",有线新闻台
-https://api.leonardpark.dev/live/icable/109
+http://cdn-v2.hkdtmb.com/hls/109/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",无线财经资讯台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",香港国际财经台
+https://cdn.hkdtmb.com/hls/76/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",ViU 6
