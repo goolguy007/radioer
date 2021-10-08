@@ -7,4 +7,4 @@
 收录了美国公共广播npr旗下大部分电台，音质为256kbps，学英语的同学们有福啦！
 收录了省级卫视和CCTV各频道（只支持ipv6），5.1环绕声，让你身临其境。
 收录了部分境外频道和地方电视台。
-iPhone/iPad/Apple TV 可使用影音宝app导入订阅地址https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio 这样可以获得最新直播源列表，简单高效。
+iPhone/iPad/Apple TV 可使用影音宝app导入订阅地址https://raw.githubusercontent.com/goolguy007/radioer/raw/TVradio 这样可以获得最新直播源列表，简单高效。
