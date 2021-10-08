@@ -1037,8 +1037,6 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls254.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls255.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="境外",凤凰卫视香港台
-http://zb.ios.ifeng.com:80/live/05QGDOFQJ28/index.m3u8
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="https://gitee.com/radioer/radioer/raw/main/凤凰卫视电影台.png" group-title="境外",凤凰卫视电影台
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",莲花卫视
