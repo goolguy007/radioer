@@ -485,21 +485,21 @@ http://149.129.100.78/sztv.php?id=7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳移动电视
 http://149.129.100.78/sztv.php?id=8
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
-http://149.129.100.78/guangdong.php?id=44
+http://149.129.100.78/itouchtv.php?id=gdzj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东新闻
-http://149.129.100.78/guangdong.php?id=45
+http://149.129.100.78/itouchtv.php?id=gdxw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东体育
-http://149.129.100.78/guangdong.php?id=47
+http://149.129.100.78/itouchtv.php?id=gdty
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东经济科教
-http://149.129.100.78/guangdong.php?id=49
+http://149.129.100.78/itouchtv.php?id=gdjjkj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东影视
-http://149.129.100.78/guangdong.php?id=53
+http://149.129.100.78/itouchtv.php?id=gdys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东综艺
-http://149.129.100.78/guangdong.php?id=16
+http://149.129.100.78/itouchtv.php?id=gdzy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东国际
-http://149.129.100.78/guangdong.php?id=46
+http://149.129.100.78/itouchtv.php?id=gdgj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东少儿
-http://149.129.100.78/guangdong.php?id=54
+http://149.129.100.78/itouchtv.php?id=gdse
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山综合
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山影视
@@ -515,19 +515,18 @@ http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山三水
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南方购物
-http://149.129.100.78/guangdong.php?id=42
+http://149.129.100.78/guangdong.php?id=nfgw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",岭南戏曲
-http://149.129.100.78/guangdong.php?id=15
+http://149.129.100.78/guangdong.php?id=lnxq
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东房产
-http://149.129.100.78/guangdong.php?id=67
+http://149.129.100.78/guangdong.php?id=gdfc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",现代教育
-http://149.129.100.78/guangdong.php?id=13
+http://149.129.100.78/guangdong.php?id=xdjy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",高尔夫
-http://149.129.100.78/guangdong.php?id=68
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东移动
-http://149.129.100.78/guangdong.php?id=74
+http://149.129.100.78/guangdong.php?id=gdyd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东文化
-http://149.129.100.78/guangdong.php?id=75
+http://149.129.100.78/guangdong.php?id=gdwh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵州公共
 http://149.129.100.78/guizhou.php?id=gzgg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵州影视文艺
@@ -807,7 +806,7 @@ http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视FHD
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视FHD
-http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/1.m3u8
+http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls141.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视FHD
 http://39.134.39.39/270000001322/69900158041111100000002140/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视FHD
@@ -904,7 +903,7 @@ http://149.129.100.78/guangdong.php?id=66
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/sstv.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
-http://149.129.100.78/guangdong.php?id=51
+http://149.129.100.78/guangdong.php?id=nfws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.rmb.bdstatic.com/1b45a887efeb6548e55b6e5e4d48073f.png" group-title="卫视",山东教育卫视
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/sdetv.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
@@ -929,7 +928,6 @@ http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u
 http://117.148.179.37/PLTV/88888888/224/3221229878/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV4.png" group-title="央视",CCTV-4 中文国际FHD
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225753/index.m3u8
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/cctv5.png" group-title="央视",CCTV-5 体育FHD
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事FHD
