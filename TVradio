@@ -35,6 +35,10 @@ http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/2.m3u
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",北京IPTV 淘BABY
 http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",北京IPTV 淘娱乐
+http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",北京IPTV 萌宠
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/index.m3u8
 #EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg" group-title="数字",DoxTV
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",Y+
