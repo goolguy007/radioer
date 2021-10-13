@@ -1971,6 +1971,38 @@ http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
 http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/99金曲.png" group-title="音乐广播" radio="true",久久金曲
 http://starfish.bj.aliyun.005.qingting.fm:8000/jiujiujinquFM999
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="电视伴音",CCTV-1 综合
+https://cctvbsc.v.live.baishancdnx.cn/live/cctv1_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="电视伴音",CCTV-2 财经
+https://cctvbsc.v.live.baishancdnx.cn/live/cctv2_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="电视伴音",CCTV-3 综艺
+http://cctv.v.myalicdn.com/live/cctv3_1audio.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="电视伴音",CCTV-4 中文国际
+https://cctvbsc.v.live.baishancdnx.cn/live/cctv4_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="电视伴音",CCTV-5 体育
+https://cctvbsc.v.live.baishancdnx.cn/live/cctv5_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="电视伴音",CCTV-6 电影
+http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="电视伴音",CCTV-7 军事农业
+https://cctvbsc.v.live.baishancdnx.cn/live/cctv7_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="电视伴音",CCTV-8 电视剧
+http://cctv.v.myalicdn.com/live/cctv8_1audio.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="电视伴音",CCTV-9 纪录
+https://cctvbsc.v.live.baishancdnx.cn/live/cctvjilu_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="电视伴音",CCTV-10 科教
+https://cctvbsc.v.live.baishancdnx.cn/live/cctv10_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="电视伴音",CCTV-11 戏曲
+https://cctvbsc.v.live.baishancdnx.cn/live/cctv11_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="电视伴音",CCTV-12 社会与法
+https://cctvbsc.v.live.baishancdnx.cn/live/cctv12_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="电视伴音",CCTV-13 新闻
+https://cctvbsc.v.live.baishancdnx.cn/live/cctv13_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="电视伴音",CCTV-14 少儿
+https://cctvbsc.v.live.baishancdnx.cn/live/cctvchild_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="电视伴音",CCTV-15 音乐
+https://cctvbsc.v.live.baishancdnx.cn/live/cctv15_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="电视伴音",CCTV-17 农业农村
+https://cctvbsc.v.live.baishancdnx.cn/live/cctv17_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="电视伴音",湖南卫视
 http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="电视伴音",东方卫视
