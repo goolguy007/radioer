@@ -797,15 +797,15 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="#境外",星空卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",星空卫视
 http://tv.haue.edu.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="#境外",[V]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",[V]
 http://tv.haue.edu.cn/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="#境外",国家地理
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="境外",国家地理
 http://tv.haue.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="#境外",探索频道
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="境外",探索频道
 http://tv.haue.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="#境外",Star Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",Star Sports
 http://tv.haue.edu.cn/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",莲花卫视
 http://149.129.100.78/lotus.php?id=1
