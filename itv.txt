@@ -1793,4 +1793,43 @@ http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="电视伴音",西藏卫视
 http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
-
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="电视伴音",海南卫视
+http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="电视伴音",江西卫视
+http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="电视伴音",宁夏卫视
+http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="电视伴音",山西卫视
+https://wstvcncc.v.wscdns.com/wstv/shan1xi_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="电视伴音",香港卫视
+https://cstvalic.v.myalicdn.com/cstv/xianggangweishi_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="电视伴音",青海卫视
+http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="电视伴音",内蒙古卫视
+http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="电视伴音",新疆卫视
+http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="电视伴音",北京新闻
+https://wstvbsc.v.live.baishancdnx.cn/wstv/btv9_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="电视伴音",北京文艺
+https://wstvbsc.v.live.baishancdnx.cn/wstv/btv2_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="电视伴音",北京科教
+https://wstvbsc.v.live.baishancdnx.cn/wstv/btv3_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="电视伴音",北京影视
+https://wstvbsc.v.live.baishancdnx.cn/wstv/btv4_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="电视伴音",北京财经
+https://wstvbsc.v.live.baishancdnx.cn/wstv/btv5_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="电视伴音",北京冬奥纪实
+https://wstvbsc.v.live.baishancdnx.cn/wstv/btv6_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="电视伴音",北京生活
+https://wstvbsc.v.live.baishancdnx.cn/wstv/btv7_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="电视伴音",北京青年
+https://wstvbsc.v.live.baishancdnx.cn/wstv/btv8_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="电视伴音",中国教育1
+https://cstvbsc.v.live.baishancdnx.cn/cstv/cetv1_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="电视伴音",中国教育2
+https://cstvbsc.v.live.baishancdnx.cn/cstv/cetv2_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="电视伴音",中国教育3
+https://cstvbsc.v.live.baishancdnx.cn/cstv/cetv3_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="电视伴音",中国教育4
+https://cstvbsc.v.live.baishancdnx.cn/cstv/cetv4_1/index.m3u8?adapt=0&BR=audio
