@@ -784,7 +784,7 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/ind
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/cgtn.png" group-title="央视",CGTN 
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://gitee.com/radioer/photo/raw/main/CGTN纪录.png" group-title="央视",CGTN记录
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://gitee.com/radioer/photo/raw/main/CGTN纪录.png" group-title="央视",CGTN纪录
 http://124.232.231.246:6610/000000001001/201500000011/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CNC中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
@@ -899,7 +899,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="境外",RT新闻
 https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="境外",RT记录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="境外",RT纪录
 https://rt-rtd.gcdn.co/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="境外",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
