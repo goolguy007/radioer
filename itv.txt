@@ -790,10 +790,10 @@ http://124.232.231.246:6610/000000001001/201500000011/index.m3u8?IASHttpSessionI
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CNC英文
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台
+http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",星空卫视
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",[V]
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="境外",国家地理
@@ -1060,7 +1060,7 @@ http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声新闻广播.png" group-title="综合广播",海峡之声·新闻广播
 http://www.vos.com.cn/live/liveNew/800k/tzwj_video.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声文化生活广播.png" group-title="综合广播" radio="true",海峡之声·文化生活广播
-http://47.107.255.25:1935/live/liveSh/800k/tzwj_video.m3u8
+mmst://27.151.117.209/996
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声闽南语广播.png" group-title="综合广播",海峡之声·闽南话广播
 http://47.107.255.25:1935/live/liveMn/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/中国华艺广播.png" group-title="综合广播",中国华艺广播
