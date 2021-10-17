@@ -95,7 +95,7 @@ http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/index
 #EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="地方",北京青年
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/index.m3u8
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方",北京科教
-http://[2409:8087:0:20:10::35]/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8
+http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV国际.png" group-title="地方",北京国际
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/index.m3u8
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="地方",峨眉电影
@@ -274,6 +274,10 @@ http://149.129.100.78/zz.php?id=zzysxq
 http://149.129.100.78/zz.php?id=zzfnet
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",郑州都市生活
 http://149.129.100.78/zz.php?id=zzdssh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",邵阳新闻综合
+http://149.129.100.78/shaoyang.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",邵阳公共
+http://149.129.100.78/shaoyang.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",兰州新闻综合
 http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",兰州公共
@@ -1403,8 +1407,10 @@ http://playfmaliyun.3xgd.com/fm/xwt.m3u8
 http://playfmaliyun.3xgd.com/fm/jtt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/欢乐调频.png" group-title="综合广播",欢乐调频
 http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/邵阳经济广播.png" group-title="综合广播",邵阳经济广播
-http://starfish.hz.aliyun.005.qingting.fm:8000/shaoyangjingji
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2017/0501/20170501094224.jpeg" group-title="综合广播",邵阳综合广播
+http://149.129.100.78/shaoyang.php?id=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/邵阳经济广播.png" group-title="综合广播",邵阳经济广播飞扬996
+http://149.129.100.78/shaoyang.php?id=4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/房山电台.png" group-title="综合广播",房山电台
 http://live.funhillrm.com/3/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/cnr维吾尔语广播.png" group-title="综合广播",维吾尔语广播
