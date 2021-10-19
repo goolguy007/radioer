@@ -999,36 +999,20 @@ http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
 http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498187765828570.png" group-title="网络广播",国乐悠扬
 http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/中国之声.png" group-title="综合广播",中国之声
-http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经济之声.png" group-title="综合广播",经济之声
-http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/中国交通广播.png" group-title="综合广播",中国交通广播
-http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/环球资讯广播.png" group-title="综合广播",环球资讯广播
 http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/华语环球广播.png" group-title="综合广播",华语环球广播
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/第一财经广播.png" group-title="综合广播",第一财经广播
-http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2021/0831/20210831043119.jpeg" group-title="综合广播",湖南旅游广播·PoPoPod播客电台
-http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/潇湘之声.png" group-title="综合广播",湖南潇湘之声
-http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南经济广播.png" group-title="综合广播",湖南经济广播
-http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南交通广播.png" group-title="综合广播",湖南交通广播
-http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/金鹰955.png" group-title="综合广播",湖南金鹰之声
-http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南新闻综合广播.png" group-title="综合广播",湖南综合广播
-http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/长三角之声.png" group-title="综合广播",长三角之声
-http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/chinaplusradio.png" group-title="综合广播",China Plus Radio
-http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/中国交通广播.png" group-title="综合广播",中国交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/轻松调频.png" group-title="综合广播",轻松调频
 http://sk.cri.cn/915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/chinaplusradio.png" group-title="综合广播",China Plus Radio
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/中国之声.png" group-title="综合广播",中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经济之声.png" group-title="综合广播",经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/文艺之声.png" group-title="综合广播",文艺之声
 http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/阅读之声.png" group-title="综合广播",阅读之声
@@ -1049,8 +1033,32 @@ http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 http://ngcdn006.cnr.cn/live/szzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://f2.cri.cn/M00/8D/F9/CqgNOlr5LoOAeOC0AAAAAAAAAAA4780633.logo.png" group-title="综合广播",南海之声
 http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/长三角之声.png" group-title="综合广播",长三角之声
+http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/第一财经广播.png" group-title="综合广播",第一财经广播
+http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0701/20200701052348.png" group-title="综合广播",交通广播网
 http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声新闻广播.png" group-title="综合广播",海峡之声·新闻广播
+http://www.vos.com.cn/live/liveNew/800k/tzwj_video.m3u8
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声文化生活广播.png" group-title="综合广播" radio="true",海峡之声·文化生活广播
+mmst://27.151.117.209/996
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声闽南语广播.png" group-title="综合广播",海峡之声·闽南话广播
+http://47.107.255.25:1935/live/liveMn/800k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/中国华艺广播.png" group-title="综合广播",中国华艺广播
+http://47.107.255.25:1935/live/chbc/800k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2021/0831/20210831043119.jpeg" group-title="综合广播",湖南旅游广播·PoPoPod播客电台
+http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/潇湘之声.png" group-title="综合广播",湖南潇湘之声
+http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南经济广播.png" group-title="综合广播",湖南经济广播
+http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南交通广播.png" group-title="综合广播",湖南交通广播
+http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/金鹰955.png" group-title="综合广播",湖南金鹰之声
+http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南新闻综合广播.png" group-title="综合广播",湖南综合广播
+http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/京津冀之声.png" group-title="综合广播",京津冀之声
 http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/北京新闻广播.png" group-title="综合广播",北京新闻广播
@@ -1069,14 +1077,6 @@ http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
 http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/北京体育广播.png" group-title="综合广播",北京体育广播
 http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声新闻广播.png" group-title="综合广播",海峡之声·新闻广播
-http://www.vos.com.cn/live/liveNew/800k/tzwj_video.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声文化生活广播.png" group-title="综合广播" radio="true",海峡之声·文化生活广播
-mmst://27.151.117.209/996
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声闽南语广播.png" group-title="综合广播",海峡之声·闽南话广播
-http://47.107.255.25:1935/live/liveMn/800k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/中国华艺广播.png" group-title="综合广播",中国华艺广播
-http://39.106.225.170/OwtSm84/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江苏故事广播.png" group-title="综合广播",江苏故事广播
 http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江苏新闻综合广播.png" group-title="综合广播",江苏新闻综合广播
