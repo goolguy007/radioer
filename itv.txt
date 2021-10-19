@@ -1035,7 +1035,7 @@ http://ngcdn006.cnr.cn/live/szzs/index.m3u8
 http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/长三角之声.png" group-title="综合广播",长三角之声
 http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/第一财经广播.png" group-title="综合广播",第一财经广播
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://upload.ajmide.com/p/image/202101/14/142407-nN2AikHyrt1610609292338_1915x1915.jpg" group-title="综合广播",第一财经广播
 http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0701/20200701052348.png" group-title="综合广播",交通广播网
 http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
