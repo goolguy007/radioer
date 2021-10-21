@@ -331,6 +331,12 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 http://124.232.231.246:6610/000000001001/201500000158/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="数字",中国交通频道(海南)
 https://tv.lanjingfm.com/cctbn/hainan.m3u8
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="数字",中国交通频道(湖北)
+https://tv.lanjingfm.com/cctbn/hubei.m3u8
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="数字",中国交通频道(广东)
+https://tv.lanjingfm.com/cctbn/guangdong.m3u8
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="数字",中国交通频道(吉林)
+https://tv.lanjingfm.com/cctbn/jilin.m3u8
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://149.129.100.78/dxxw.php?id=155
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
@@ -513,12 +519,6 @@ https://devlivepull.migucloud.com/live/ZBXWIMTD_C0_2.flv
 https://devlivepull.migucloud.com/live/6KN3ZB2S_C0_2.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",昆明影视综艺
 https://devlivepull.migucloud.com/live/KYLNJWFD_C0_2.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宜昌综合
-http://149.129.100.78/yichang.php?id=zhpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宜昌旅游生活
-http://149.129.100.78/yichang.php?id=lysw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宜昌公共
-http://149.129.100.78/yichang.php?id=ggpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁新闻综合
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁都市生活
@@ -1259,7 +1259,7 @@ http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/四川交通广播.png" group-title="综合广播",四川交通广播
 http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/四川之声.png" group-title="综合广播",四川之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/四川之声.png" group-title="综合广播",四川综合广播四川之声
 http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/四川私家车广播.png" group-title="综合广播",四川私家车广播
 http://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
