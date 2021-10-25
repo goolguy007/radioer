@@ -370,7 +370,6 @@ http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV国际.png" group-title="地方",北京国际
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/index.m3u8
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="地方",峨眉电影
-http://60.255.49.202/live/emdygqH265_4000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电影
 http://124.232.231.246:6610/000000001001/201500000237/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南经视
@@ -411,6 +410,20 @@ http://149.129.100.78/cutv.php?id=sxjj
 http://149.129.100.78/cutv.php?id=sxys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg" group-title="地方",山西公共
 http://149.129.100.78/cutv.php?id=sxgg
+#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="地方",四川新闻
+http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
+#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="地方",四川经济
+http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
+#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="地方",四川文化旅游
+http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
+#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="地方",四川影视文艺
+http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="地方",四川妇女儿童
+http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
+#EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="地方",四川乡村
+http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv6.png" group-title="地方",四川星空购物
+http://scgctvshow.sctv.com/hdlive/sctv6/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ohudong.cztv.com/1/logos/2020/12/31/cc2b0ca1bd0db74f75ad810587c28c32.png" group-title="地方",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/72d035c03412d7cb2d319c6607fef8e9.png" group-title="地方",浙江国际
@@ -565,20 +578,6 @@ http://149.129.100.78/cs.php?id=350
 http://124.232.231.246:6610/000000001001/201500000232/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙女性
 http://149.129.100.78/cs.php?id=349
-#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="地方",四川经济
-http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
-#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="地方",四川文化旅游
-http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
-#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="地方",四川新闻
-http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
-#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="地方",四川影视文艺
-http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
-#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="地方",四川妇女儿童
-http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
-#EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="地方",四川乡村
-http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv6.png" group-title="地方",四川星空购物
-http://scgctvshow.sctv.com/hdlive/sctv6/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏影视
 http://149.129.100.78/jiangsu.php?id=jsys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏综艺
@@ -611,32 +610,22 @@ http://stream1.huaihai.tv/xwzh/playlist.m3u8
 http://stream1.huaihai.tv/jjsh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",徐州文艺影视
 http://stream1.huaihai.tv/wyys/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",扬州新闻综合
-http://149.129.100.78/yangzhou.php?id=235
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",扬州教育
-http://149.129.100.78/yangzhou.php?id=291
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",扬州公共
-http://149.129.100.78/yangzhou.php?id=236
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",扬州江都
-http://149.129.100.78/yangzhou.php?id=290
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",扬州邗江
-http://149.129.100.78/yangzhou.php?id=292
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",常熟新闻综合
 http://149.129.100.78/changshu.php?id=xwzh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",常熟民生经济
 http://149.129.100.78/changshu.php?id=msjj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",杭州综合
-http://live.hoolo.tv/hztv1/sd/live.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="地方",杭州西湖明珠
-http://live.hoolo.tv/hztv2/sd/live.m3u8
+http://117.148.179.132/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",杭州明珠
+http://117.148.179.135/PLTV/88888888/224/3221229310/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",杭州生活
-http://live.hoolo.tv/hztv3/sd/live.m3u8
+http://117.148.179.134/PLTV/88888888/224/3221229313/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",杭州影视
-http://live.hoolo.tv/hztv4/sd/live.m3u8
+http://117.148.179.133/PLTV/88888888/224/3221229377/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",杭州青少体育
-http://live.hoolo.tv/hztv5/sd/live.m3u8
+http://117.148.179.133/PLTV/88888888/224/3221229316/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",杭州导视
-http://live.hoolo.tv/hztv6/sd/live.m3u8
+http://112.15.230.49/PLTV/88888888/224/3221230469/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南经济
 http://149.129.100.78/hainan.php?id=4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南新闻
@@ -1099,14 +1088,6 @@ http://satellitepull.cnr.cn/live/wx32jsjtgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江苏健康广播.png" group-title="综合广播",江苏健康广播
 http://satellitepull.cnr.cn/live/wx32jsjkgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/扬州新闻广播.png" group-title="综合广播",扬州新闻广播
-http://149.129.100.78/yangzhou.php?id=293
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/扬州交通广播.png" group-title="综合广播",扬州交通广播
-http://149.129.100.78/yangzhou.php?id=294
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/扬州FM967.png" group-title="综合广播",扬州FM96.7
-http://149.129.100.78/yangzhou.php?id=295
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/扬州江都广播.png" group-title="综合广播",扬州江都广播
-http://149.129.100.78/yangzhou.php?id=307
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/安徽之声.png" group-title="综合广播",安徽之声
 http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/安徽城市之声.png" group-title="综合广播",安徽生活广播·城市之声
