@@ -994,13 +994,13 @@ http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/华语环球广播.png" group-title="综合广播" radio="true",华语环球广播
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/中国交通广播.png" group-title="综合广播" radio="true",中国交通广播
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://pic.qtfm.cn/2017/0208/20170208175843902.jpg" group-title="综合广播" radio="true",中国交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/轻松调频.png" group-title="综合广播" radio="true",轻松调频
 http://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/chinaplusradio.png" group-title="综合广播" radio="true",China Plus Radio
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://f2.cri.cn/M00/8D/F9/CqgNOlr5LoOAeOC0AAAAAAAAAAA4780633.logo.png" group-title="综合广播" radio="true",南海之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1564021782775_bUoQXgHrn.jpeg" group-title="综合广播" radio="true",南海之声
 http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/中国之声.png" group-title="综合广播" radio="true",中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
