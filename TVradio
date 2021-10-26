@@ -1046,7 +1046,8 @@ http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://upload.ajmide.com/p/image/202101/14/142407-nN2AikHyrt1610609292338_1915x1915.jpg" group-title="综合广播" radio="true",第一财经广播
 http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0701/20200701052348.png" group-title="综合广播" radio="true",交通广播网
-http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
+http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声文化生活广播.png" group-title="综合广播" radio="true",海峡之声·文化生活广播
+mmst://27.151.117.209/996
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声新闻广播.png" group-title="综合广播" radio="true",海峡之声·新闻广播
 http://www.vos.com.cn/live/liveNew/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声闽南语广播.png" group-title="综合广播" radio="true",海峡之声·闽南话广播
@@ -1603,8 +1604,6 @@ http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/好听1055.png" group-title="音乐广播" radio="true",陕西青少广播·好听1055
 http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声文化生活广播.png" group-title="综合广播" radio="true",海峡之声·文化生活广播
-mmst://27.151.117.209/996
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/苏州音乐广播.png" group-title="音乐广播" radio="true",苏州都市音乐广播
 http://audio-live.radio.cn/live/szyy1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东音乐广播.png" group-title="音乐广播" radio="true",山东音乐广播
