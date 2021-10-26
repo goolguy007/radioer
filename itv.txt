@@ -160,6 +160,22 @@ https://cdn.hkdtmb.com/hls/77/index.m3u8
 https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="境外",RTHK32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",东风卫视
+http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",MTV
+http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",公视
+http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",AXN
+http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",东森新闻
+http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",TVBS新闻
+http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",中天新闻
+http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",三立iNews
+http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmzxt.jpg" group-title="境外",澳门资讯
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/aomen-macau.jpg" group-title="境外",澳门卫星
@@ -998,8 +1014,6 @@ http://sk.cri.cn/hyhq.m3u8
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/轻松调频.png" group-title="综合广播" radio="true",轻松调频
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/chinaplusradio.png" group-title="综合广播" radio="true",China Plus Radio
-http://sk.cri.cn/am846.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1564021782775_bUoQXgHrn.jpeg" group-title="综合广播" radio="true",南海之声
 http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/中国之声.png" group-title="综合广播" radio="true",中国之声
@@ -1023,7 +1037,8 @@ http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/大湾区之声.png" group-title="综合广播" radio="true",大湾区之声
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/cnr神州之声.png" group-title="综合广播" radio="true",神州之声
-http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/chinaplusradio.png" group-title="综合广播" radio="true",China Plus Radio
+http://sk.cri.cn/am846.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/长三角之声.png" group-title="综合广播" radio="true",长三角之声
 http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://upload.ajmide.com/p/image/202101/14/142407-nN2AikHyrt1610609292338_1915x1915.jpg" group-title="综合广播" radio="true",第一财经广播
