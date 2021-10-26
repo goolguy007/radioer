@@ -1090,14 +1090,8 @@ http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江苏新闻广播.png" group-title="综合广播" radio="true",江苏新闻广播
 http://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州生活广播.png" group-title="综合广播" radio="true",苏州生活广播
-http://audio-live.radio.cn/live/szsh1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州儿童广播.png" group-title="综合广播" radio="true",苏州儿童广播
-http://audio-live.radio.cn/live/szet1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江苏文艺广播.png" group-title="综合广播" radio="true",江苏文艺广播
 http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州综合广播.png" group-title="综合广播" radio="true",苏州综合广播
-http://audio-live.radio.cn/live/szxwzh1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/金陵之声.png" group-title="综合广播" radio="true",金陵之声
 http://satellitepull.cnr.cn/live/wx32jsqctp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江苏交通广播.png" group-title="综合广播" radio="true",江苏交通广播
@@ -1106,6 +1100,16 @@ http://satellitepull.cnr.cn/live/wx32jsjtgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江苏健康广播.png" group-title="综合广播" radio="true",江苏健康广播
 http://satellitepull.cnr.cn/live/wx32jsjkgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州生活广播.png" group-title="综合广播" radio="true",苏州生活广播
+http://audio-live.radio.cn/live/szsh1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州儿童广播.png" group-title="综合广播" radio="true",苏州儿童广播
+http://audio-live.radio.cn/live/szet1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州综合广播.png" group-title="综合广播" radio="true",苏州综合广播
+http://audio-live.radio.cn/live/szxwzh1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1631607649319_Vd7ueakoB.jpeg" group-title="综合广播" radio="true",苏州交通经济广播
+http://audio-live.radio.cn/live/szjtjj1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2018/0212/20180212113048425.jpg" group-title="综合广播" radio="true",苏州戏曲广播
+http://audio-live.radio.cn/live/szxq1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/安徽之声.png" group-title="综合广播" radio="true",安徽之声
 http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/安徽城市之声.png" group-title="综合广播" radio="true",安徽生活广播·城市之声
