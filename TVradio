@@ -78,7 +78,7 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/ind
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
 http://124.232.231.246:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
-http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/index.m3u8
+http://[2409:8087:0:20:10::3a]/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视",嘉佳卡通
@@ -378,9 +378,9 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mn
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/index.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
-http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/index.m3u8
+http://[2409:8087:2:20::42]/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/index.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",北京文艺
-http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/index.m3u8
+http://[2409:8087:2:20::2f]/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/index.m3u8
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/index.m3u8
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
