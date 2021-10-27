@@ -1058,12 +1058,12 @@ http://www.vos.com.cn/live/liveNew/800k/tzwj_video.m3u8
 http://47.107.255.25:1935/live/liveMn/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/中国华艺广播.png" group-title="综合广播" radio="true",中国华艺广播
 http://47.107.255.25:1935/live/chbc/800k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2021/0831/20210831043119.jpeg" group-title="综合广播" radio="true",湖南旅游广播·PoPoPod播客电台
-http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/潇湘之声.png" group-title="综合广播" radio="true",湖南潇湘之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx3.sinaimg.cn/mw2000/74c40dealy8gq8y3155j1j20u00u0myp.jpg" group-title="综合广播" radio="true",湖南潇湘之声
 http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南经济广播.png" group-title="综合广播" radio="true",湖南经济广播
 http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2021/0831/20210831043119.jpeg" group-title="综合广播" radio="true",湖南旅游广播·PoPoPod播客电台
+http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南交通广播.png" group-title="综合广播" radio="true",湖南交通广播
 http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/金鹰955.png" group-title="综合广播" radio="true",湖南金鹰之声
