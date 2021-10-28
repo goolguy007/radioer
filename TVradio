@@ -133,11 +133,6 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="境外",凤凰卫视中文台
 http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",星空卫视
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",[V]
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="境外",国家地理
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="境外",探索频道
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",Star Sports
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://television-live.com/uploads/posts/2019-06/1561572071_lotus-tv-macau.png" group-title="境外",澳门莲花卫视
 http://149.129.100.78/lotus.php?id=1
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="境外",翡翠台
@@ -164,22 +159,6 @@ https://cdn.hkdtmb.com/hls/77/index.m3u8
 https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="境外",RTHK32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",东风卫视
-http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",MTV
-http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",公视
-http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",AXN
-http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",东森新闻
-http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",TVBS新闻
-http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",中天新闻
-http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",三立iNews
-http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmzxt.jpg" group-title="境外",澳门资讯
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/aomen-macau.jpg" group-title="境外",澳门卫星
@@ -193,12 +172,25 @@ http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="境外",澳亚卫视
 http://live.mastvnet.com/4rlff1m/live.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="境外",民视新闻台
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv
+#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="境外",壹新闻
+http://v3948069e.live.126.net/live/xtxndaws57833801/50.flv
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="境外",东森新闻
+http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="境外",TVBS新闻
+http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",中天新闻
+http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",三立iNews
+http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv
 #EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="境外",ELEVEN2
 rtmp://59.124.75.138:1935/sat/md021
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",爱尔达体育2台
 rtmp://59.124.75.138:1935/sat/md011
-#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="境外",东森超视
+#EXTINF:-1 tvg-id="6055" tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" group-title="境外",东风卫视
+http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
+#EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="境外",MTV
+http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="境外",民视
 rtmp://59.124.75.138/sat/tv051
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="境外",台视
@@ -207,6 +199,10 @@ rtmp://59.124.75.138/sat/tv071
 rtmp://59.124.75.138/sat/tv091
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="境外",华视
 rtmp://59.124.75.138:1935/sat/tv111
+#EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="境外",公视
+http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="境外",AXN
+http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 #EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="境外",TVBS欢乐
 rtmp://59.124.75.138/sat/tv421
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="境外",纬来体育
@@ -227,6 +223,8 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="境外",大爱海外
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="境外",BBC World News
+http://v3948069e.live.126.net/live/cakbruve46655165/51.flv
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/dw.png" group-title="境外",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/aljazeera.png" group-title="境外",Al Jazeera
