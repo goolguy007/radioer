@@ -1617,41 +1617,41 @@ https://14033.live.streamtheworld.com/938NOW_PREM.aac
 https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/vocalo.org/wp-content/uploads/2017/01/black_teal_square.png?resize=170%2C170&ssl=1" group-title="境外广播" radio="true",VOCALO
 https://stream.wbez.org/vocalolinear
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/wunc_fm.png" group-title="境外广播" radio="true",n p r | WUNC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kShwWmQjbq.jpg" group-title="境外广播" radio="true",n p r | WUNC
 http://216.246.39.189/wunc-source
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/kjzz_fm.png" group-title="境外广播" radio="true",n p r | KJZZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/74uqeZnXmV.png" group-title="境外广播" radio="true",n p r | KJZZ
 http://kjzz.streamguys1.com/kjzz_aac_high
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/wlrn.png" group-title="境外广播" radio="true",n p r | WLRN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner-radio.com/media/news/2017/01/11/4tq6n6zqwy.png" group-title="境外广播" radio="true",n p r | WLRN
 https://hls.wlrn.mobi/live/WLRNFMAAC/live/WLRNFMAAC256/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/wbez.png" group-title="境外广播" radio="true",n p r | WBEZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s27410/images/logod.png" group-title="境外广播" radio="true",n p r | WBEZ
 http://stream.wbez.org/wbezlinear
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://player.streamguys.com/hpm-news/sgplayer3/include/image/hpm_listenlive_app_news88-7.png" group-title="境外广播" radio="true",n p r | HPM News
 http://stream.houstonpublicmedia.org/news-aac-256
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/mpr.png" group-title="境外广播" radio="true",n p r | MPR News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s34350/images/logod.png" group-title="境外广播" radio="true",n p r | MPR News
 http://nis.stream.publicradio.org/nis.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/kcrw_fm.png" group-title="境外广播" radio="true",n p r | KCRW News
 http://kcrw.streamguys1.com/kcrw_192k_mp3_news
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/wosu.png" group-title="境外广播" radio="true",n p r | WOSU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/8FHMcwz5yR.png" group-title="境外广播" radio="true",n p r | WOSU
 http://wosu.streamguys1.com/NPR_256
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/kqed.png" group-title="境外广播" radio="true",n p r | KQED
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s34804g.png" group-title="境外广播" radio="true",n p r | KQED
 http://hls.kqed.org/kqed/256/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/wamu_fm.png" group-title="境外广播" radio="true",n p r | WAMU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s27111/images/logog.png" group-title="境外广播" radio="true",n p r | WAMU
 http://hls-1.wamu.org/itunes/256/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/wbur.png" group-title="境外广播" radio="true",n p r | WBUR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/wqMpuP27HE.png" group-title="境外广播" radio="true",n p r | WBUR
 http://wowza-stream.wbur.org/hls/smil:wbur.smil/hls/wbur256/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/kpbs_fm.png" group-title="境外广播" radio="true",n p r | KPBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s34633/images/logog.jpg?t=154843" group-title="境外广播" radio="true",n p r | KPBS
 http://kpbs-wowza.streamguys1.com/live/smil:kpbs.smil/live/kpbs256kaac.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/kut_fm.png" group-title="境外广播" radio="true",n p r | KUT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s35962/images/logod.png?t=636270" group-title="境外广播" radio="true",n p r | KUT
 http://kut-hls.streamguys1.com/kut1/256/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/cpr.png" group-title="境外广播" radio="true",n p r | CPR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dbs.radioline.fr/pictures/radio_18d695eec54b624bc60502d504581c80/logo200.jpg?size=600" group-title="境外广播" radio="true",n p r | CPR
 https://stream2.cprnetwork.org/2198_256.aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/kwmu_fm.png" group-title="境外广播" radio="true",n p r | KWMU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s124949/images/logog.png?t=161850" group-title="境外广播" radio="true",n p r | KWMU
 http://kwmu-flash.streamguys1.com/live/smil:kwmu1.smil/live/kwmu1-256k.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gpb.org/themes/custom/ga_forest/orchard/assets/images/placeholders/live-now/listen.jpg" group-title="境外广播" radio="true",n p r | GPB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rfep7y5qfkrj.png" group-title="境外广播" radio="true",n p r | GPB
 http://gpb-hls.streamguys1.com/itunes256/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/wuwm.png" group-title="境外广播" radio="true",n p r | WUWM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hrvzkrkuzlwl.webp" group-title="境外广播" radio="true",n p r | WUWM
 http://wuwm.streamguys1.com/live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/nhpr.png" group-title="境外广播" radio="true",n p r | NHPR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7GLKE4tq2Y.jpg" group-title="境外广播" radio="true",n p r | NHPR
 http://205.234.238.46/nhpr-256-source.aac
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="境外广播" radio="true",阿里郎电台(视频)
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
