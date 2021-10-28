@@ -1288,6 +1288,8 @@ http://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/延边新闻广播.png" group-title="综合广播" radio="true",延边新闻广播
 http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",延边文艺生活广播
+"http://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/辽宁之声.png" group-title="综合广播" radio="true",辽宁之声
 http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/辽宁乡村广播.png" group-title="综合广播" radio="true",辽宁乡村广播
@@ -1332,14 +1334,63 @@ https://m3u8channel.wuxianyaan.com/cms/audios/nmip-media/audiolive/audio12/playl
 http://stream1.huaihai.tv/aac_gbfm93/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/黑龙江新闻广播.png" group-title="综合广播" radio="true",黑龙江新闻广播
 http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2020/0405/20200405071154.jpeg" group-title="综合广播" radio="true",黑龙江交通广播
+http://satellitepull.cnr.cn/live/wx32hljjtgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/黑龙江都市女性广播.png" group-title="综合广播" radio="true",黑龙江都市女性广播
 http://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2020/0405/20200405071145.png" group-title="综合广播" radio="true",黑龙江都生活广播
+http://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/黑龙江高校广播.png" group-title="综合广播" radio="true",黑龙江高校广播
 http://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/黑龙江老年少儿广播.png" group-title="综合广播" radio="true",黑龙江老年少儿广播·爱家调频
 http://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/黑龙江乡村广播.png" group-title="综合广播" radio="true",黑龙江乡村广播
 http://satellitepull.cnr.cn/live/wx32hljxcgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",黑龙江朝鲜语广播
+http://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2020/0305/20200305053951.jpeg" group-title="综合广播" radio="true",内蒙古交通之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2011/0926/20110926100350125.jpg" group-title="综合广播" radio="true",内蒙古农村牧区广播绿野之声
+http://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2011/0926/20110926100610683.jpg" group-title="综合广播" radio="true",内蒙古新闻广播
+http://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2015/0804/20150804105202673.jpg" group-title="综合广播" radio="true",内蒙古经济生活广播
+http://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2011/0926/20110926100411244.jpg" group-title="综合广播" radio="true",内蒙古评书曲艺广播
+http://satellitepull.cnr.cn/live/wx32nmgpsqy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2015/0324/20150324134256614.jpg" group-title="综合广播" radio="true",内蒙古蒙语对外广播草原之声
+http://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2011/0926/20110926100552676.jpg" group-title="综合广播" radio="true",内蒙古蒙语新闻综合广播
+http://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",锡林郭勒汉语广播
+http://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",锡林郭勒蒙语广播
+http://satellitepull.cnr.cn/live/wx32nmgxlglmygb/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",阿拉善汉语广播
+http://satellitepull.cnr.cn/live/wx32nmgalshygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",阿拉善蒙语广播
+http://satellitepull.cnr.cn/live/wx32nmgalsmygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",呼伦贝尔汉语广播
+http://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",呼伦贝尔蒙语广播
+http://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆新闻广播
+http://satellitepull.cnr.cn/live/wxxjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆交通广播
+http://satellitepull.cnr.cn/live/wxxjjtgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆私家车广播
+http://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆绿色广播
+http://satellitepull.cnr.cn/live/wxxjlsgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",西藏都市生活广播
+http://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",西藏对外交通广播
+http://satellitepull.cnr.cn/live/wxxzdwjtgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",西藏汉语广播
+http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",西藏藏语广播
+http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆新闻广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆新闻广播
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/甘肃交通广播.png" group-title="综合广播" radio="true",甘肃交通广播
 http://satellitepull.cnr.cn/live/wxgsjtgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/甘肃农村广播.png" group-title="综合广播" radio="true",甘肃农村广播
