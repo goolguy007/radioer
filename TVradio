@@ -1430,7 +1430,7 @@ http://ngcdn013.cnr.cn/live/wygb/index.m3u8
 http://ngcdn012.cnr.cn/live/zygb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/cnr哈萨克语广播.png" group-title="综合广播" radio="true",哈萨克语广播
 http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/bbcradio/bbcws.png" group-title="境外广播" radio="true",BBC World Service
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png" group-title="境外广播" radio="true",BBC World Service
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/npr.png" group-title="境外广播" radio="true",n p r | News and Culture
 http://nprnat-i.akamaihd.net/hls/live/217898/nprnational/256k/program4.m3u8
