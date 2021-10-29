@@ -1494,7 +1494,7 @@ http://nprnat-i.akamaihd.net/hls/live/217898/nprnational/256k/program4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249264/images/logod.png?t=1" group-title="境外广播" radio="true",AP
 https://tunein.streamguys1.com/ap
 #EXTINF:-1 tvg-id="717" tvg-name="FoxNews" tvg-logo="https://cdn-profiles.tunein.com/s20431/images/logod.jpg?t=159405" group-title="境外广播" radio="true",FOX News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_300_a-p.m3u8
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_300_av-b.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logog.png?t=1" group-title="境外广播" radio="true",CNN
 http://tunein.streamguys1.com/cnn-new
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png?t=636314" group-title="境外广播" radio="true",CNN International
