@@ -1712,7 +1712,7 @@ https://radiolive.sxrtv.com/live/yinyue/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439531060.png" group-title="音乐广播" radio="true",HIT FM 广州
 http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0331/20170331082734.png" group-title="音乐广播" radio="true",湖南音乐之声·芒果音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://res.oss.hnradio.com/res/0/-1/picture/0/202102/02/20210202175256-0624.jpg" group-title="音乐广播" radio="true",湖南音乐之声·芒果音乐台
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/摩登音乐台.png" group-title="音乐广播" radio="true",湖南文艺广播·摩登音乐台
 http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
