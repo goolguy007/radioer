@@ -1822,7 +1822,7 @@ https://cctv5cncc.v.wscdns.com/live/cctv5_1/index.m3u8?adapt=0&BR=audio
 https://cctv5cncc.v.wscdns.com/live/cctv5plus_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568167654868_594.jpg" group-title="电视伴音",CCTV-6 电影
 http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/7/31/1564572374505_208.jpg" group-title="电视伴音",CCTV-7 军事农业
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/7/31/1564572374505_208.jpg" group-title="电视伴音",CCTV-7 国防军事
 https://cctv5cncc.v.wscdns.com/live/cctv7_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568167752692_288.jpg" group-title="电视伴音",CCTV-8 电视剧
 http://cctv.v.myalicdn.com/live/cctv8_1audio.m3u8
@@ -1839,7 +1839,7 @@ https://cctv5cncc.v.wscdns.com/live/cctv13_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://jietufengmian.yangshipin.cn/20200319/1058113084763/81f95aa4497bf53409b1c7bed47dac33.webp" group-title="电视伴音",CCTV-14 少儿
 https://cctv5cncc.v.wscdns.com/live/cctvchild_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://jietufengmian.yangshipin.cn/20200319/1058164311300/c1ff3b933972d6c52311aa01fdf01a32.webp" group-title="电视伴音",CCTV-15 音乐
-https://cctv5cncc.v.wscdns.com/live/cctv16_1/index.m3u8?adapt=0&BR=audio
+https://cctv5cncc.v.wscdns.com/live/cctv15_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://jietufengmian.yangshipin.cn/20211026/1840588934487/92b1d6b4285d341f3430aa47a088ed6c.webp" group-title="电视伴音",CCTV-16 奥林匹克
 https://cctv5cncc.v.wscdns.com/live/cctv16_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://jietufengmian.yangshipin.cn/20200319/1058244010857/301385790a09a8cf98229ae6770eadf2.webp" group-title="电视伴音",CCTV-17 农业农村
