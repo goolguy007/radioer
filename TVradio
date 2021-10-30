@@ -1814,8 +1814,13 @@ https://cctv5cncc.v.wscdns.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
 https://cctv5cncc.v.wscdns.com/live/cctv2_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://lh3.googleusercontent.com/proxy/8AmEqivN3wpYZ710JvImWIoDIZ0e91kaqNrmmT1spBlg8wsmFiqiWCDU9V2zQJ5e1MT71bi9IdoISVcH8ogBLVqLhwjMZ5qyL5uWdF2o97MHbSEpS1TF-_RVm2GQ0v-iHWlaGtI" group-title="电视伴音",CCTV-3 综艺
 http://cctv.v.myalicdn.com/live/cctv3_1audio.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://jietufengmian.yangshipin.cn/20200319/1056465343971/9eb6b8524c0ae478e29336a6ed67d53b.webp" group-title="电视伴音",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://jietufengmian.yangshipin.cn/20200319/1056465343971/9eb6b8524c0ae478e29336a6ed67d53b.webp" group-title="电视伴音",CCTV-4 中文国际 亚州
 https://cctv5cncc.v.wscdns.com/live/cctv4_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jietufengmian.yangshipin.cn/20200319/1056465343971/9eb6b8524c0ae478e29336a6ed67d53b.webp" group-title="电视伴音",CCTV-4 中文国际 欧洲
+https://cctv5cncc.v.wscdns.com/live/cctveurope_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jietufengmian.yangshipin.cn/20200319/1056465343971/9eb6b8524c0ae478e29336a6ed67d53b.webp" group-title="电视伴音",CCTV-4 中文国际 美洲
+https://cctv5cncc.v.wscdns.com/live/cctvamerica_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://jietufengmian.yangshipin.cn/20200319/1056465343971/9eb6b8524c0ae478e29336a6ed67d53b.webp" group-title="电视伴音",CCTV-4 中文国际 亚州
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/11/9/1478696758170_613.jpg" group-title="电视伴音",CCTV-5 体育
 https://cctv5cncc.v.wscdns.com/live/cctv5_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/12/16/1576480496280_505.jpg" group-title="电视伴音",CCTV-5+ 体育赛事
