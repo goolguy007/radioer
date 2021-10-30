@@ -157,6 +157,8 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
 http://ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV12.png" group-title="HEVC专区",CCTV-12 社会与法 5.1CH 
 http://ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV13.png" group-title="央视",CCTV-13 新闻 5.1CH 
+http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/radioer/cctvlogoinwhitebg/raw/master/CCTV-14.png" group-title="HEVC专区",CCTV-14 少儿 5.1CH 
 http://ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV15.png" group-title="HEVC专区",CCTV-15 音乐 5.1CH 
