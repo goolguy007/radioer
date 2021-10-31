@@ -215,6 +215,10 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="境外",有线新闻台
 https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now新闻台
+http://149.129.100.78/now.php?id=332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now直播台
+http://149.129.100.78/now.php?id=331
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="境外",无线财经资讯台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="境外",香港国际财经台
@@ -1098,7 +1102,7 @@ http://play.redefine.ltd/Stream1/FM1058-1.m3u8
 http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络广播" radio="true",古典音乐台
 http://play.redefine.ltd/Stream2/FM1058-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网络广播" radio="true",古典音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网络广播" radio="true",萤火虫网络台
 http://live.fmyhc.com:8888/yhc_fm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播" radio="true",潮流音悦台
 http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
