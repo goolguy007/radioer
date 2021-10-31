@@ -1911,7 +1911,7 @@ https://cctv5cncc.v.wscdns.com/live/cctveurope_1/index.m3u8?adapt=0&BR=audio
 https://cctv5cncc.v.wscdns.com/live/cctvamerica_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv5.png" group-title="电视伴音",CCTV-5 体育
 https://cctv5cncc.v.wscdns.com/live/cctv5_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/12/16/1576480496280_505.jpg" group-title="电视伴音",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv5+.png" group-title="电视伴音",CCTV-5+ 体育赛事
 https://cctv5cncc.v.wscdns.com/live/cctv5plus_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv6.png" group-title="电视伴音",CCTV-6 电影
 http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8
