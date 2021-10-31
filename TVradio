@@ -54,7 +54,7 @@ http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/ind
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225586/index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225730/1/index.m3u8?fmt=ts2hls
+http://httpdvb.slave.yqdtv.com:13164/playurl?playtype=live&protocol=http&playtoken=31603YEQXREOPEG10&auth=no&verifycode=14183&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6&programid=4200000133
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",西藏卫视
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226896/index.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
