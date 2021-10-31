@@ -1651,6 +1651,8 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_rad
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",POP Radio
 https://hitoradio-hichannel.cdn.hinet.net/live/pool/hich-ra000080/ra-hls/index.m3u8?token1=8Z_0s-pYqd0vmT39I5vc9Q&token2=8uHjV345akU2IRnzGgoVnA&expire1=2514758400&expire2=2199139200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播" radio="true",A-line Radio 青春线上
+https://applelineradiow-hichannel.cdn.hinet.net/live/RA000001/playlist.m3u8?token1=l3mv0M88RNNLbBMrSyDcEA&token2=7XFR2o8FWKowoGiXxu6ddQ&expire1=1635687089&expire2=1636982789
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM联播网|台北之音
 http://hitoradio-hichannel.cdn.hinet.net/live/pool/hich-ra000036/ra-hls/index.m3u8?token1=TU1L4WVv_nJYBJV8QVYmCQ&token2=knJACYm2jKSeMqtm7ocb0w&expire1=2514758400&expire2=2199139200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/全国广播.png" group-title="境外广播" radio="true",M-Radio全国广播
@@ -1705,8 +1707,6 @@ http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
 http://59.120.88.155:8000/live.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/kissradio.png" group-title="境外广播" radio="true",Kiss Radio
 http://api.kiss.com.tw/test/hichannel2.php?api=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/c9/d9/d4/c9d9d407-5778-f377-00ce-a32315be9513/source/512x512bb.jpg" group-title="境外广播" radio="true",A-line Radio 青春线上
-http://radio.apple-line.com:987/radio-data/alinePlayer.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/capital958.png" group-title="境外广播" radio="true",CAPITAL 958
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/988.png" group-title="境外广播" radio="true",988友声有色
