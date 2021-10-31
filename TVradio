@@ -1103,7 +1103,7 @@ http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络广播" radio="true",古典音乐台
 http://play.redefine.ltd/Stream2/FM1058-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网络广播" radio="true",萤火虫网络台
-http://live.fmyhc.com:8888/yhc_fm
+mmsh://live.fmyhc.com:8888/yhc_fm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播" radio="true",潮流音悦台
 http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553159793824.jpg" group-title="网络广播" radio="true",动感音悦台
@@ -1619,7 +1619,6 @@ http://tunein.ord.streamguys1.com/secure-aljazeera-english
 http://tunein.streamguys1.com/cnbc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg?t=1" group-title="境外广播" radio="true",MSNBC
 http://tunein.ord.streamguys1.com/secure-msnbc-premium
-https://tunein.streamguys1.com/abc
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logod.png" group-title="境外广播" radio="true",Bloomberg TV
 http://tunein.streamguys1.com/BloombergTV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VSzOFJjNvZYpojAS9wDVIzH1JtQiDvKl-ZjmXa6FWKarDO7bzF4xA2BI8_ogKFejWwU&usqp=CAU" group-title="境外广播" radio="true",ESPN
