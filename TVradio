@@ -1651,7 +1651,7 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_rad
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",POP Radio
 https://hitoradio-hichannel.cdn.hinet.net/live/pool/hich-ra000080/ra-hls/index.m3u8?token1=8Z_0s-pYqd0vmT39I5vc9Q&token2=8uHjV345akU2IRnzGgoVnA&expire1=2514758400&expire2=2199139200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播" radio="true",A-line Radio 青春线上
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播" radio="true",A-line Radio 网路音乐台
 https://applelineradiow-hichannel.cdn.hinet.net/live/RA000001/playlist.m3u8?token1=l3mv0M88RNNLbBMrSyDcEA&token2=7XFR2o8FWKowoGiXxu6ddQ&expire1=1635687089&expire2=1636982789
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM联播网|台北之音
 http://hitoradio-hichannel.cdn.hinet.net/live/pool/hich-ra000036/ra-hls/index.m3u8?token1=TU1L4WVv_nJYBJV8QVYmCQ&token2=knJACYm2jKSeMqtm7ocb0w&expire1=2514758400&expire2=2199139200
