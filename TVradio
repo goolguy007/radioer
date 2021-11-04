@@ -61,8 +61,6 @@ http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226896/index.m3
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
-http://149.129.100.78/itouchtv.php?id=nfws
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225761/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",延边卫视
@@ -473,19 +471,29 @@ http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/index.m3u8
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="地方",峨眉电影
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电影
-http://124.232.231.246:6610/000000001001/201500000237/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://149.129.100.78/xsj.php?id=hndy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南经视
-http://149.129.100.78/hunan.php?id=280
+http://149.129.100.78/xsj.php?id=hnjs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南公共
-http://149.129.100.78/hunan.php?id=261
+http://149.129.100.78/xsj.php?id=hngg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南娱乐
-http://149.129.100.78/hunan.php?id=344
+http://149.129.100.78/xsj.php?id=hnyl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电视剧
-http://149.129.100.78/hunan.php?id=484
+http://149.129.100.78/xsj.php?id=hndsj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南都市
-http://149.129.100.78/hunan.php?id=346
+http://149.129.100.78/xsj.php?id=hnds
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南国际
 http://149.129.100.78/hunan.php?id=229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南教育
+http://149.129.100.78/xsj.php?id=hnjy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙政法
+http://149.129.100.78/xsj.php?id=cszf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20200109/f5078b7d3a8f020b8d6f6fcdcd938f1d.jpeg" group-title="地方",长沙影视
+http://149.129.100.78/xsj.php?id=csys
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙新闻
+http://149.129.100.78/xsj.php?id=csxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙女性
+http://149.129.100.78/xsj.php?id=csnx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",晋中综合
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",晋中公共
@@ -652,14 +660,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
 http://149.129.100.78/dxxw.php?id=157
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",移动戏曲
 http://149.129.100.78/dxxw.php?id=163
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙政法
-http://149.129.100.78/cs.php?id=348
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20200109/f5078b7d3a8f020b8d6f6fcdcd938f1d.jpeg" group-title="地方",长沙影视
-http://149.129.100.78/cs.php?id=350
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙新闻
-http://149.129.100.78/cs.php?id=346
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙女性
-http://149.129.100.78/cs.php?id=349
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州新闻综合
 rtmp://csztv.2500sz.com/live/c01
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州社会经济
@@ -716,22 +716,6 @@ http://149.129.100.78/sztv.php?id=6
 http://149.129.100.78/sztv.php?id=7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳移动电视
 http://149.129.100.78/sztv.php?id=8
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
-http://149.129.100.78/itouchtv.php?id=gdzj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东新闻
-http://149.129.100.78/itouchtv.php?id=gdxw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东体育
-http://149.129.100.78/itouchtv.php?id=gdty
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东经济科教
-http://149.129.100.78/itouchtv.php?id=gdjjkj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东影视
-http://149.129.100.78/itouchtv.php?id=gdys
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东综艺
-http://149.129.100.78/itouchtv.php?id=gdzy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东国际
-http://149.129.100.78/itouchtv.php?id=gdgj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东少儿
-http://149.129.100.78/itouchtv.php?id=gdse
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山综合
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山影视
@@ -911,7 +895,7 @@ http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络广播" radio="true",古典音乐台
 http://play.redefine.ltd/Stream2/FM1058-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网络广播" radio="true",萤火虫网络台
-mmsh://live.fmyhc.com:8888/yhc_fm
+http://211.149.226.193:8066/1022.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播" radio="true",潮流音悦台
 http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553159793824.jpg" group-title="网络广播" radio="true",动感音悦台
