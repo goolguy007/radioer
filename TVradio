@@ -1428,8 +1428,6 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_rad
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",POP Radio 台北流行广播电台
 http://149.129.100.78:8000/popradio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",POP Radio 好听广播电台
-http://149.129.100.78:8000/pop907
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播" radio="true",A-line Radio 网路音乐台
 http://radio.apple-line.com:987/radio-data/alinePlayer.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM联播网|台北之音
