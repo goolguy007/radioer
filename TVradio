@@ -1550,6 +1550,8 @@ http://gpb-hls.streamguys1.com/itunes256/playlist.m3u8
 http://wuwm.streamguys1.com/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7GLKE4tq2Y.jpg" group-title="境外广播" radio="true",n p r | NHPR
 http://205.234.238.46/nhpr-256-source.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s27454g.png" group-title="境外广播" radio="true",n p r | WBHM
+https://audio.wbhm.org/live.m4a
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="境外广播" radio="true",阿里郎电台(视频)
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="境外广播" radio="true",阿里郎电台(音频)
