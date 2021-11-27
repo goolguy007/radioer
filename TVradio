@@ -116,7 +116,7 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/ind
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 https://live.olympicchannelchina.cn:443/aoyun/4kcctv16_1td.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
-http://223.110.236.4/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+http://yinhe-live.yinhe.vs.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
@@ -446,6 +446,8 @@ http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
 http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海外语
 http://39.134.39.5/TVOD/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海教育电视台
+http://live2018.setv.sh.cn/setv/programme10_lud.m3u8?auth_key=4790122411-0-0-f6c20db506e028f2f4d4a546c3f9631b
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKe/K/f3kM7vVAVZijl4iyoDNXkzi+WZQiMHs7tmfGVYQg==,,END
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
@@ -821,6 +823,10 @@ http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv4.jpg" group-title="地方",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",泉州新闻综合
+rtmp://live.qztv.cn/live/news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",泉州闽南语
+rtmp://live.qztv.cn/live/mny
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ldntv.cn/Portal/Tpl/templates/default/images/live_pic1.png" group-title="地方",娄底综合
 http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/厦门-1.png" group-title="地方",厦门综合
