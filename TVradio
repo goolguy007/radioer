@@ -1220,13 +1220,13 @@ http://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/辽宁交通广播.png" group-title="综合广播" radio="true",辽宁交通广播
 http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/厦门综合广播.png" group-title="综合广播" radio="true",厦门综合广播
-https://live1.kxm.xmtv.cn/aac_zhgb/playlist.m3u8
+https://live2.kxm.xmtv.cn/aac_zhgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/厦门旅游广播.png" group-title="综合广播" radio="true",厦门旅游广播
-https://live1.kxm.xmtv.cn/aac_xmly/sd/live.m3u8
+https://live2.kxm.xmtv.cn/aac_xmly/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/厦门经济交通广播.png" group-title="综合广播" radio="true",厦门经济交通广播
-https://live1.kxm.xmtv.cn/aac_xmjjjt/sd/live.m3u8
+https://live2.kxm.xmtv.cn/aac_xmjjjt/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/闽南之声.png" group-title="综合广播" radio="true",厦门闽南之声
-https://live1.kxm.xmtv.cn/aac_mnzs/playlist.m3u8
+https://live2.kxm.xmtv.cn/aac_mnzs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/福州左海之声.png" group-title="综合广播" radio="true",福州左海之声
 http://live.zohi.tv/audio/s10001-FM901/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/福州交通广播.png" group-title="综合广播" radio="true",福州交通之声
@@ -1621,7 +1621,7 @@ http://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/四川岷江音乐.png" group-title="音乐广播" radio="true",四川岷江音乐
 http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/厦门音乐广播.png" group-title="音乐广播" radio="true",厦门音乐广播
-http://live1.kxm.xmtv.cn/aac_xmyy/playlist.m3u8
+http://live2.kxm.xmtv.cn/aac_xmyy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/楚天音乐广播.png" group-title="音乐广播" radio="true",楚天音乐广播
 http://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江苏音乐广播.png" group-title="音乐广播" radio="true",江苏音乐广播
