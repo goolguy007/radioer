@@ -1725,7 +1725,7 @@ https://cctv5cncc.v.wscdns.com/live/cctv16_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv17.png" group-title="电视伴音",CCTV-17 农业农村
 https://cctv5cncc.v.wscdns.com/live/cctv17_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://ss3.baidu.com/9fo3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/77c6a7efce1b9d16179c34ecfadeb48f8d5464e0.jpg" group-title="电视伴音",CGTN
-http://stream.zeno.fm/ambvmys65rquv
+http://149.129.100.78:8000/cgtn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="电视伴音",CCTV新科动漫
 http://cctvalic.v.myalicdn.com/live/xinkedongman_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="电视伴音",湖南卫视
