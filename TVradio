@@ -75,7 +75,7 @@ http://39.135.138.34:18890/PLTV/88888910/224/3221225655/index.m3u8
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
-http://111.40.196.27/PLTV/88888888/224/3221225580/index.m3u8
+http://live.scuec.edu.cn:8080/hls/btv10hd.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
 http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视",嘉佳卡通
@@ -407,6 +407,28 @@ http://183.207.255.188/live/program/live/xfchd/2300000/mnf.m3u8
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226249/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV游戏风云
 http://39.134.39.5/TVOD/88888888/224/3221226187/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",电视指南
+http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",第一剧场
+http://[2001:250:4801::430:89]/hls/hls184a512.m3u8
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",风云剧场
+http://[2001:250:4801::430:89]/hls/hls184a516.m3u8
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",怀旧剧场
+http://[2001:250:4801::430:89]/hls/hls184a518.m3u8
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",风云音乐
+http://[2001:250:4801::430:89]/hls/hls184a519.m3u8
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",风云足球
+http://[2001:250:4801::430:89]/hls/hls184a510.m3u8
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",世界地理
+http://[2001:250:4801::430:89]/hls/hls184a515.m3u8
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",兵器科技
+http://[2001:250:4801::430:89]/hls/hls184a573.m3u8
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",央视台球
+http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",女性时尚
+http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",央视文化精品
+http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",风尚音乐
 http://125.210.152.21:9120/live/FSYY.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",高清娱乐
@@ -430,7 +452,7 @@ http://58.20.64.92:9999/tsfile/live/1033_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV古装剧场
 http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC动作电影
-http://39.134.19.228:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2001:250:4801::430:89]/hls/hls261.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC高清电影
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC家庭影院
