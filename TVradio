@@ -75,6 +75,7 @@ http://39.135.138.34:18890/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226714/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+http://live.scuec.edu.cn:8080/hls/jykttv.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
 http://live.scuec.edu.cn:8080/hls/btv10hd.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
@@ -490,21 +491,19 @@ http://39.134.39.5/TVOD/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海教育电视台
 http://live2018.setv.sh.cn/setv/programme10_lud.m3u8?auth_key=4790122411-0-0-f6c20db506e028f2f4d4a546c3f9631b
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKe/K/f3kM7vVAVZijl4iyoDNXkzi+WZQiMHs7tmfGVYQg==,,END
+http://live.scuec.edu.cn:8080/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
 http://live.scuec.edu.cn:8080/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",北京文艺
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKcvHqOmtn/hgQoKLE9+7Ay2N6D1ko3Yx6/syfV3AyuDrw==,,END
+http://live.scuec.edu.cn:8080/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKfGHYsvBC/sDKyAwHpyTnXXArigmPWJ7SmGOzFeuUmOIw==,,END
+http://live.scuec.edu.cn:8080/hls/btv5hd.m3u8 
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKevbKlK+Xph+b1r8gRT8xH6rfvTyy+7HLCUsK6ruw47JA==,,END
+http://live.scuec.edu.cn:8080/hls/btv7hd.m3u8
 #EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="地方",北京青年
-http://111.13.42.10/PLTV/88888888/224/3221226562/1.m3u8
+http://live.scuec.edu.cn:8080/hls/btv8hd.m3u8 
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方",北京科教
-http://111.13.42.43/PLTV/88888888/224/3221226559/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV国际.png" group-title="地方",北京国际
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKe1xeNgD5Kl8Atu9oWmG1uEVrhyTXIuFRsiICwHJAHtyw==,,END
+http://live.scuec.edu.cn:8080/hls/btv3hd.m3u8
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="地方",峨眉电影
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电影
 http://111.40.196.30/PLTV/88888888/224/3221225660/index.m3u8
