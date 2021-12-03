@@ -82,8 +82,6 @@ http://live.scuec.edu.cn:8080/hls/btv10hd.m3u8
 http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",优漫卡通
 http://live.scuec.edu.cn:8080/hls/ymkttv.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",新动漫
-http://live.scuec.edu.cn:8080/hls/xdmtv.m3u8 
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视",嘉佳卡通
 http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226744/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
@@ -411,6 +409,8 @@ http://39.134.39.5/TVOD/88888888/224/3221226195/index.m3u8
 http://39.134.39.5/TVOD/88888888/224/3221226187/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",老故事
 http://live.scuec.edu.cn:8080/hls/lgstv.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",新动漫
+http://live.scuec.edu.cn:8080/hls/xdmtv.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dszn.png" group-title="数字",电视指南
 http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dyjc.png" group-title="数字",第一剧场
