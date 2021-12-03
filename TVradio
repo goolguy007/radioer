@@ -409,6 +409,8 @@ http://183.207.255.188/live/program/live/xfchd/2300000/mnf.m3u8
 http://39.134.39.5/TVOD/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV游戏风云
 http://39.134.39.5/TVOD/88888888/224/3221226187/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",老故事
+http://live.scuec.edu.cn:8080/hls/lgstv.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dszn.png" group-title="数字",电视指南
 http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dyjc.png" group-title="数字",第一剧场
