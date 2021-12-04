@@ -107,7 +107,7 @@ http://39.134.39.39/270000001322/69900158041111100000002144/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 科教
 http://39.134.39.39/270000001322/69900158041111100000002146/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://live.scuec.edu.cn:8080/hls/cctv11.m3u8
+http://[2001:250:4801::430:89]/hls/cctv11hd.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://39.134.39.39/270000001322/69900158041111100000002147/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻
@@ -115,7 +115,7 @@ http://live.scuec.edu.cn:8080/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 少儿
 http://39.134.39.39/270000001322/69900158041111100000002148/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV-15.png" group-title="央视",CCTV-15 音乐
-http://live.scuec.edu.cn:8080/hls/cctv15.m3u8
+http://[2001:250:4801::430:89]/hls/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226880/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克4K
@@ -589,10 +589,6 @@ http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv6.png" group-title="地方",四川星空购物
 http://scgctvshow.sctv.com/hdlive/sctv6/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",陕西新闻资讯
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225500/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",陕西都市青春
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225830/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ohudong.cztv.com/1/logos/2020/12/31/cc2b0ca1bd0db74f75ad810587c28c32.png" group-title="地方",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/72d035c03412d7cb2d319c6607fef8e9.png" group-title="地方",浙江国际
