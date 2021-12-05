@@ -394,32 +394,32 @@ http://183.207.255.188/live/program/live/xfchd/2300000/mnf.m3u8
 http://39.134.39.5/TVOD/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV游戏风云
 http://39.134.39.5/TVOD/88888888/224/3221226187/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",老故事
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CCTV老故事
 http://[2001:250:4801::430:89]/hls/lgstv.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dszn.png" group-title="数字",CCTV电视指南
+http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dyjc.png" group-title="数字",CCTV第一剧场
+http://[2001:250:4801::430:89]/hls/hls184a512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyjc.png" group-title="数字",CCTV风云剧场
+http://[2001:250:4801::430:89]/hls/hls184a516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/hjjc.png" group-title="数字",CCTV怀旧剧场
+http://[2001:250:4801::430:89]/hls/hls184a518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyyy.png" group-title="数字",CCTV风云音乐
+http://[2001:250:4801::430:89]/hls/hls184a519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyzq.png" group-title="数字",CCTV风云足球
+http://[2001:250:4801::430:89]/hls/hls184a510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/sjdl.png" group-title="数字",CCTV世界地理
+http://[2001:250:4801::430:89]/hls/hls184a515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/bqkj.png" group-title="数字",CCTV兵器科技
+http://[2001:250:4801::430:89]/hls/hls184a573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/ystq.png" group-title="数字",CCTV央视台球
+http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/nxss.png" group-title="数字",CCTV女性时尚
+http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/whjp.png" group-title="数字",CCTV文化精品
+http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",新动漫
 http://[2001:250:4801::430:89]/hls/xdmtv.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dszn.png" group-title="数字",电视指南
-http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dyjc.png" group-title="数字",第一剧场
-http://[2001:250:4801::430:89]/hls/hls184a512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyjc.png" group-title="数字",风云剧场
-http://[2001:250:4801::430:89]/hls/hls184a516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/hjjc.png" group-title="数字",怀旧剧场
-http://[2001:250:4801::430:89]/hls/hls184a518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyyy.png" group-title="数字",风云音乐
-http://[2001:250:4801::430:89]/hls/hls184a519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyzq.png" group-title="数字",风云足球
-http://[2001:250:4801::430:89]/hls/hls184a510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/sjdl.png" group-title="数字",世界地理
-http://[2001:250:4801::430:89]/hls/hls184a515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/bqkj.png" group-title="数字",兵器科技
-http://[2001:250:4801::430:89]/hls/hls184a573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/ystq.png" group-title="数字",央视台球
-http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/nxss.png" group-title="数字",女性时尚
-http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/whjp.png" group-title="数字",央视文化精品
-http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",4K修复
 http://ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱上4K
@@ -440,7 +440,7 @@ http://183.207.255.188/live/program/live/hdnba5/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",Y+
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.weathertv.cn/m/i/documentary/logo.png" group-title="数字",中国天气
-http://140.207.241.2:8080/live/program/live/zgqx/1300000/mnf.m3u8
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="数字",中国交通频道(海南)
 https://tv.lanjingfm.com/cctbn/hainan.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="数字",中国交通频道(湖北)
@@ -1846,4 +1846,3 @@ rtsp://hkss3.phoenixtv.com:80/fs/pic.stream_audio
 rtsp://hkss3.phoenixtv.com:80/fs/pcc.stream_audio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://c1.fengshows-cdn.com/a/2021_23/325d941090bee17.png" group-title="电视伴音",凤凰卫视香港台
 rtsp://hkss3.phoenixtv.com:80/fs/phk.stream_audio
-
