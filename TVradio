@@ -395,7 +395,7 @@ http://39.134.39.5/TVOD/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV游戏风云
 http://39.134.39.5/TVOD/88888888/224/3221226187/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CCTV老故事
-http://[2001:250:4801::430:89]/hls/lgstv.m3u8 
+http://live.scuec.edu.cn:8080/hls/lgstv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dszn.png" group-title="数字",CCTV电视指南
 http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dyjc.png" group-title="数字",CCTV第一剧场
@@ -419,7 +419,7 @@ http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/whjp.png" group-title="数字",CCTV文化精品
 http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",新动漫
-http://[2001:250:4801::430:89]/hls/xdmtv.m3u8 
+http://live.scuec.edu.cn:8080/hls/xdmtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",4K修复
 http://ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱上4K
