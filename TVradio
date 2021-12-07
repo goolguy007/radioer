@@ -244,7 +244,6 @@ https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="境外",RTHK32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="境外",民视新闻台
-http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="境外",壹新闻
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="境外",东森新闻
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="境外",TVBS新闻
@@ -300,7 +299,6 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="境外",大爱海外
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="境外",BBC World News
-http://v3948069e.live.126.net/live/cakbruve46655165/51.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logog.png?t=636314" group-title="境外",CNN International 
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="境外",Bloomberg TV+ 4K
