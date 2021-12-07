@@ -246,21 +246,15 @@ https://cdn.hkdtmb.com/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="境外",民视新闻台
 http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="境外",壹新闻
-http://pullhls3948069e.live.126.net/live/xtxndaws57833801/50/playlist.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="境外",东森新闻
-http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="境外",TVBS新闻
-http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",中天新闻
-http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",三立iNews
-http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv
 #EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="境外",ELEVEN2
 rtmp://59.124.75.138:1935/sat/md021
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",爱尔达体育2台
 rtmp://59.124.75.138:1935/sat/md011
 #EXTINF:-1 tvg-id="6055" tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" group-title="境外",东风卫视
-http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="境外",民视
 rtmp://59.124.75.138/sat/tv051
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="境外",台视
@@ -270,9 +264,7 @@ rtmp://59.124.75.138/sat/tv091
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="境外",华视
 rtmp://59.124.75.138:1935/sat/tv111
 #EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="境外",公视
-http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="境外",AXN
-http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 #EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="境外",TVBS欢乐
 rtmp://59.124.75.138/sat/tv421
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="境外",纬来体育
