@@ -1074,7 +1074,7 @@ http://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2015/0112/20150112153655847.png" group-title="综合广播" radio="true",湖北经济广播
 http://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://xloss.linker.cc/HBYT%2F201807%2F16%2F15%2FdlblFkIjJ3FDAFn6lIN3ZrUCJcRc1U1LCE2018071615692.jpg?x-oss-process=image/resize,m_mfit,h_264,w_264" group-title="综合广播" radio="true",湖北农村广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",湖北农村广播
 http://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8
 #EXTINF:-1 tvg-id="1787" tvg-name="武汉新闻综合频道" tvg-logo="http://pic.qingting.fm/2015/0617/2015061718015278.jpg" group-title="综合广播" radio="true",武汉新闻广播
 http://stream.appwuhan.com/xwpdzb/sd/live.m3u8
