@@ -883,6 +883,8 @@ http://rfcmedia.streamguys1.com/srdanceone.mp3
 http://rfcmedia.streamguys1.com/srdiscobeats.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249981/images/logog.jpg?t=2" group-title="网络广播" radio="true",Today's Country Hits
 http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s301079/images/logog.png?t=155672" group-title="网络广播" radio="true",V2BEAT
+https://stream.v2beat.live/icecast.audio?t=file.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s293704g.png" group-title="网络广播" radio="true",Coffee House ☕️
 http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/tedtalks.png" group-title="网络广播" radio="true",TED Talks
