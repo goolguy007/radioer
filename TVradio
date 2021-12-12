@@ -469,6 +469,8 @@ http://[2001:250:4801::430:89]/hls/btv8hd.m3u8
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方",北京科教
 http://[2001:250:4801::430:89]/hls/btv3hd.m3u8
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="地方",峨眉电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",济南铁路局电视台
+https://jsylivealone302.iqilu.com/jitie/jitie_tv01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电影
 http://111.40.196.30/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南经视
@@ -907,10 +909,22 @@ http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 http://play.redefine.ltd/Stream2/FM1058-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网络广播" radio="true",萤火虫网络台
 http://211.149.226.193:8066/1022.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播" radio="true",潮流音悦台
-http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553159793824.jpg" group-title="网络广播" radio="true",动感音悦台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png" group-title="网络广播" radio="true",天籁之音-经典正流行
+http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png" group-title="网络广播" radio="true",天籁之音 Hi-Fi Radio
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/d3f12c8e93c7506d60198c3484dbeb93.png" group-title="网络广播" radio="true",天籁之音-国风
+http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/4b072cf36c1f334220c6926eff4fbe51.png" group-title="网络广播" radio="true",民谣 蓝调
+http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/d64294d9f14ed39075cbb148f229d833.png" group-title="网络广播" radio="true",舞迷心窍
+http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7cb3fc8f0bd8f94cb96fb35e12fbca3.png" group-title="网络广播" radio="true",心灵音乐馆
+http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播" radio="true",潮流音悦台
+http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241973460940.png" group-title="网络广播" radio="true",80后音悦台
 http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241941253315.png" group-title="网络广播" radio="true",经典FM
@@ -927,6 +941,7 @@ http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
 http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241848889285.png" group-title="网络广播" radio="true",天籁古典
 http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/fm101d7/64000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241881377763.png" group-title="网络广播" radio="true",摇滚天空台
 http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498187765828570.png" group-title="网络广播" radio="true",国乐悠扬
