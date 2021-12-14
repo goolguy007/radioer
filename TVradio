@@ -1870,6 +1870,6 @@ rtsp://hkss3.phoenixtv.com:80/fs/phk.stream_audio
 http://149.129.100.78:8000/dw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s108977g.png" group-title="电视伴音",半岛电视台
 http://149.129.100.78:8000/aijazeera
-#EXTINF:-1 tvg-id="" tvg-name="https://cdn-profiles.tunein.com/s47135/images/logog.png" tvg-logo="" group-title="电视伴音",彭博电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="电视伴音",彭博电视
 http://149.129.100.78:8000/bloomberg
 
