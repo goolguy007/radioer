@@ -701,21 +701,19 @@ http://117.148.179.133/PLTV/88888888/224/3221229316/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",杭州导视
 http://112.15.230.49/PLTV/88888888/224/3221230469/index.m3u8
 #EXTINF:-1 tvg-id="1778" tvg-name="湖北综合频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="地方",湖北综合
-http://149.129.100.78:88/hubei.php?id=433
+http://149.129.100.78:88/cjy.php?id=hbzh
 #EXTINF:-1 tvg-id="1783" tvg-name="湖北公共·新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="地方",湖北公共新闻
-http://149.129.100.78:88/hubei.php?id=434
+http://149.129.100.78:88/cjy.php?id=hbgg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖北经视
-http://149.129.100.78:88/hubei.php?id=432
+http://149.129.100.78:88/cjy.php?id=hbjs
 #EXTINF:-1 tvg-id="1780" tvg-name="湖北教育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png" group-title="地方",湖北教育
-http://149.129.100.78:88/hubei.php?id=437
+http://149.129.100.78:88/cjy.php?id=hbjy
 #EXTINF:-1 tvg-id="1785" tvg-name="湖北垄上频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png" group-title="地方",湖北垄上
-http://149.129.100.78:88/hubei.php?id=438
+http://149.129.100.78:88/cjy.php?id=hbls
 #EXTINF:-1 tvg-id="1781" tvg-name="湖北生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png" group-title="地方",湖北生活
-http://149.129.100.78:88/hubei.php?id=436
+http://149.129.100.78:88/cjy.php?id=hbsh
 #EXTINF:-1 tvg-id="1779" tvg-name="湖北影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="地方",湖北影视
-http://149.129.100.78:88/hubei.php?id=435
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖北美嘉购物
-http://149.129.100.78:88/hubei.php?id=439
+http://149.129.100.78:88/cjy.php?id=hbys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳都市
 http://149.129.100.78:88/sztv.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳电视剧
