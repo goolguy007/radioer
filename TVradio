@@ -1248,7 +1248,7 @@ http://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/贵州综合广播.png" group-title="综合广播" radio="true",贵州综合广播
 http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498188224840943.png" group-title="综合广播" radio="true",河南农村广播大象资讯台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/0314/20210314060346.jpeg" group-title="综合广播" radio="true",河南农村广播大象资讯台
 http://satellitepull.cnr.cn/live/wxhnncgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498188224840943.png" group-title="综合广播" radio="true",河南新闻广播
 http://satellitepull.cnr.cn/live/wxhnxwgb/playlist.m3u8
