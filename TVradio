@@ -63,6 +63,8 @@ http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
 http://[2001:250:4801::430:89]/hls/xmtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",延边卫视
 http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221227047/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",三沙卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",海峡卫视
 rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://ikanpic.kanketv.com/image/live/icon/bingtuan.png" group-title="卫视",兵团卫视
@@ -473,6 +475,16 @@ http://[2001:250:4801::430:89]/hls/btv7hd.m3u8
 http://[2001:250:4801::430:89]/hls/btv8hd.m3u8 
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方",北京科教
 http://[2001:250:4801::430:89]/hls/btv3hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南公共
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南经济
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南新闻
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南文旅
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南少儿
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="地方",峨眉电影
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",济南铁路局电视台
 https://jsylivealone302.iqilu.com/jitie/jitie_tv01/index.m3u8
@@ -1893,7 +1905,6 @@ http://149.129.100.78:8000/fhzx
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="电视伴音",凤凰中文
 http://149.129.100.78:8000/fhzw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://c1.fengshows-cdn.com/a/2021_23/325d941090bee17.png" group-title="电视伴音",凤凰香港
-rtsp://hkss3.phoenixtv.com:80/fs/phk.stream_audio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.tuneyou.com/images/logos/500_500/63/7463/DWDeutscheWelleRadioEnglish.png" group-title="电视伴音",德国之声
 http://149.129.100.78:8000/dw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s108977g.png" group-title="电视伴音",半岛电视台
