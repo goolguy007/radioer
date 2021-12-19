@@ -898,6 +898,8 @@ http://tunein.streamguys1.com/StarTalkRadio
 https://tunein.streamguys1.com/progressivevoices
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s96692d.png" group-title="网络广播" radio="true",Panda Show Radio
 https://tunein.streamguys1.com/pandashowradio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1022/20211022112426.jpeg" group-title="网络广播" radio="true",AsiaFM 亚洲热歌台
+http://popradio.top:8000/popradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1022/20211022112426.jpeg" group-title="网络广播" radio="true",AsiaFM 亚洲音乐台
 http://asiafm.hk:8000/asiafm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1021/20211021064828.jpeg" group-title="网络广播" radio="true",AsiaFM 亚洲经典台
