@@ -1188,6 +1188,10 @@ http://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/重庆交通广播.png" group-title="综合广播" radio="true",重庆交通广播
 http://satellitepull.cnr.cn/live/wxcqjtgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",万州综合广播
+http://123.146.162.24:8013/tslslive/L4cvRM0/hls/live_sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",万州交通广播
+http://123.146.162.24:8013/tslslive/gBEcw39/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波新闻综合广播.png" group-title="综合广播" radio="true",宁波新闻综合广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波老少广播.png" group-title="综合广播" radio="true",宁波老少广播·阳光904
