@@ -366,6 +366,14 @@ http://live.streamingfast.net/osmflivech27.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",求索纪录
+http://39.134.134.85/000000001000/6000000002000032052/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",求索科学
+http://39.134.134.85/000000001000/6000000002000032344/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",求索生活
+http://39.134.134.85/000000001000/6000000002000003382/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",求索动物
+http://39.134.134.85/000000001000/6000000002000010046/1.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字",SiTV全纪实
 http://[2001:250:4801::430:89]/hls/hls184a639.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV金色学堂
@@ -1096,19 +1104,19 @@ http://audio-live.radio.cn/live/szxwzh1/playlist.m3u8
 http://audio-live.radio.cn/live/szjtjj1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2018/0212/20180212113048425.jpg" group-title="综合广播" radio="true",苏州戏曲广播
 http://audio-live.radio.cn/live/szxq1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/安徽之声.png" group-title="综合广播" radio="true",安徽之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1612403622169_5vD0Fj2hb.png" group-title="综合广播" radio="true",安徽之声
 http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/安徽城市之声.png" group-title="综合广播" radio="true",安徽生活广播·城市之声
 http://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/安徽经济广播.png" group-title="综合广播" radio="true",安徽经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2020/0405/20200405123733.png" group-title="综合广播" radio="true",安徽经济广播
 http://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/安徽交通广播.png" group-title="综合广播" radio="true",安徽交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2020/0311/20200311053004.png" group-title="综合广播" radio="true",安徽交通广播
 http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/安徽高速之声.png" group-title="综合广播" radio="true",安徽旅游广播·高速之声
 http://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/安徽戏曲广播.png" group-title="综合广播" radio="true",安徽戏曲广播·动听995
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2020/0110/20200110041347.jpeg" group-title="综合广播" radio="true",安徽戏曲广播·动听995
 http://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/安徽故事广播.png" group-title="综合广播" radio="true",安徽故事广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2015/1125/20151125172902944.jpg" group-title="综合广播" radio="true",安徽故事广播
 http://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖北之声.png" group-title="综合广播" radio="true",湖北之声
 http://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
