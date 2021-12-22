@@ -885,9 +885,9 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hnxttv.com/_CMS_NEWS_IMG_/1/201512/31/2d115c55-302d-4eb1-806d-7ac417875d92.png" group-title="地方",湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-web-us-west-2-tunein-com.s3-us-west-2.amazonaws.com/assets/img/shared/tiles/todays-hits-small.jpg" group-title="网络广播" radio="true",Today’s Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s242677/images/logog.jpg?t=2" group-title="网络广播" radio="true",Today’s Hits
 http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newpophits.png" group-title="网络广播" radio="true",Pop Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249976/images/logog.png?t=156961" group-title="网络广播" radio="true",Pop Hits
 http://rfcmedia.streamguys1.com/newpophitspremium.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249914/images/logod.png?t=1" group-title="网络广播" radio="true",Alternative Hits
 http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
