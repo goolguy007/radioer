@@ -397,8 +397,6 @@ http://183.207.255.188/live/program/live/xfchd/2300000/mnf.m3u8
 http://39.134.39.5/TVOD/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV游戏风云
 http://39.134.39.5/TVOD/88888888/224/3221226187/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",环球奇观
-http://153.0.115.66:9901/tsfile/live/1085_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CCTV老故事
 http://153.0.115.66:9901/tsfile/live/1076_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dszn.png" group-title="数字",CCTV电视指南
@@ -423,6 +421,8 @@ http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
 http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/whjp.png" group-title="数字",CCTV文化精品
 http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",环球奇观
+http://153.0.115.66:9901/tsfile/live/1085_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",新动漫
 http://live.scuec.edu.cn:8080/hls/xdmtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",4K修复
@@ -1727,7 +1727,7 @@ http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/重庆音乐广播.png" group-title="音乐广播" radio="true",重庆音乐广播
 http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/黑龙江音乐广播.png" group-title="音乐广播" radio="true",黑龙江音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/48/1638179327711_IlklMh2sV.jpeg" group-title="音乐广播" radio="true",黑龙江音乐广播
 http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/福建汽车音乐广播.png" group-title="音乐广播" radio="true",福建汽车音乐广播
 http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
