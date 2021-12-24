@@ -928,7 +928,7 @@ http://goldfm.cn:8000/fm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1021/20211021064656.jpeg" group-title="网络广播" radio="true",AsiaFM 亚洲天空台
 http://funradio.cn:8000/funradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1021/20211021060000.jpeg" group-title="网络广播" radio="true",AsiaFM HD音乐台
-http://asiafm.hk:8000/fm
+http://asiafm.hk:8000/asiahd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="网络广播" radio="true",Big B Radio - 中文流行
 http://cpop.bigbradio.net/s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317" group-title="网络广播" radio="true",Big B Radio - 韩语流行
@@ -985,12 +985,14 @@ http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/华语环球广播.png" group-title="综合广播" radio="true",CRI华语环球广播
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/chinaplusradio.png" group-title="综合广播" radio="true",CRI英语环球广播 China Plus Radio 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20211222/1640137536123.jpg" group-title="综合广播" radio="true",CGTN Radio 
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/chinaplusradio.png" group-title="综合广播" radio="true",CRI外语教学广播 China Plus Radio 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/chinaplusradio.png" group-title="综合广播" radio="true",China Plus Radio 
 http://sk.cri.cn/am1008.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1564021782775_bUoQXgHrn.jpeg" group-title="综合广播" radio="true",CRI南海之声
 http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/世界华声.png" group-title="综合广播" radio="true",CRI世界华声
+http://sk.cri.cn/hxfh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/轻松调频.png" group-title="综合广播" radio="true",CRI轻松调频
 http://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/hxfh.png" group-title="综合广播" radio="true",CRI粤语国际
@@ -1426,8 +1428,6 @@ http://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/青海经济广播.png" group-title="综合广播" radio="true",青海经济广播
 http://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/世界华声.png" group-title="综合广播" radio="true",世界华声
-http://sk.cri.cn/hxfh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/益阳之声.png" group-title="综合广播" radio="true",益阳之声
 http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/fm997.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/益阳交通频道.png" group-title="综合广播" radio="true",益阳交通频道·汽车881
@@ -1438,7 +1438,7 @@ http://183.64.174.171:10124/tlgb.m3u8
 http://live.zjmc.tv/6/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/镇江交通广播.png" group-title="综合广播" radio="true",镇江交通广播
 http://live.zjmc.tv/5/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/镇江综合广播.png" group-title="综合广播" radio="true",镇江综合广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/镇江综合广播.png" group-title="综合广播" radio="true",镇江新闻广播
 http://live.zjmc.tv/4/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/镇江经济广播.png" group-title="综合广播" radio="true",镇江经济广播
 http://live.zjmc.tv/7/sd/live.m3u8
