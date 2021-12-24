@@ -1662,7 +1662,7 @@ http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东经典音乐广播.png" group-title="音乐广播" radio="true",山东经典音乐广播
 http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1575860171495_jUB_-mOhG.jpeg" group-title="音乐广播" radio="true",烟台音乐广播
-http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
+http://149.129.100.78:8000/1059
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img11.iqilu.com/295/2021/04/02/4563a3671c2c0eb69da8580609b09e63.jpg" group-title="音乐广播" radio="true",崂山921
 https://jsyaudiolive302.iqilu.com/laoshan/laoshan_audio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/摩登音乐台.png" group-title="音乐广播" radio="true",湖南文艺广播·摩登音乐台
