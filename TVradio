@@ -398,7 +398,6 @@ http://39.134.39.5/TVOD/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV游戏风云
 http://39.134.39.5/TVOD/88888888/224/3221226187/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CCTV老故事
-http://153.0.115.66:9901/tsfile/live/1076_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dszn.png" group-title="数字",CCTV电视指南
 http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dyjc.png" group-title="数字",CCTV第一剧场
@@ -422,7 +421,6 @@ http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/whjp.png" group-title="数字",CCTV文化精品
 http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",环球奇观
-http://153.0.115.66:9901/tsfile/live/1085_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",新动漫
 http://live.scuec.edu.cn:8080/hls/xdmtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",4K修复
@@ -1662,7 +1660,7 @@ http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东经典音乐广播.png" group-title="音乐广播" radio="true",山东经典音乐广播
 http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1575860171495_jUB_-mOhG.jpeg" group-title="音乐广播" radio="true",烟台音乐广播
-http://149.129.100.78:8000/1059
+http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img11.iqilu.com/295/2021/04/02/4563a3671c2c0eb69da8580609b09e63.jpg" group-title="音乐广播" radio="true",崂山921
 https://jsyaudiolive302.iqilu.com/laoshan/laoshan_audio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/摩登音乐台.png" group-title="音乐广播" radio="true",湖南文艺广播·摩登音乐台
@@ -1917,7 +1915,5 @@ http://149.129.100.78:8000/aijazeera
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="电视伴音",彭博电视
 http://149.129.100.78:8000/bloomberg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://5b0988e595225.cdn.sohucs.com/a_auto,c_cut,x_30,y_0,w_416,h_416/images/20190617/d408286835e548cb8621cdd1aac94b3a.jpeg" group-title="电视伴音",环球奇观
-http://149.129.100.78:8000/wonders
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="电视伴音",老故事
-http://149.129.100.78:8000/oldstory
 
