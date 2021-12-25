@@ -1683,6 +1683,8 @@ http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
 http://playfmaliyun.3xgd.com/fm/qct.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山西音乐广播.png" group-title="音乐广播" radio="true",山西音乐广播
 http://radiolive.sxrtv.com/live/yinyue/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2019/0220/20190220030041.jpeg" group-title="音乐广播" radio="true",新疆音乐广播MixFM1039
+http://livehywaudio2.chinamcache.com/xjtvs/gb06.m3u8?auth_key=1701481179-0-0-f5b0844d2432e7a4c6458ae7152483ba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/内蒙古音乐之声.png" group-title="音乐广播" radio="true",内蒙古音乐之声
 http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/湖北经典音乐广播.png" group-title="音乐广播" radio="true",湖北经典音乐广播
@@ -1757,6 +1759,8 @@ http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
 http://stream.appwuhan.com/yypdzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" group-title="音乐广播" radio="true",武汉青少广播·M-radio
 http://stream.appwuhan.com/sepdzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livehls.oss-cn-shanghai.aliyuncs.com/2020/12/11/image/798285e1766815818d495053cc2881c8.png" group-title="音乐广播" radio="true",常州音乐广播
+https://livekcz.cztv.tv/kcz/fm935.m3u8?auth_key=1640440527-0-0-6d06e16bea86a30a704c8cf27b8b5784
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/乐动1056.png" group-title="音乐广播" radio="true",Heart FM 乐动1056
 http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingdianyinle
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/惠州音乐广播.JPG" group-title="音乐广播" radio="true",惠州音乐广播
