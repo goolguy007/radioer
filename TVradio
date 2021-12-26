@@ -466,8 +466,6 @@ http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海外语
 http://39.134.39.5/TVOD/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海教育电视台
-http://live2018.setv.sh.cn/setv/programme10_lud.m3u8?auth_key=4790122411-0-0-f6c20db506e028f2f4d4a546c3f9631b
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
 http://v.mp.haue.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
@@ -509,8 +507,6 @@ http://111.40.196.38/PLTV/88888888/224/3221225662/index.m3u8
 http://111.40.196.26/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南国际
 http://149.129.100.78:88/hunan.php?id=229
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南教育
-http://149.129.100.78:88/xsj.php?id=hnjy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙政法
 http://149.129.100.78:88/xsj.php?id=cszf
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20200109/f5078b7d3a8f020b8d6f6fcdcd938f1d.jpeg" group-title="地方",长沙影视
@@ -535,6 +531,14 @@ http://149.129.100.78:88/cutv.php?id=sxjj
 http://149.129.100.78:88/cutv.php?id=sxys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg" group-title="地方",山西公共
 http://149.129.100.78:88/cutv.php?id=sxgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海教育台
+https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",昆明教育台
+https://pili-live-hls-kmjy.tianma3600.com/kmjy/kmjy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江西教育台
+https://live.jxeduyun.com/streams/5e05b4659858d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南教育台
+http://pull.hnedutv.com/live/hnedutv1206.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",太原教育台
 http://149.129.100.78:88/cutv.php?id=tyjypd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",太原新闻综合
