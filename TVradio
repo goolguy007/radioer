@@ -987,6 +987,8 @@ http://mplay.muearfm.cn/muearfm/fm666.m3u8
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播" radio="true",潮流音悦台
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241637972573.png" group-title="网络广播" radio="true",警广之声
+http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png" group-title="网络广播" radio="true",天籁之音-经典正流行
 http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png" group-title="网络广播" radio="true",天籁之音 Hi-Fi Radio
