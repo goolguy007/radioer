@@ -830,6 +830,14 @@ http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227955/index.m3u8
 http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227902/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",常州公共
 http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227905/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",扬州新闻综合
+http://149.129.100.78:88/yz.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",扬州城市
+http://149.129.100.78:88/yz.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",扬州生活
+http://149.129.100.78:88/yz.php?id=3
+#EXTINF:-1 tvg-id="" tvg-name="" tag-logo="" group-title="地方",扬州江都
+http://149.129.100.78:88/yz.php?id=4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江西都市
 http://149.129.100.78:88/jxtv.php?id=jxtv2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江西经济生活
@@ -1112,6 +1120,14 @@ http://satellitepull.cnr.cn/live/wx32jsjtgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江苏健康广播.png" group-title="综合广播" radio="true",江苏健康广播
 http://satellitepull.cnr.cn/live/wx32jsjkgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ucoss.96189.com/upload/201611/8dc3658bf37a6aa8cad646c88e2a3510.png" group-title="综合广播",扬州交通广播
+http://149.129.100.78:88/yz.php?id=jt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2015/0907/20150907174509839.jpg" group-title="综合广播",扬州新闻广播
+http://149.129.100.78:88/yz.php?id=xw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ucoss.96189.com/upload/201709/4672ca39aa68f72ca63b274bcad504ea.png" group-title="综合广播",扬州江都广播
+http://149.129.100.78:88/yz.php?id=jd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ucoss.96189.com/upload/201803/8e6ff0cde4a92d1dbd372781fe1c7488.jpg" group-title="综合广播",扬州FM96.7
+http://149.129.100.78:88/yz.php?id=fm967
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://livehls.oss-cn-shanghai.aliyuncs.com/2021/03/15/image/a3ab9e4772ac440e929d48446de9fa41.png" group-title="综合广播" radio="true",常州经济广播
 http://149.129.100.78:88/cz.php?id=fm1052
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livehls.oss-cn-shanghai.aliyuncs.com/2020/12/11/image/9fdd959deb73174d1934ec394ad61863.png" group-title="综合广播" radio="true",常州新闻广播
@@ -1688,6 +1704,8 @@ http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2019/0830/20190830075424.jpeg" group-title="音乐广播" radio="true",旅游之声
 http://starfish.bj.aliyun.007.qingting.fm:8000/fm98.7lvyouzhisheng
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ucoss.96189.com/upload/201709/1e67bb416e2549018a71d841d0a445e5.png" group-title="音乐广播",扬州经济音乐广播
+http://149.129.100.78:88/yz.php?id=jjyy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/陕西音乐广播.png" group-title="音乐广播" radio="true",陕西音乐广播·快乐988
 http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东音乐广播.png" group-title="音乐广播" radio="true",山东音乐广播
@@ -1778,7 +1796,7 @@ http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 http://149.129.100.78:88/cdgb.php?id=433-20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/海口音乐广播.png" group-title="音乐广播" radio="true",WHIZ Radio 海口音乐广播
 http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2021/0330/20210330084513.jpeg" group-title="音乐广播" radio="true",青岛音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2021/0330/20210330084513.jpeg" group-title="音乐广播" radio="true",青岛音乐体育广播
 http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/0324/20210324095429.png" group-title="音乐广播" radio="true",青岛摩登音乐调频
 http://video11.qtv.com.cn/zhibo886/manifest.m3u8
