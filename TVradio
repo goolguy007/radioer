@@ -446,7 +446,6 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.weathertv.cn/m/i/documentary/logo.png" group-title="数字",中国天气
 http://153.0.115.66:9901/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="数字",中国交通频道(海南)
-https://tv.lanjingfm.com/cctbn/hainan.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="数字",中国交通频道(湖北)
 https://tv.lanjingfm.com/cctbn/hubei.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="数字",中国交通频道(广东)
@@ -978,6 +977,8 @@ http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 http://play.redefine.ltd/Stream2/FM1058-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网络广播" radio="true",萤火虫网络台
 http://211.149.226.193:8066/1022.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ftp.muearfm.cn//upload/broadcasting/2021/09/22/4fcfe65f-001c-4101-b13b-3964aa6ac796.png" group-title="网络广播" radio="true",沐耳电台
+http://mplay.muearfm.cn/muearfm/fm666.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553159793824.jpg" group-title="网络广播" radio="true",动感音悦台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播" radio="true",潮流音悦台
@@ -1340,12 +1341,20 @@ http://satellitepull.cnr.cn/live/wxhnlygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxhnxxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/吉林新闻综合广播.png" group-title="综合广播" radio="true",吉林新闻综合广播
 http://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/吉林经济广播.png" group-title="综合广播" radio="true",吉林经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ftp.muearfm.cn//upload/broadcasting/2021/09/01/a6fae803-a9ad-4629-b9d4-2577f22f8940.png" group-title="综合广播" radio="true",吉林经济广播
 http://satellitepull.cnr.cn/live/wxjljjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/吉林交通广播.png" group-title="综合广播" radio="true",吉林交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ftp.muearfm.cn//upload/broadcasting/2021/09/01/4b6c4245-3c8f-4ef1-94ea-f5168d1bece4.png" group-title="综合广播" radio="true",吉林交通广播
 http://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/吉林乡村广播.png" group-title="综合广播" radio="true",吉林乡村广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ftp.muearfm.cn//upload/broadcasting/2021/09/01/4ed42acd-cf25-4238-88c2-d26efc59f685.png" group-title="综合广播" radio="true",吉林乡村广播
 http://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ftp.muearfm.cn//upload/broadcasting/2021/09/01/617acf6e-74be-41d4-932a-3a4cbb9cda38.png" group-title="综合广播" radio="true",吉林旅游广播
+http://lives.muear.cn:1935/live/fm1033/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ftp.muearfm.cn//upload/broadcasting/2021/09/01/fc223713-4fff-460b-bfdf-eb3673c2d0e5.png" group-title="综合广播" radio="true",吉林教育广播
+http://lives.muear.cn:1935/live/fm1033/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ftp.muearfm.cn//upload/broadcasting/2021/09/01/9e3505b9-54f7-400d-8b36-393fb9987224.png" group-title="综合广播" radio="true",吉林健康娱乐广播
+http://lives.muear.cn:1935/live/fm1019/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ftp.muearfm.cn//upload/broadcasting/2021/09/01/ad75f8a4-27cc-4d2e-a569-284ea96fe2bb.png" group-title="综合广播" radio="true",吉林资讯广播
+http://lives.muear.cn:1935/live/fm1001/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/延边新闻广播.png" group-title="综合广播" radio="true",延边新闻广播
 http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",延边文艺生活广播
@@ -1704,18 +1713,12 @@ http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2019/0830/20190830075424.jpeg" group-title="音乐广播" radio="true",旅游之声
 http://starfish.bj.aliyun.007.qingting.fm:8000/fm98.7lvyouzhisheng
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ucoss.96189.com/upload/201709/1e67bb416e2549018a71d841d0a445e5.png" group-title="音乐广播",扬州经济音乐广播
-http://149.129.100.78:88/yz.php?id=jjyy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/陕西音乐广播.png" group-title="音乐广播" radio="true",陕西音乐广播·快乐988
 http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东音乐广播.png" group-title="音乐广播" radio="true",山东音乐广播
 http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东经典音乐广播.png" group-title="音乐广播" radio="true",山东经典音乐广播
 http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1575860171495_jUB_-mOhG.jpeg" group-title="音乐广播" radio="true",烟台音乐广播
-http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img11.iqilu.com/295/2021/04/02/4563a3671c2c0eb69da8580609b09e63.jpg" group-title="音乐广播" radio="true",崂山921
-https://jsyaudiolive302.iqilu.com/laoshan/laoshan_audio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/摩登音乐台.png" group-title="音乐广播" radio="true",湖南文艺广播·摩登音乐台
 http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2021/0809/20210809021518.png" group-title="音乐广播" radio="true",湖南音乐之声·芒果音乐台
@@ -1808,12 +1811,20 @@ http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
 http://audiolive2.rbc.cn:1935/live/fm974/96K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.666scly.com%2Fimg%2Flogo%2F20160401165806467.png&refer=http%3A%2F%2Fwww.666scly.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1642854111&t=34a7e275e5e718b77d96fd9510321fb2" group-title="音乐广播" radio="true",绍兴私家车音乐广播
 http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ucoss.96189.com/upload/201709/1e67bb416e2549018a71d841d0a445e5.png" group-title="音乐广播",扬州经济音乐广播
+http://149.129.100.78:88/yz.php?id=jjyy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0501/20170501063612.jpeg" group-title="音乐广播" radio="true",武汉音乐广播
 http://stream.appwuhan.com/yypdzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" group-title="音乐广播" radio="true",武汉青少广播·M-radio
 http://stream.appwuhan.com/sepdzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ftp.muearfm.cn//upload/broadcasting/2021/09/01/24a39970-ccf1-411a-ad58-da2c40ea6eab.png" group-title="音乐广播" radio="true",吉林音乐广播
+http://lives.jlradio.cn:1935/live/fm927/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livehls.oss-cn-shanghai.aliyuncs.com/2020/12/11/image/798285e1766815818d495053cc2881c8.png" group-title="音乐广播" radio="true",常州音乐广播
 http://149.129.100.78:88/cz.php?id=fm935
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1575860171495_jUB_-mOhG.jpeg" group-title="音乐广播" radio="true",烟台音乐广播
+http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img11.iqilu.com/295/2021/04/02/4563a3671c2c0eb69da8580609b09e63.jpg" group-title="音乐广播" radio="true",崂山921
+https://jsyaudiolive302.iqilu.com/laoshan/laoshan_audio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/乐动1056.png" group-title="音乐广播" radio="true",Heart FM 乐动1056
 http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingdianyinle
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/惠州音乐广播.JPG" group-title="音乐广播" radio="true",惠州音乐广播
