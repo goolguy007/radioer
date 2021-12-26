@@ -1817,7 +1817,7 @@ http://149.129.100.78:88/yz.php?id=jjyy
 http://stream.appwuhan.com/yypdzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" group-title="音乐广播" radio="true",武汉青少广播·M-radio
 http://stream.appwuhan.com/sepdzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ftp.muearfm.cn//upload/broadcasting/2021/09/01/24a39970-ccf1-411a-ad58-da2c40ea6eab.png" group-title="音乐广播" radio="true",吉林音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/吉林音乐广播.png" group-title="音乐广播" radio="true",吉林音乐广播
 http://lives.jlradio.cn:1935/live/fm927/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livehls.oss-cn-shanghai.aliyuncs.com/2020/12/11/image/798285e1766815818d495053cc2881c8.png" group-title="音乐广播" radio="true",常州音乐广播
 http://149.129.100.78:88/cz.php?id=fm935
