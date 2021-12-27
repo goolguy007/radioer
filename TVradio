@@ -1711,6 +1711,8 @@ http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlis
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经典音乐广播.png" group-title="音乐广播" radio="true",CNR经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/0715/20210715123728.png" group-title="音乐广播" radio="true",长春先锋音乐广播
+http://voipfinderliveplay.wxqcloud.qq.com/trtc_1400439699/live_2078375402597847547_wjh420.m3u8?extbuf=btc0QNjNDqnGQaoiXMCzHtGGEmJ5Dlq6Avxt5h9ixzvLO1jCXeaB%25252FSqfuEJbu1K2148NTN0gyR8MCI0FaR2mgLdDeBbaBMUICFcHuBc3aKkgRDut2kMgUvPp91pGeEIgGiSryUBDdk8kfYz42HPWET%25252FEVfoG&openid=404880d402c876a87717a35c39b3fd95&txSecret=4ab89a53b6e9a76b08f7a5a89a216989&txTime=61C9E6A3&wxtoken=0558ff4e4e0dc94986d380a0ded537b4&cdntagname=wjh420&combuf=U0J4tQJAuRQUIhtB73cpvQFOjQV7QM6XOixh%25252Bv3nbb3RVWTtPMQbM2yZOPN5hOYD6KQdcxXTbUk03GGsMO6UN6ka&vdt=0&rt=2000&q=3&sc=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/安徽音乐广播.png" group-title="音乐广播" radio="true",安徽音乐广播
 http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/好听1055.png" group-title="音乐广播" radio="true",陕西青少广播·好听1055
