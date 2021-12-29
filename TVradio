@@ -532,7 +532,7 @@ http://149.129.100.78:88/cutv.php?id=sxys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg" group-title="地方",山西公共
 http://149.129.100.78:88/cutv.php?id=sxgg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海教育台
-https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
+http://149.129.100.78:88/setv.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",昆明教育台
 https://pili-live-hls-kmjy.tianma3600.com/kmjy/kmjy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江西教育台
