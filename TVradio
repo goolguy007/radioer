@@ -129,7 +129,7 @@ http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226880/i
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://39.134.39.5/TVOD/88888888/224/3221226407/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN 
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221227090/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/CGTN纪录.png" group-title="央视",CGTN纪录
@@ -1826,7 +1826,7 @@ http://stream.appwuhan.com/yypdzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" group-title="音乐广播" radio="true",武汉青少广播·M-radio
 http://stream.appwuhan.com/sepdzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/吉林音乐广播.png" group-title="音乐广播" radio="true",吉林音乐广播
-http://lives.jlradio.cn:1935/live/fm927/tzwj_video.m3u8
+http://lives.muear.cn:1935/live/fm927/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livehls.oss-cn-shanghai.aliyuncs.com/2020/12/11/image/798285e1766815818d495053cc2881c8.png" group-title="音乐广播" radio="true",常州音乐广播
 http://149.129.100.78:88/cz.php?id=fm935
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1575860171495_jUB_-mOhG.jpeg" group-title="音乐广播" radio="true",烟台音乐广播
