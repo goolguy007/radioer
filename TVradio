@@ -61,6 +61,8 @@ http://39.134.39.5/TVOD/88888888/224/3221226240/index.m3u8
 http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://v.mp.haue.edu.cn/hls/xmtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",内蒙古卫视
+http://39.134.39.39/270000001322/69900158041111100000002237/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",延边卫视
 http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221227047/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",三沙卫视
@@ -1606,6 +1608,8 @@ https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/台北广播电台.png" group-title="境外广播" radio="true",台北广播电台AM1134
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fm1007lucky.com/app_script/DisplayCut.ashx?file=202103021504550.jpg&rootDir=news&w=400&h=300" group-title="境外广播" radio="true",台中广播电台
+http://211.20.119.101:8081
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外广播" radio="true",飞特电台
 https://phate.io/listen.ogg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/中广音乐网.png" group-title="境外广播" radio="true",中广音乐网
@@ -1803,7 +1807,7 @@ http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 http://149.129.100.78:88/cdgb.php?id=433-20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1027/20211027110131.jpeg" group-title="音乐广播" radio="true",AsiaFM 亚洲音乐台
 http://asiafm.vip:8000/fm965
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宜昌广播.png" group-title="音乐广播" radio="true",宜昌音乐生活广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2018/0209/20180209124958.jpeg" group-title="音乐广播" radio="true",宜昌音乐广播
 http://playfmaliyun.3xgd.com/fm/qct.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/海口音乐广播.png" group-title="音乐广播" radio="true",WHIZ Radio 海口音乐广播
 http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
@@ -1992,4 +1996,3 @@ http://149.129.100.78:8000/aijazeera
 http://149.129.100.78:8000/bloomberg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://5b0988e595225.cdn.sohucs.com/a_auto,c_cut,x_30,y_0,w_416,h_416/images/20190617/d408286835e548cb8621cdd1aac94b3a.jpeg" group-title="电视伴音",环球奇观
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="电视伴音",老故事
-
