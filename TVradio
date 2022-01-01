@@ -1712,7 +1712,7 @@ http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/音乐之声.png" group-title="音乐广播" radio="true",CNR音乐之声
 http://liveop.cctv.cn/hls/yyzs192/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经典音乐广播.png" group-title="音乐广播" radio="true",CNR经典音乐广播
-http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+http://liveop.cctv.cn/hls/jdyygb192/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2019/0220/20190220030041.jpeg" group-title="音乐广播" radio="true",新疆音乐广播MixFM1039
 http://livehywaudio2.chinamcache.com/xjtvs/gb06.m3u8?auth_key=1701481179-0-0-f5b0844d2432e7a4c6458ae7152483ba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/安徽音乐广播.png" group-title="音乐广播" radio="true",安徽音乐广播
