@@ -1712,7 +1712,7 @@ https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/pl
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2014/07/iTunes-12-icon.png" group-title="音乐广播" radio="true",Apple Music Radio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/音乐之声.png" group-title="音乐广播" radio="true",CNR音乐之声
-http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+http://liveop.cctv.cn/hls/yyzs192/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经典音乐广播.png" group-title="音乐广播" radio="true",CNR经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2019/0220/20190220030041.jpeg" group-title="音乐广播" radio="true",新疆音乐广播MixFM1039
@@ -1996,3 +1996,4 @@ http://149.129.100.78:8000/aijazeera
 http://149.129.100.78:8000/bloomberg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://5b0988e595225.cdn.sohucs.com/a_auto,c_cut,x_30,y_0,w_416,h_416/images/20190617/d408286835e548cb8621cdd1aac94b3a.jpeg" group-title="电视伴音",环球奇观
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="电视伴音",老故事
+
