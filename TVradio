@@ -388,7 +388,7 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV动漫秀场
 http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字",SiTV生活时尚
-http://[2001:250:4801::430:89]/hls/hls184a91.m3u8
+http://[2409:8087:6a01:1020::b]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226207/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="数字",SiTV劲爆体育
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="数字",SiTV新视觉
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="数字",SiTV魅力足球
@@ -404,15 +404,15 @@ http://v.mp.haue.edu.cn/hls/lgstv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dszn.png" group-title="数字",CCTV电视指南
 http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dyjc.png" group-title="数字",CCTV第一剧场
-http://[2001:250:4801::430:89]/hls/hls184a512.m3u8
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000569&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyjc.png" group-title="数字",CCTV风云剧场
-http://[2001:250:4801::430:89]/hls/hls184a516.m3u8
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000570&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/hjjc.png" group-title="数字",CCTV怀旧剧场
-http://[2001:250:4801::430:89]/hls/hls184a518.m3u8
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000571&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyyy.png" group-title="数字",CCTV风云音乐
 http://[2001:250:4801::430:89]/hls/hls184a519.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyzq.png" group-title="数字",CCTV风云足球
-http://[2001:250:4801::430:89]/hls/hls184a510.m3u8
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000576&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/sjdl.png" group-title="数字",CCTV世界地理
 http://[2001:250:4801::430:89]/hls/hls184a515.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/bqkj.png" group-title="数字",CCTV兵器科技
@@ -641,6 +641,10 @@ http://149.129.100.78:88/dxxw.php?id=151
 http://149.129.100.78:88/dxxw.php?id=152
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南国际
 http://149.129.100.78:88/dxxw.php?id=153
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",睛彩中原
+http://149.129.100.78:88/dxxw.php?id=157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",移动戏曲
+http://149.129.100.78:88/dxxw.php?id=163
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河北影视剧
 http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河北经济生活
@@ -721,10 +725,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",兰州综艺体育
 http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",睛彩中原
-http://149.129.100.78:88/dxxw.php?id=157
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",移动戏曲
-http://149.129.100.78:88/dxxw.php?id=163
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州新闻综合
 rtmp://csztv.2500sz.com/live/c01
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州社会经济
@@ -962,7 +962,7 @@ http://popradio.top:8000/popradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1022/20211022112426.jpeg" group-title="网络广播" radio="true",AsiaFM 亚洲音乐台
 http://asiafm.hk:8000/asiafm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1021/20211021064828.jpeg" group-title="网络广播" radio="true",AsiaFM 亚洲经典台
-http://goldfm.cn:8000/fm
+http://goldfm.cn:8000/goldfm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1021/20211021064656.jpeg" group-title="网络广播" radio="true",AsiaFM 亚洲天空台
 http://funradio.cn:8000/funradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1021/20211021060000.jpeg" group-title="网络广播" radio="true",AsiaFM HD音乐台
@@ -1653,13 +1653,13 @@ https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/ufm1003.png" group-title="境外广播" radio="true",UFM 1003
 https://22283.live.streamtheworld.com/UFM_1003AAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="境外广播" radio="true",法国国际广播电台
-http://live02.rfi.fr/rfichinois-96k.mp3
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sputnik_logo.svg/220px-Sputnik_logo.svg.png" group-title="境外广播" radio="true",俄罗斯卫星通讯社
 http://audio1.video.ria.ru/voiceenghi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/美国之音.png" group-title="境外广播" radio="true",美国之音
 https://voaaudio-lh.akamaihd.net/i/PACKVOA151_124L@824401/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/自由亚洲电台.png" group-title="境外广播" radio="true",自由亚洲电台
-http://rfimonde-lh.akamaihd.net/i/rfimonde_1@412456/index_128_a-p.m3u8
+https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外广播" radio="true",CNA 938
 https://14033.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kcrw.com/music/shows/eclectic24/@@images/square_image/giant-square" group-title="境外广播" radio="true",Eclectic24
