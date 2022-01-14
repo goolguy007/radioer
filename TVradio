@@ -1450,8 +1450,8 @@ http://satellitepull.cnr.cn/live/wxxzdwjtgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",西藏藏语广播
 http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆新闻广播
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆新闻广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙交通广播.png" group-title="音乐广播" radio="true",长沙交通广播
+http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/甘肃交通广播.png" group-title="综合广播" radio="true",甘肃交通广播
 http://satellitepull.cnr.cn/live/wxgsjtgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/甘肃农村广播.png" group-title="综合广播" radio="true",甘肃农村广播
@@ -1845,8 +1845,6 @@ http://audio-live.radio.cn/live/szyy1/playlist.m3u8
 http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙音乐广播.png" group-title="音乐广播" radio="true",长沙音乐广播
 http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙交通广播.png" group-title="音乐广播" radio="true",长沙交通广播
-http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="电视伴音",CCTV-1 综合
 https://cctv5cncc.v.wscdns.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv2.png" group-title="电视伴音",CCTV-2 财经
