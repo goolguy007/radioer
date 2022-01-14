@@ -1713,20 +1713,22 @@ http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlis
 http://liveop.cctv.cn/hls/yyzs192/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经典音乐广播.png" group-title="音乐广播" radio="true",CNR经典音乐广播
 http://liveop.cctv.cn/hls/jdyygb192/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2019/0220/20190220030041.jpeg" group-title="音乐广播" radio="true",新疆音乐广播MixFM1039
-http://livehywaudio2.chinamcache.com/xjtvs/gb06.m3u8?auth_key=1701481179-0-0-f5b0844d2432e7a4c6458ae7152483ba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2018/0209/20180209124958.jpeg" group-title="音乐广播" radio="true",宜昌音乐广播
+http://playfmaliyun.3xgd.com/fm/qct.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/安徽音乐广播.png" group-title="音乐广播" radio="true",安徽音乐广播
 http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/陕西音乐广播.png" group-title="音乐广播" radio="true",陕西音乐广播·快乐988
+http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/好听1055.png" group-title="音乐广播" radio="true",陕西青少广播·好听1055
 http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2019/0220/20190220030041.jpeg" group-title="音乐广播" radio="true",新疆音乐广播MixFM1039
+http://livehywaudio2.chinamcache.com/xjtvs/gb06.m3u8?auth_key=1701481179-0-0-f5b0844d2432e7a4c6458ae7152483ba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山西音乐广播.png" group-title="音乐广播" radio="true",山西音乐广播
 http://radiolive.sxrtv.com/live/yinyue/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/北京经典969.png" group-title="音乐广播" radio="true",北京经典969
 http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2019/0830/20190830075424.jpeg" group-title="音乐广播" radio="true",旅游之声
 http://starfish.bj.aliyun.007.qingting.fm:8000/fm98.7lvyouzhisheng
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/陕西音乐广播.png" group-title="音乐广播" radio="true",陕西音乐广播·快乐988
-http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东音乐广播.png" group-title="音乐广播" radio="true",山东音乐广播
 http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山东经典音乐广播.png" group-title="音乐广播" radio="true",山东经典音乐广播
@@ -1805,8 +1807,6 @@ http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 http://149.129.100.78:88/cdgb.php?id=433-20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1027/20211027110131.jpeg" group-title="音乐广播" radio="true",AsiaFM 亚洲音乐台
 http://asiafm.vip:8000/fm965
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2018/0209/20180209124958.jpeg" group-title="音乐广播" radio="true",宜昌音乐广播
-http://playfmaliyun.3xgd.com/fm/qct.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/海口音乐广播.png" group-title="音乐广播" radio="true",WHIZ Radio 海口音乐广播
 http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2021/0330/20210330084513.jpeg" group-title="音乐广播" radio="true",青岛音乐体育广播
