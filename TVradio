@@ -1709,6 +1709,8 @@ https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/pl
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="境外广播" radio="true",阿里郎电台(音频)
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2014/07/iTunes-12-icon.png" group-title="音乐广播" radio="true",Apple Music Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fandroid-artworks.25pp.com%2Ffs06%2F2016%2F01%2F26%2F2%2F110_e0a270da4de6cd239c8322879eb3bd9a_con.png&refer=http%3A%2F%2Fandroid-artworks.25pp.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644846897&t=a3aee3750eb006282ce0cdd559ab2022" group-title="音乐广播" radio="true",QQ音乐台
+http://149.129.100.78:8000/iradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/音乐之声.png" group-title="音乐广播" radio="true",CNR音乐之声
 http://liveop.cctv.cn/hls/yyzs192/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经典音乐广播.png" group-title="音乐广播" radio="true",CNR经典音乐广播
