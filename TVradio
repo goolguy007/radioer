@@ -1267,6 +1267,10 @@ http://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/重庆交通广播.png" group-title="综合广播" radio="true",重庆交通广播
 http://satellitepull.cnr.cn/live/wxcqjtgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2021/0223/20210223120730.jpeg" group-title="综合广播" radio="true",永川之声
+http://qxlmlive.cbg.cn:1935/applive/ycgb02/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",忠州之声
+http://qxlmlive.cbg.cn:1935/app_2/ls_36.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",万州综合广播
 http://123.146.162.24:8013/tslslive/L4cvRM0/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",万州交通广播
