@@ -78,7 +78,7 @@ http://149.129.100.78:88/aishang.php?id=cetv2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",中国教育4
 http://149.129.100.78:88/aishang.php?id=cetv4
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视",北京冬奥纪实
-v.mp.haue.edu.cn
+http://39.135.46.246:6610/PLTV/77777777/224/3221225667/index.m3u8?
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",纪实人文
 http://39.135.138.34:18890/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实
@@ -515,8 +515,6 @@ http://124.232.233.16:6610/000000001001/201500000229/index.m3u8?&version=v1.0&IA
 http://124.232.233.16:6610/000000001001/201500000206/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙新闻
 http://124.232.233.16:6610/000000001001/201500000232/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙女性
-http://149.129.100.78:88/xsj.php?id=csnx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",晋中综合
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",晋中公共
