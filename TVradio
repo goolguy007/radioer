@@ -1522,6 +1522,14 @@ rtmp://radiolive.sxrtv.com/live/jingji
 rtmp://radiolive.sxrtv.com/live/zonghe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/山西故事广播.png" group-title="综合广播" radio="true",山西故事广播
 rtmp://radiolive.sxrtv.com/live/gushi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2014/1128/20141128165025728.png" group-title="综合广播" radio="true",太原综合广播
+http://149.129.100.78:88/cutv.php?id=tyzhgb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210916/1631783176878.jpg" group-title="综合广播" radio="true",太原经济广播
+http://149.129.100.78:88/cutv.php?id=tyjjgb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2017/0223/20170223061817.jpeg" group-title="综合广播" radio="true",太原交通广播
+http://149.129.100.78:88/cutv.php?id=tyjtgb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2019/1203/20191203120233.jpeg" group-title="综合广播" radio="true",太原老年之声
+http://149.129.100.78:88/cutv.php?id=tylnzs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宜昌广播.png" group-title="综合广播" radio="true",宜昌新闻综合广播
 http://playfmaliyun.3xgd.com/fm/xwt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宜昌广播.png" group-title="综合广播" radio="true",宜昌交通广播
@@ -1850,6 +1858,8 @@ http://audio-live.radio.cn/live/szyy1/playlist.m3u8
 http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙音乐广播.png" group-title="音乐广播" radio="true",长沙音乐广播
 http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2020/0721/20200721111504.jpeg" group-title="音乐广播" radio="true",太原音乐广播
+http://149.129.100.78:88/cutv.php?id=tyyygb
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="电视伴音",CCTV-1 综合
 https://cctv5cncc.v.wscdns.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv2.png" group-title="电视伴音",CCTV-2 财经
