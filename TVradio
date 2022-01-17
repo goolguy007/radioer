@@ -1848,7 +1848,7 @@ http://149.129.100.78:88/cz.php?id=fm935
 http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img11.iqilu.com/295/2021/04/02/4563a3671c2c0eb69da8580609b09e63.jpg" group-title="音乐广播" radio="true",崂山921
 https://jsyaudiolive302.iqilu.com/laoshan/laoshan_audio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/乐动1056.png" group-title="音乐广播" radio="true",Heart FM 乐动1056
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/0531/20210531014405.jpeg" group-title="音乐广播" radio="true",盛京105.6
 http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingdianyinle
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/惠州音乐广播.JPG" group-title="音乐广播" radio="true",惠州音乐广播
 http://stream.hztvmg.com/test17/playlist.m3u8
