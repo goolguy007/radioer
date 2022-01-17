@@ -1722,7 +1722,7 @@ http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlis
 http://149.129.100.78:8000/spotify
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2014/07/iTunes-12-icon.png" group-title="音乐广播" radio="true",QQ音乐热歌台
 http://149.129.100.78:8000/iradio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.orsoon.com%2Fico%2F201709%2F09100017_5511fd6a4e.png&refer=http%3A%2F%2Fimg3.orsoon.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644895962&t=94ce7071cd51e61c350d1e39fcf3a6dc" group-title="音乐广播" radio="true",QQ音乐新歌台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/qqmusic.png" group-title="音乐广播" radio="true",QQ音乐新歌台
 http://149.129.100.78:8000/newmusic
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/音乐之声.png" group-title="音乐广播" radio="true",CNR音乐之声
 http://liveop.cctv.cn/hls/yyzs192/playlist.m3u8
@@ -1736,7 +1736,7 @@ http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/好听1055.png" group-title="音乐广播" radio="true",陕西青少广播·好听1055
 http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2019/0220/20190220030041.jpeg" group-title="音乐广播" radio="true",新疆音乐广播MixFM1039
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/mix1039.png" group-title="音乐广播" radio="true",新疆音乐广播MixFM1039
 http://livehywaudio2.chinamcache.com/xjtvs/gb06.m3u8?auth_key=1701481179-0-0-f5b0844d2432e7a4c6458ae7152483ba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/山西音乐广播.png" group-title="音乐广播" radio="true",山西音乐广播
 http://149.129.100.78:88/cutv.php?id=sxyygb
