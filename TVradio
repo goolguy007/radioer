@@ -1997,9 +1997,7 @@ https://wstvalic.v.myalicdn.com/wstv/cetv3_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="电视伴音",中国教育4
 https://wstvalic.v.myalicdn.com/wstv/cetv4_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/79dcc3a9da358a3.png" group-title="电视伴音",凤凰资讯
-http://149.129.100.78:8000/fhzx
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="电视伴音",凤凰中文
-http://149.129.100.78:8000/fhzw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://c1.fengshows-cdn.com/a/2021_23/325d941090bee17.png" group-title="电视伴音",凤凰香港
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.tuneyou.com/images/logos/500_500/63/7463/DWDeutscheWelleRadioEnglish.png" group-title="电视伴音",德国之声
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s108977g.png" group-title="电视伴音",半岛电视台
