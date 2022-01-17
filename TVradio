@@ -20,7 +20,7 @@ http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226728/index.m3
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 rtsp://183.252.166.199/PLTV/88888888/224/3221226076/10000100000000060000000002296917_0.smil
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
-http://v.mp.haue.edu.cn/hls/sxtv.m3u8
+http://149.129.100.78:88/aishang.php?id=sxws
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221227163/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
@@ -44,7 +44,7 @@ http://39.134.39.39/270000001322/69900158041111100000002201/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://39.134.39.5/TVOD/88888888/224/3221226142/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
-http://v.mp.haue.edu.cn/hls/hebhd.m3u8 
+http://149.129.100.78:88/aishang.php?id=hbwshd
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://v.mp.haue.edu.cn/hls/lyhd.m3u8 
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
@@ -435,11 +435,11 @@ http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",大众影院
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC动作电影
-http://[2001:250:4801::430:89]/hls/hls261.m3u8
+http://149.129.100.78:88/aishang.php?id=chcdzdy
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC高清电影
-http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+http://149.129.100.78:88/aishang.php?id=chcgqdy
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC家庭影院
-http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+http://149.129.100.78:88/aishang.php?id=chcjtyy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV超级体育
 http://183.207.255.188/live/program/live/hdnba5/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg" group-title="数字",DoxTV
