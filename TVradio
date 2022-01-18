@@ -1748,7 +1748,7 @@ http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/摩登音乐台.png" group-title="音乐广播" radio="true",湖南文艺广播·摩登音乐台
 http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2021/0809/20210809021518.png" group-title="音乐广播" radio="true",湖南音乐之声·芒果音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/芒果音乐台.png" group-title="音乐广播" radio="true",湖南音乐之声·芒果音乐台
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439531060.png" group-title="音乐广播" radio="true",CRI HIT FM (北京)
 http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
@@ -1808,7 +1808,7 @@ http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/重庆音乐广播.png" group-title="音乐广播" radio="true",重庆音乐广播
 http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/48/1638179327711_IlklMh2sV.jpeg" group-title="音乐广播" radio="true",黑龙江音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/黑龙江音乐广播.png" group-title="音乐广播" radio="true",黑龙江音乐广播
 http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/福建汽车音乐广播.png" group-title="音乐广播" radio="true",福建汽车音乐广播
 http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
@@ -1818,7 +1818,7 @@ http://pull.hrbtv.net/tv/12.m3u8
 http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/成都经典946.png" group-title="音乐广播" radio="true",成都文化休闲广播·radio946
 http://149.129.100.78:88/cdgb.php?id=433-20
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1027/20211027110131.jpeg" group-title="音乐广播" radio="true",AsiaFM 亚洲音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/亚洲音乐台成都.png" group-title="音乐广播" radio="true",AsiaFM 亚洲音乐台
 http://asiafm.vip:8000/fm965
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/海口音乐广播.png" group-title="音乐广播" radio="true",WHIZ Radio 海口音乐广播
 http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
