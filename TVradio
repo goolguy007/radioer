@@ -1721,7 +1721,6 @@ http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/spotify.png" group-title="音乐广播" radio="true",Spotify音乐台
 http://149.129.100.78:8000/iradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2014/07/iTunes-12-icon.png" group-title="音乐广播" radio="true",苹果音乐台
-http://149.129.100.78:8000/applemusicradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/qqmusic.png" group-title="音乐广播" radio="true",QQ音乐台
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/音乐之声.png" group-title="音乐广播" radio="true",CNR音乐之声
 http://liveop.cctv.cn/hls/yyzs192/playlist.m3u8
