@@ -958,11 +958,11 @@ https://tunein.streamguys1.com/pandashowradio
 http://popradio.com.cn:8000/popradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1022/20211022112426.jpeg" group-title="网络广播" radio="true",AsiaFM 亚洲音乐台
 http://asiafm.hk:8000/asiafm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1021/20211021064828.jpeg" group-title="网络广播" radio="true",AsiaFM 亚洲经典台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.asiafm.hk/statics/images/fm3.png" group-title="网络广播" radio="true",AsiaFM 亚洲经典台
 http://goldfm.cn:8000/goldfm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1021/20211021064656.jpeg" group-title="网络广播" radio="true",AsiaFM 亚洲天空台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.asiafm.hk/statics/images/fm2.png" group-title="网络广播" radio="true",AsiaFM 亚洲天空台
 http://funradio.cn:8000/funradio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1021/20211021060000.jpeg" group-title="网络广播" radio="true",AsiaFM HD音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.asiafm.hk/statics/images/hd.png" group-title="网络广播" radio="true",AsiaFM HD音乐台
 http://asiafm.hk:8000/asiahd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="网络广播" radio="true",Big B Radio - 中文流行
 http://cpop.bigbradio.net/s
