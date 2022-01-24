@@ -492,7 +492,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/ind
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="地方",峨眉电影
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",济南铁路局电视台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",济铁电视
 https://jsylivealone302.iqilu.com/jitie/jitie_tv01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电影
 http://124.232.233.16:6610/000000001001/201500000216/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
@@ -954,15 +954,15 @@ http://tunein.streamguys1.com/StarTalkRadio
 https://tunein.streamguys1.com/progressivevoices
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s96692d.png" group-title="网络广播" radio="true",Panda Show Radio
 https://tunein.streamguys1.com/pandashowradio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1022/20211022112426.jpeg" group-title="网络广播" radio="true",AsiaFM 亚洲热歌台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/logo/raw/master/internetradio/亚洲热歌台.png" group-title="网络广播" radio="true",AsiaFM 亚洲热歌台
 http://popradio.com.cn:8000/popradio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2021/1022/20211022112426.jpeg" group-title="网络广播" radio="true",AsiaFM 亚洲音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/logo/raw/master/internetradio/亚洲音乐台.png" group-title="网络广播" radio="true",AsiaFM 亚洲音乐台
 http://asiafm.hk:8000/asiafm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.asiafm.hk/statics/images/fm3.png" group-title="网络广播" radio="true",AsiaFM 亚洲经典台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/logo/raw/master/internetradio/亚洲经典台.png" group-title="网络广播" radio="true",AsiaFM 亚洲经典台
 http://goldfm.cn:8000/goldfm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.asiafm.hk/statics/images/fm2.png" group-title="网络广播" radio="true",AsiaFM 亚洲天空台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/logo/raw/master/internetradio/亚洲天空台.png" group-title="网络广播" radio="true",AsiaFM 亚洲天空台
 http://funradio.cn:8000/funradio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.asiafm.hk/statics/images/hd.png" group-title="网络广播" radio="true",AsiaFM HD音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/logo/raw/master/internetradio/asiahd.png" group-title="网络广播" radio="true",AsiaFM HD音乐台
 http://asiafm.hk:8000/asiahd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="网络广播" radio="true",Big B Radio - 中文流行
 http://cpop.bigbradio.net/s
@@ -2001,3 +2001,4 @@ https://wstvalic.v.myalicdn.com/wstv/cetv4_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="电视伴音",彭博电视
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://5b0988e595225.cdn.sohucs.com/a_auto,c_cut,x_30,y_0,w_416,h_416/images/20190617/d408286835e548cb8621cdd1aac94b3a.jpeg" group-title="电视伴音",环球奇观
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="电视伴音",老故事
+
