@@ -736,6 +736,8 @@ http://hiradio.win/sztv.php?id=szxwzh
 http://hiradio.win/sztv.php?id=szshjj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州文化生活
 http://hiradio.win/sztv.php?id=szwhsh 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州生活资讯
 http://hiradio.win/sztv.php?id=szshzx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",徐州新闻综合
@@ -1147,15 +1149,14 @@ http://hiradio.win/cz.php?id=fm1034
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livehls.oss-cn-shanghai.aliyuncs.com/2020/12/11/image/1072f4c216ddbdf983e9ea23c3d046e5.png" group-title="综合广播" radio="true",常州交通广播
 http://hiradio.win/cz.php?id=fm90
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州生活广播.png" group-title="综合广播" radio="true",苏州生活广播
-http://audio-live.radio.cn/live/szsh1/playlist.m3u8
+http://hiradio.win/szradio.php?id=szshgb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州儿童广播.png" group-title="综合广播" radio="true",苏州儿童广播
-http://audio-live.radio.cn/live/szet1/playlist.m3u8
+http://hiradio.win/szradio.php?id=szetgb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州综合广播.png" group-title="综合广播" radio="true",苏州综合广播
-http://audio-live.radio.cn/live/szxwzh1/playlist.m3u8
+http://hiradio.win/szradio.php?id=szzhgb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1631607649319_Vd7ueakoB.jpeg" group-title="综合广播" radio="true",苏州交通经济广播
-http://audio-live.radio.cn/live/szjtjj1/playlist.m3u8
+http://hiradio.win/szradio.php?id=szjtjjgb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2018/0212/20180212113048425.jpg" group-title="综合广播" radio="true",苏州戏曲广播
-http://audio-live.radio.cn/live/szxq1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1612403622169_5vD0Fj2hb.png" group-title="综合广播" radio="true",安徽之声
 http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/安徽城市之声.png" group-title="综合广播" radio="true",安徽生活广播·城市之声
@@ -1860,7 +1861,7 @@ http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingdianyinle
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/惠州音乐广播.png" group-title="音乐广播" radio="true",惠州音乐广播
 http://stream.hztvmg.com/test17/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/苏州音乐广播.png" group-title="音乐广播" radio="true",苏州都市音乐广播
-http://audio-live.radio.cn/live/szyy1/playlist.m3u8
+http://hiradio.win/szradio.php?id=szdsyygb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙城市之声.png" group-title="音乐广播" radio="true",长沙城市之声
 http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙音乐广播.png" group-title="音乐广播" radio="true",长沙音乐广播
