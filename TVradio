@@ -36,11 +36,11 @@ http://hiradio.win/aishang.php?id=jlws
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://hiradio.win/aishang.php?id=ynws
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://39.130.202.81:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
+http://hiradio.win/aishang.php?id=gxws
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://hiradio.win/aishang.php?id=jxws
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
-http://hiradio.win/migu.php?id=lnws
+http://hiradio.win/aishang.php?id=lnws
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://hiradio.win/aishang.php?id=hljwshd
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
@@ -136,7 +136,7 @@ http://hiradio.win/aishang.php?id=cctv17hd
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN 
 http://hiradio.win/aishang.php?id=cgtnhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/CGTN纪录.png" group-title="央视",CGTN纪录
-http://v.mp.haue.edu.cn/hls/cgtndochd.m3u8
+http://[2409:8087:6a01:1020::b]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226166/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CNC中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/cnc-world-en.png" group-title="央视",CNC英文
@@ -451,7 +451,7 @@ http://183.207.255.188/live/program/live/hdnba5/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",Y+
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.weathertv.cn/m/i/documentary/logo.png" group-title="数字",中国天气
-http://124.232.233.16:6610/000000001001/201500000158/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="数字",中国交通频道(海南)
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://cctbn.com/images/cctbn_hn.png" group-title="数字",中国交通频道(湖北)
 https://tv.lanjingfm.com/cctbn/hubei.m3u8
@@ -470,7 +470,7 @@ http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市
 http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="地方",五星体育
-http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海外语
 http://39.134.39.5/TVOD/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
@@ -501,31 +501,26 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/ind
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",济铁电视
 https://jsylivealone302.iqilu.com/jitie/jitie_tv01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电影
-http://124.232.233.16:6610/000000001001/201500000216/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南经视
-http://124.232.233.16:6610/000000001001/201500000234/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
+http://hiradio.win/hunan.php?id=280
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南公共
-http://124.232.233.16:6610/000000001001/201500000222/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
+http://hiradio.win/hunan.php?id=261
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南娱乐
-http://124.232.233.16:6610/000000001001/201500000239/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
+http://hiradio.win/hunan.php?id=344
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电视剧
-http://124.232.233.16:6610/000000001001/201500000236/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
+http://hiradio.win/hunan.php?id=484
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南都市
-http://124.232.233.16:6610/000000001001/201500000235/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
+http://hiradio.win/hunan.php?id=346
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南国际
-http://124.232.233.16:6610/000000001001/201500000242/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
+http://hiradio.win/hunan.php?id=229
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙政法
-http://124.232.233.16:6610/000000001001/201500000229/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20200109/f5078b7d3a8f020b8d6f6fcdcd938f1d.jpeg" group-title="地方",长沙影视
-http://124.232.233.16:6610/000000001001/201500000206/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙新闻
-http://124.232.233.16:6610/000000001001/201500000232/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",晋中综合
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",晋中公共
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",榆社电视台
-https://hb2stream1.baoxinwen.com/2527ebd712334a70/6616141643588305925_1600914820.m3u8?auth_key=1893456000-0-0-700f7561f8b4f86818c5d7bae4afd140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://apphhplushttps.sxrtv.com/images/2020/12/31/202012311609402077716_90.jpg" group-title="地方",山西社会与法治
 http://hiradio.win/cutv.php?id=sxkj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="地方",黄河电视台
@@ -1595,11 +1590,11 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_rad
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/bbcradio/bbc6.png" group-title="境外广播" radio="true",BBC Radio 6
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",POP Radio 台北流行广播电台
-http://hiradio.win:8000/pop
+http://hiradio.win:8000/popradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播" radio="true",A-line Radio 网路音乐台
 http://radio.apple-line.com:987/radio-data/alinePlayer.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM联播网|台北之音
-http://hiradio.win:8000/hit
+http://hiradio.win:8000/hitfm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/全国广播.png" group-title="境外广播" radio="true",M-Radio全国广播
 http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png" group-title="境外广播" radio="true",全国治安交通网
@@ -1827,7 +1822,7 @@ http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/成都经典946.png" group-title="音乐广播" radio="true",成都文化休闲广播·radio946
 http://hiradio.win/cdgb.php?id=433-20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/亚洲音乐台成都.png" group-title="音乐广播" radio="true",AsiaFM 亚洲音乐台
-http://asiafm.vip:8000/live965
+http://asiafm.vip:8000/fm965
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/海口音乐广播.png" group-title="音乐广播" radio="true",WHIZ Radio 海口音乐广播
 http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/青岛音体广播.png" group-title="音乐广播" radio="true",青岛音乐体育广播
@@ -2010,3 +2005,4 @@ https://wstvalic.v.myalicdn.com/wstv/cetv4_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="电视伴音",彭博电视
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://5b0988e595225.cdn.sohucs.com/a_auto,c_cut,x_30,y_0,w_416,h_416/images/20190617/d408286835e548cb8621cdd1aac94b3a.jpeg" group-title="电视伴音",环球奇观
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="电视伴音",老故事
+
