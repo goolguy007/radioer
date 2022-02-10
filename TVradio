@@ -81,7 +81,7 @@ http://39.135.46.246:6610/PLTV/77777777/224/3221225667/index.m3u8?
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视",北京冬奥纪实8k
 http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",纪实人文
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实
 http://hiradio.win/aishang.php?id=jyjs
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
@@ -472,7 +472,7 @@ http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="地方",五星体育
 http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海外语
-http://39.134.39.5/TVOD/88888888/224/3221226201/index.m3u8
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
 http://v.mp.haue.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
@@ -723,18 +723,18 @@ http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",兰州综艺体育
 http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州新闻综合
+http://hiradio.win/suzhou.php?id=szxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州社会经济
+http://hiradio.win/suzhou.php?id=szshjj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州文化生活
+http://hiradio.win/suzhou.php?id=szwhsh 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州生活资讯
+http://hiradio.win/suzhou.php?id=szshzx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州电影娱乐信息
 https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州新闻综合
-http://hiradio.win/sztv.php?id=szxwzh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州社会经济
-http://hiradio.win/sztv.php?id=szshjj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州文化生活
-http://hiradio.win/sztv.php?id=szwhsh 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州生活资讯
-http://hiradio.win/sztv.php?id=szshzx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",徐州新闻综合
 http://stream1.huaihai.tv/xwzh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",徐州经济生活
@@ -1025,12 +1025,12 @@ http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
 http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498187765828570.png" group-title="网络广播" radio="true",国乐悠扬
 http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20211222/1640137536123.jpg" group-title="综合广播" radio="true",CGTN Radio 
+http://sk.cri.cn/am846.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200306/1583464064428.jpg" group-title="综合广播" radio="true",CRI环球资讯广播
 http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/华语环球广播.png" group-title="综合广播" radio="true",CRI华语环球广播
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20211222/1640137536123.jpg" group-title="综合广播" radio="true",CGTN Radio 
-http://sk.cri.cn/am846.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1564021782775_bUoQXgHrn.jpeg" group-title="综合广播" radio="true",CRI南海之声
 http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/世界华声.png" group-title="综合广播" radio="true",CRI世界华声
