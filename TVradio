@@ -209,17 +209,19 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221227756/index.m3u8
 http://ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="HEVC专区",江西卫视
 http://ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰卫视资讯台
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="境外",凤凰卫视中文台
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="境外",凤凰卫视电影台
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰资讯
+rtsp://hkss3.phoenixtv.com:1935/fs/pic.stream
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="境外",凤凰中文
+rtsp://hkss3.phoenixtv.com:1935/fs/pcc.stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="境外",凤凰香港
+rtsp://hkss3.phoenixtv.com:1935/fs/phk.stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",凤凰电影
 http://v.mp.haue.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="境外",Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",Discovery
 http://v.mp.haue.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="v.mp.haue.edu.cn" tvg-logo="" group-title="境外",国家地理
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",国家地理
 http://v.mp.haue.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/radioer/tvradiologo/raw/master/v.png" group-title="境外",【V】
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/tvradiologo/raw/master/v.png" group-title="境外",【V】
 http://v.mp.haue.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",星空卫视
 http://v.mp.haue.edu.cn/hls/startv.m3u8
