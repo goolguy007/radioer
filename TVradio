@@ -22,9 +22,9 @@ http://hiradio.win/aishang.php?id=dnwshd
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://hiradio.win/aishang.php?id=tjwshd
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-http://v.mp.haue.edu.cn/hls/cqhd.m3u8
+http://live.scuec.edu.cn:8080/hls/cqhd.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
-http://hiradio.win/aishang.php?id=hubwshd
+http://hiradio.win/aishang.php?id=hubwshdlive.scuec.edu.cn:8080
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://hiradio.win/aishang.php?id=scws
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
@@ -46,11 +46,11 @@ http://hiradio.win/aishang.php?id=hljwshd
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 http://hiradio.win/aishang.php?id=hbwshd
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://v.mp.haue.edu.cn/hls/lyhd.m3u8 
+http://live.scuec.edu.cn:8080/hls/lyhd.m3u8 
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
-http://v.mp.haue.edu.cn/hls/gzhd.m3u8
+http://live.scuec.edu.cn:8080/hls/gzhd.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://httpdvb.slave.yqdtv.com:13164/playurl?playtype=live&protocol=http&playtoken=31603YEQXREOPEG10&auth=no&verifycode=14183&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6&programid=4200000133
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",西藏卫视
@@ -60,7 +60,7 @@ http://hiradio.win/aishang.php?id=gsws
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://hiradio.win/aishang.php?id=xjws
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
-http://v.mp.haue.edu.cn/hls/xmtv.m3u8
+http://live.scuec.edu.cn:8080/hls/xmtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",内蒙古卫视
 http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",延边卫视
@@ -71,7 +71,7 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226128/1000010000000006000000000243
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://ikanpic.kanketv.com/image/live/icon/bingtuan.png" group-title="卫视",兵团卫视
 http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",中国教育
-http://v.mp.haue.edu.cn/hls/cetv1hd.m3u8
+http://live.scuec.edu.cn:8080/hls/cetv1hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",中国教育2
 http://hiradio.win/aishang.php?id=cetv2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",中国教育4
@@ -85,13 +85,13 @@ http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实
 http://hiradio.win/aishang.php?id=jyjs
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
-http://v.mp.haue.edu.cn/hls/jykttv.m3u8
+http://live.scuec.edu.cn:8080/hls/jykttv.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
-http://v.mp.haue.edu.cn/hls/btv10hd.m3u8
+http://live.scuec.edu.cn:8080/hls/btv10hd.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
 http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",优漫卡通
-http://v.mp.haue.edu.cn/hls/ymkttv.m3u8 
+http://live.scuec.edu.cn:8080/hls/ymkttv.m3u8 
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视",嘉佳卡通
 http://hiradio.win/aishang.php?id=jjkt
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
@@ -216,17 +216,17 @@ rtsp://hkss3.phoenixtv.com:1935/fs/pcc.stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="境外",凤凰香港
 rtsp://hkss3.phoenixtv.com:1935/fs/phk.stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",凤凰电影
-http://v.mp.haue.edu.cn/hls/fhdy.m3u8
+http://live.scuec.edu.cn:8080/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",Discovery
-http://v.mp.haue.edu.cn/hls/discovery.m3u8
+http://live.scuec.edu.cn:8080/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",国家地理
-http://v.mp.haue.edu.cn/hls/natlgeo.m3u8
+http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/tvradiologo/raw/master/v.png" group-title="境外",【V】
-http://v.mp.haue.edu.cn/hls/channelv.m3u8
+http://live.scuec.edu.cn:8080/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",星空卫视
-http://v.mp.haue.edu.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="v.mp.haue.edu.cn" tvg-logo="" group-title="境外",Star Sports
-http://v.mp.haue.edu.cn/hls/starsports.m3u8
+http://live.scuec.edu.cn:8080/hls/startv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="live.scuec.edu.cn:8080" tvg-logo="" group-title="境外",Star Sports
+http://live.scuec.edu.cn:8080/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://television-live.com/uploads/posts/2019-06/1561572071_lotus-tv-macau.png" group-title="境外",莲花卫视
 http://hiradio.win/lotus.php?id=1
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="境外",翡翠台
@@ -407,7 +407,7 @@ http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV游戏风云
 http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CCTV老故事
-http://v.mp.haue.edu.cn/hls/lgstv.m3u8
+http://live.scuec.edu.cn:8080/hls/lgstv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dszn.png" group-title="数字",CCTV电视指南
 http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dyjc.png" group-title="数字",CCTV第一剧场
@@ -476,19 +476,19 @@ http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海外语
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
-http://v.mp.haue.edu.cn/hls/btv9hd.m3u8
+http://live.scuec.edu.cn:8080/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
-http://v.mp.haue.edu.cn/hls/btv4hd.m3u8
+http://live.scuec.edu.cn:8080/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",北京文艺
-http://v.mp.haue.edu.cn/hls/btv2hd.m3u8
+http://live.scuec.edu.cn:8080/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
-http://v.mp.haue.edu.cn/hls/btv5hd.m3u8 
+http://live.scuec.edu.cn:8080/hls/btv5hd.m3u8 
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
-http://v.mp.haue.edu.cn/hls/btv7hd.m3u8
+http://live.scuec.edu.cn:8080/hls/btv7hd.m3u8
 #EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="地方",北京青年
-http://v.mp.haue.edu.cn/hls/btv8hd.m3u8 
+http://live.scuec.edu.cn:8080/hls/btv8hd.m3u8 
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方",北京科教
-http://v.mp.haue.edu.cn/hls/btv3hd.m3u8
+http://live.scuec.edu.cn:8080/hls/btv3hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南经济
