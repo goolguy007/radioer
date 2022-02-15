@@ -737,6 +737,18 @@ http://hiradio.win/suzhou.php?id=szshzx
 https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京教科
+http://live.nbs.cn/channels/njtv/jkpd/500k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京生活
+http://live.nbs.cn/channels/njtv/shpd/500k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京少儿
+http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京信息
+http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",徐州新闻综合
 http://stream1.huaihai.tv/xwzh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",徐州经济生活
