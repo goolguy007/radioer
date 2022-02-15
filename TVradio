@@ -136,7 +136,7 @@ http://hiradio.win/aishang.php?id=cctv17hd
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN 
 http://hiradio.win/aishang.php?id=cgtnhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/CGTN纪录.png" group-title="央视",CGTN纪录
-http://[2409:8087:6a01:1020::b]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226166/1/index.m3u8?fmt=ts2hls
+http://live.scuec.edu.cn:8080/hls/cgtndochd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CNC中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/cnc-world-en.png" group-title="央视",CNC英文
@@ -683,6 +683,16 @@ https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8
 http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",澜湄国际
 http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽经济生活
+http://zbbf1.ahtv.cn/live/750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽公共
+http://zbbf1.ahtv.cn/live/752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽农业科教
+http://zbbf1.ahtv.cn/live/754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽影视
+http://zbbf1.ahtv.cn/live/756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽综艺体育
+http://zbbf1.ahtv.cn/live/758.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥新闻
 http://223.244.92.30:808/2774goN/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥生活
