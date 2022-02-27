@@ -248,14 +248,14 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="境外",Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="境外",Bloomberg TV+
-https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/dw.png" group-title="境外",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/aljazeera.png" group-title="境外",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="境外",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="境外",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/abc.png" group-title="境外",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cna.png" group-title="境外",CNA
@@ -263,11 +263,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png" group-title="境外",VOA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="境外",NHK World 
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" group-title="境外",NHK华语视界
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="境外",阿里郎
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="境外",RT新闻
 https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="境外",RT纪录
@@ -1281,7 +1281,7 @@ http://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/四川文艺广播.png" group-title="综合广播" radio="true",四川文艺广播
 http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/四川旅游生活广播.png" group-title="综合广播" radio="true",四川旅游生活广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2022/0125/20220125031654.jpeg" group-title="综合广播" radio="true",四川新闻广播
 http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/四川交通广播.png" group-title="综合广播" radio="true",四川交通广播
 http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
@@ -1831,6 +1831,8 @@ http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
 http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/太原音乐广播.png" group-title="音乐广播" radio="true",太原音乐广播
 http://hiradio.win/cutv.php?id=tyyygb
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/79dcc3a9da358a3.png" group-title="电视伴音",凤凰资讯
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="电视伴音",凤凰中文
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="电视伴音",CCTV-1 综合
 https://cctv5cncc.v.wscdns.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv2.png" group-title="电视伴音",CCTV-2 财经
@@ -1965,10 +1967,6 @@ https://wstvalic.v.myalicdn.com/wstv/cetv2_1/index.m3u8?adapt=0&BR=audio
 https://wstvalic.v.myalicdn.com/wstv/cetv3_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="电视伴音",中国教育4
 https://wstvalic.v.myalicdn.com/wstv/cetv4_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/79dcc3a9da358a3.png" group-title="电视伴音",凤凰资讯
-http://hiradio.win:8000/fhzx
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="电视伴音",凤凰中文
-http://hiradio.win:8000/fhzw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://c1.fengshows-cdn.com/a/2021_23/325d941090bee17.png" group-title="电视伴音",凤凰香港
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.tuneyou.com/images/logos/500_500/63/7463/DWDeutscheWelleRadioEnglish.png" group-title="电视伴音",德国之声
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s108977g.png" group-title="电视伴音",半岛电视台
