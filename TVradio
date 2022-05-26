@@ -159,7 +159,7 @@ http://v.mp.haue.edu.cn/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://television-live.com/uploads/posts/2019-06/1561572071_lotus-tv-macau.png" group-title="境外",莲花卫视
 http://cooltv.top/tv/lotus.php
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="境外",翡翠台
-https://cdn.hkdtmb.com/hls/81/index.m3u8
+https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="境外",明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="境外",无线新闻台
@@ -425,19 +425,19 @@ http://cooltv.top/tv/jiangsu.php?id=jsxx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏国际
 http://cooltv.top/tv/jiangsu.php?id=jsgj
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
-http://v.mp.haue.edu.cn/hls/btv9hd.m3u8
+http://cooltv.top/tv/btime.php?id=btvxw
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
-http://v.mp.haue.edu.cn/hls/btv4hd.m3u8
+http://cooltv.top/tv/btime.php?id=btvys
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",北京文艺
-http://v.mp.haue.edu.cn/hls/btv2hd.m3u8
+http://cooltv.top/tv/btime.php?id=btvwy
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
-http://v.mp.haue.edu.cn/hls/btv5hd.m3u8 
+http://cooltv.top/tv/btime.php?id=btvcj 
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
-http://v.mp.haue.edu.cn/hls/btv7hd.m3u8
+http://cooltv.top/tv/btime.php?id=btvsh
 #EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="地方",北京青年
-http://v.mp.haue.edu.cn/hls/btv8hd.m3u8 
+http://cooltv.top/tv/btime.php?id=btvqn 
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方",北京科教
-http://v.mp.haue.edu.cn/hls/btv3hd.m3u8
+http://cooltv.top/tv/btime.php?id=btvkj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南经济
