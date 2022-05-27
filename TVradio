@@ -26,7 +26,7 @@ http://cooltv.top/tv/aishang.php?id=tjwshd
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://cooltv.top/tv/aishang.php?id=cqws
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
-http://cooltv.top/tv/aishang.php?id=hubws
+http://cooltv.top/tv/aishang.php?id=hubwshd
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://cooltv.top/tv/aishang.php?id=scws
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://cooltv.top/logo/河南卫视.png" group-title="卫视",河南卫视
@@ -161,21 +161,23 @@ http://cooltv.top/tv/lotus.php
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="境外",翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="境外",明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
+https://live.hkanime.com.hk/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="境外",无线新闻台
-https://cdn.hkdtmb.com/hls/83/index.m3u8
+https://live.hkanime.com.hk/xxxx/85/index.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="境外",有线新闻台
-https://api.leonardpark.dev/live/icable/109
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="境外",有线财经资讯台
+https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="境外",无线财经资讯台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="境外",香港国际财经台
-https://cdn.hkdtmb.com/hls/76/index.m3u8
+https://live.hkanime.com.hk/xxxx/76/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="境外",J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+https://live.hkanime.com.hk/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="境外",ViU TV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
+https://cdn.hklive.tv/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="境外",ViU 6
-https://cdn.hkdtmb.com/hls/96/index.m3u8
+https://cdn.hklive.tv/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="境外",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="境外",RTHK31
