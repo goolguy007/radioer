@@ -140,22 +140,17 @@ http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/cnc-world-en.png" group-title="央视",CNC英文
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://cooltv.top/tv/fhx.php?id=1
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="境外",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://cooltv.top/tv/fhx.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="境外",凤凰香港
+http://cooltv.top/tv/fhx.php?id=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",凤凰电影
-http://v.mp.haue.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",Discovery
-http://v.mp.haue.edu.cn/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",国家地理
-http://v.mp.haue.edu.cn/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/tvradiologo/raw/master/v.png" group-title="境外",【V】
-http://v.mp.haue.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",星空卫视
-http://v.mp.haue.edu.cn/hls/startv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="v.mp.haue.edu.cn" tvg-logo="" group-title="境外",Star Sports
-http://v.mp.haue.edu.cn/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://television-live.com/uploads/posts/2019-06/1561572071_lotus-tv-macau.png" group-title="境外",莲花卫视
 http://cooltv.top/tv/lotus.php
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="境外",翡翠台
@@ -779,17 +774,17 @@ https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel2/pl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",雨城频道
 https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="地方",成都新闻综合
-http://cooltv.top/cdtv.php?id=1
+http://cooltv.top/tv/cdtv.php?id=1
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="地方",成都经济
-http://cooltv.top/cdtv.php?id=2
+http://cooltv.top/tv/cdtv.php?id=2
 #EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="地方",成都都市
-http://cooltv.top/cdtv.php?id=3
+http://cooltv.top/tv/cdtv.php?id=3
 #EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="地方",成都影视
-http://cooltv.top/cdtv.php?id=45
+http://cooltv.top/tv/cdtv.php?id=45
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="地方",成都公共
-http://cooltv.top/cdtv.php?id=5
+http://cooltv.top/tv/cdtv.php?id=5
 #EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="地方",成都少儿
-http://cooltv.top/cdtv.php?id=6
+http://cooltv.top/tv/cdtv.php?id=6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古文体娱乐
 http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古农牧频道
@@ -1938,8 +1933,12 @@ http://cooltv.top/tv/hz.php?id=23
 http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2015/1223/20151223210750357.jpg" group-title="音乐广播" radio="true",南京音乐广播
 vjms://live.njgb.com:8500:3502/live/cid=4
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/79dcc3a9da358a3.png" group-title="电视伴音",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="电视伴音",凤凰资讯
+http://cooltv.top/tv/fhxaudio.php?id=1
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="电视伴音",凤凰中文
+http://cooltv.top/tv/fhxaudio.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="电视伴音",凤凰香港
+http://cooltv.top/tv/fhxaudio.php?id=3
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="电视伴音",CCTV-1 综合
 https://cctv5cncc.v.wscdns.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv2.png" group-title="电视伴音",CCTV-2 财经
