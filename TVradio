@@ -50,7 +50,7 @@ http://cooltv.top/tv/aishang.php?id=hbwshd
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://v.mp.haue.edu.cn/hls/lyhd.m3u8 
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://cooltv.top/logo/青海卫视.png" group-title="卫视",青海卫视
-http://live.geermurmt.com/qhws/sd/live.m3u8
+http://cooltv.top/tv/aishang.php?id=qhws
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://cooltv.top/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://cooltv.top/tv/aishang.php?id=gzwshd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",西藏卫视
@@ -60,9 +60,9 @@ http://cooltv.top/tv/aishang.php?id=gsws
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://cooltv.top/tv/aishang.php?id=xjws
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
-http://v.mp.haue.edu.cn/hls/xmtv.m3u8
+http://cooltv.top/tv/aishang.php?id=xmws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",内蒙古卫视
-http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
+http://cooltv.top/tv/aishang.php?id=nmws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",延边卫视
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
@@ -71,21 +71,23 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226128/1000010000000006000000000243
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://ikanpic.kanketv.com/image/live/icon/bingtuan.png" group-title="卫视",兵团卫视
 http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",中国教育
-http://v.mp.haue.edu.cn/hls/cetv1hd.m3u8
+http://cooltv.top/tv/aishang.php?id=cetv1hd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",中国教育2
 http://cooltv.top/tv/aishang.php?id=cetv2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",中国教育4
-http://cooltv.top/tv/aishang.php?id=cetv4
+http://cooltv.top/tv/aishang.php?id=cetv4 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东教育卫视
+http://cooltv.top/tv/aishang.php?id=sdjy
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视",北京冬奥纪实
-http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
+http://cooltv.top/tv/btime.php?id=bjjs
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",纪实人文
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实
 http://cooltv.top/tv/aishang.php?id=jyjs
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
-http://v.mp.haue.edu.cn/hls/jykttv.m3u8
+http://cooltv.top/tv/aishang.php?id=jykt
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
-https://hls-brtv8k.sobeylive.com/brtv8k/215_q_live163592996466888.m3u8
+http://cooltv.top/tv/aishang.php?id=kkse
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
 http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",优漫卡通
@@ -139,9 +141,9 @@ http://[2409:8087:6a01:1020::9]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/cnc-world-en.png" group-title="央视",CNC英文
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="境外",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://cooltv.top/logo/凤凰资讯.png" group-title="境外",凤凰资讯
 http://cooltv.top/tv/fhx.php?id=1
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="境外",凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://cooltv.top/logo/凤凰中文.png" group-title="境外",凤凰中文
 http://cooltv.top/tv/fhx.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="境外",凤凰香港
 http://cooltv.top/tv/fhx.php?id=3
@@ -306,13 +308,13 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字",SiTV全纪实
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226214/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV金色学堂
-http://[2001:250:4801::430:89]/hls/hls184a90.m3u8
+http://cooltv.top/tv/yqdtv.php?id=109
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV法治天地
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/都市剧场.png" group-title="数字",SiTV都市剧场
 http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226243/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字",SiTV欢笑剧场
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8
+http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV动漫秀场
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字",SiTV生活时尚
@@ -328,32 +330,31 @@ http://183.207.255.188/live/program/live/xfchd/2300000/mnf.m3u8
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226249/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV游戏风云
 http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV七彩戏剧
+http://cooltv.top/tv/yqdtv.php?id=108
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CCTV卫生健康
 http://cooltv.top/tv/yqdtv.php?id=111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dszn.png" group-title="数字",CCTV电视指南
-http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dyjc.png" group-title="数字",CCTV第一剧场
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000569&playtoken=ABCDEFGH&auth=no
+http://cooltv.top/tv/yqdtv.php?id=080
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyjc.png" group-title="数字",CCTV风云剧场
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000570&playtoken=ABCDEFGH&auth=no
+http://cooltv.top/tv/yqdtv.php?id=079
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/hjjc.png" group-title="数字",CCTV怀旧剧场
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000571&playtoken=ABCDEFGH&auth=no
+http://cooltv.top/tv/yqdtv.php?id=077
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyyy.png" group-title="数字",CCTV风云音乐
-http://[2001:250:4801::430:89]/hls/hls184a519.m3u8
+http://cooltv.top/tv/yqdtv.php?id=096
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyzq.png" group-title="数字",CCTV风云足球
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000576&playtoken=ABCDEFGH&auth=no
+http://cooltv.top/tv/yqdtv.php?id=079
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/sjdl.png" group-title="数字",CCTV世界地理
-http://[2001:250:4801::430:89]/hls/hls184a515.m3u8
+http://cooltv.top/tv/yqdtv.php?id=081
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/bqkj.png" group-title="数字",CCTV兵器科技
-http://[2001:250:4801::430:89]/hls/hls184a573.m3u8
+http://cooltv.top/tv/yqdtv.php?id=076
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/ystq.png" group-title="数字",CCTV央视台球
-http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/nxss.png" group-title="数字",CCTV女性时尚
-http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/whjp.png" group-title="数字",CCTV文化精品
-http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cooltv.top/logo/1905.png" group-title="数字",1905电影网
+http://cooltv.top/tv/1905.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.weathertv.cn/m/i/documentary/logo.png" group-title="数字",中国天气
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+http://cooltv.top/tv/yqdtv.php?id=073
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",山西导视
 http://cooltv.top/tv/yqdtv.php?id=020
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",DOX TV
@@ -375,8 +376,9 @@ http://cooltv.top/tv/yqdtv.php?id=088
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://cooltv.top/tv/dxxw.php?id=155
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",新动漫
-http://v.mp.haue.edu.cn/hls/xdmtv.m3u8
+http://cooltv.top/tv/aishang.php?id=xdm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",4K修复
+http://cooltv.top/tv/aishang.php?id=xdm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱上4K
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",4K花园
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",大众影院
@@ -774,17 +776,17 @@ https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel2/pl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",雨城频道
 https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="地方",成都新闻综合
-http://cooltv.top/tv/cdtv.php?id=1
+http://cooltv.top/cdtv.php?id=1
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="地方",成都经济
-http://cooltv.top/tv/cdtv.php?id=2
+http://cooltv.top/cdtv.php?id=2
 #EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="地方",成都都市
-http://cooltv.top/tv/cdtv.php?id=3
+http://cooltv.top/cdtv.php?id=3
 #EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="地方",成都影视
-http://cooltv.top/tv/cdtv.php?id=45
+http://cooltv.top/cdtv.php?id=45
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="地方",成都公共
-http://cooltv.top/tv/cdtv.php?id=5
+http://cooltv.top/cdtv.php?id=5
 #EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="地方",成都少儿
-http://cooltv.top/tv/cdtv.php?id=6
+http://cooltv.top/cdtv.php?id=6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古文体娱乐
 http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古农牧频道
@@ -1043,7 +1045,7 @@ http://sk.cri.cn/am846.m3u8
 http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/华语环球广播.png" group-title="综合广播" radio="true",CRI华语环球广播
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/南海之声.png" group-title="综合广播" radio="true",CRI南海之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cooltv.top/logo/南海之声.png" group-title="综合广播" radio="true",CRI南海之声
 http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/世界华声.png" group-title="综合广播" radio="true",CRI世界华声
 http://sk.cri.cn/hxfh.m3u8
@@ -1636,7 +1638,6 @@ http://fm971.cityfm.tw:8080/971.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|大苗栗广播
 http://fm983.cityfm.tw:8080/983.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hiradio.png" group-title="境外广播" radio="true",hi radio
-http://stream.rcs.revma.com/m5vcf26np7zuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/国立教育电台.png" group-title="境外广播" radio="true",国立教育电台
 http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/台湾古典音乐台.png" group-title="境外广播" radio="true",台湾古典音乐台
@@ -1933,9 +1934,9 @@ http://cooltv.top/tv/hz.php?id=23
 http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2015/1223/20151223210750357.jpg" group-title="音乐广播" radio="true",南京音乐广播
 vjms://live.njgb.com:8500:3502/live/cid=4
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="电视伴音",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://cooltv.top/logo/凤凰资讯.png" group-title="电视伴音",凤凰资讯
 http://cooltv.top/tv/fhxaudio.php?id=1
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="电视伴音",凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://cooltv.top/logo/凤凰中文.png" group-title="电视伴音",凤凰中文
 http://cooltv.top/tv/fhxaudio.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="电视伴音",凤凰香港
 http://cooltv.top/tv/fhxaudio.php?id=3
