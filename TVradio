@@ -155,18 +155,24 @@ http://live.cooltv.top/tv/fhx.php?id=3
 #EXTINF:-1 tvg-id="" tvg-name="v.mp.haue.edu.cn" tvg-logo="" group-title="境外",Star Sports
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://television-live.com/uploads/posts/2019-06/1561572071_lotus-tv-macau.png" group-title="境外",莲花卫视
 http://live.cooltv.top/tv/lotus.php
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="境外",翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="境外",明珠台
-https://live.hkanime.com.hk/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="境外",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=1
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="境外",有线新闻台
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="境外",有线财经资讯台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now新闻台
+http://live.cooltv.top/tv/now.php?channelno=332 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now财经台
+http://live.cooltv.top/tv/now.php?channelno=333 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now直播台
+http://live.cooltv.top/tv/now.php?channelno=331
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="境外",有线财经资讯台
 https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="境外",无线财经资讯台
 http://live.cooltv.top/tv/tvb.php?id=2
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="境外",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="境外",明珠台
+https://live.hkanime.com.hk/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="境外",香港国际财经台
 https://live.hkanime.com.hk/xxxx/76/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="境外",J2
@@ -1603,9 +1609,9 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/npr.png" group-title="境外广播" radio="true",n p r | News and Culture
 https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/256k/20220322.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",POP Radio 台北流行广播电台
-http://hitoradiow-hichannel.cdn.hinet.net/live/RA000080/playlist.m3u8?token1=vAV2ZKgkKccuLYG7OZ2NuQ&token2=5ua-yvUU6WmZItn6LaX7cw&expire1=2514758400&expire2=2199139200
+http://live.cooltv.top/tv/popradio.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM联播网|台北之音
-http://hitoradiow-hichannel.cdn.hinet.net/live/RA000036/playlist.m3u8?token1=_RO5DRerxjJSgSdnaKyzqQ&token2=C19oi8xgHzZLr6kJAdqhiw&expire1=2514758400&expire2=2199139200
+http://live.cooltv.top/tv/hitfm.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png" group-title="境外广播" radio="true",全国治安交通网
 http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png" group-title="境外广播" radio="true",警察广播台北分台
@@ -2075,4 +2081,5 @@ http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="电视伴音",彭博电视
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://5b0988e595225.cdn.sohucs.com/a_auto,c_cut,x_30,y_0,w_416,h_416/images/20190617/d408286835e548cb8621cdd1aac94b3a.jpeg" group-title="电视伴音",环球奇观
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="电视伴音",老故事
+
 
