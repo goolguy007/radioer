@@ -7,3 +7,5 @@
 收录了省级卫视和CCTV各频道
 收录了部分境外频道和地方电视台。
 iPhone/iPad/Apple TV 可使用影音宝app导入订阅地址https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio 这样可以获得最新直播源列表，简单高效
+⚠️如果添加不了github的订阅链接，那就添加http://live.cooltv.top/tv.php
+列表同步更新。
