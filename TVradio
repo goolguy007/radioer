@@ -1612,6 +1612,18 @@ https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/256k/20220322.m3u8
 http://live.cooltv.top/tv/popradio.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM联播网|台北之音
 http://live.cooltv.top/tv/hitfm.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播" radio="true",A-line Radio 网路音乐台
+http://live.cooltv.top/tv/alineradio.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",好事989
+http://live.cooltv.top/tv/bestradio.php?station=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",好事903
+http://live.cooltv.top/tv/bestradio.php?station=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",港都983
+http://live.cooltv.top/tv/bestradio.php?station=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",好事935
+http://live.cooltv.top/tv/bestradio.php?station=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/kiss.png" group-title="境外广播" radio="true",Kiss Radio
+http://live.cooltv.top/tv/kissradio.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png" group-title="境外广播" radio="true",全国治安交通网
 http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png" group-title="境外广播" radio="true",警察广播台北分台
@@ -1667,10 +1679,6 @@ http://stream.superfm99-1.com.tw:8555
 http://stream.superfm99-1.com.tw:8554
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/rti.png" group-title="境外广播" radio="true",RTI国语
 https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/kissradio.png" group-title="境外广播" radio="true",Kiss Radio
-http://api.kiss.com.tw/test/hichannel2.php?api=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播" radio="true",A-line Radio 网路音乐台
-http://radio.apple-line.com:987/radio-data/alinePlayer.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/全国广播.png" group-title="境外广播" radio="true",M-Radio全国广播
 http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外广播" radio="true",飞特电台
@@ -1788,7 +1796,7 @@ http://liveop.cctv.cn/hls/jdyygb192/playlist.m3u8
 https://radio.pull.hebtv.com/live/hebqcyy.m3u8
 #EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声文化生活广播.png" group-title="音乐广播" radio="true",海峡之声·文化生活广播
 mmst://27.151.117.209/996
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/合肥文艺广播.PNG" group-title="音乐广播" radio="true",合肥文艺广播
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://pic.qtfm.cn/2022/0602/20220602062630.png" group-title="音乐广播" radio="true",合肥文艺广播
 https://hylive.hfbtv.com/lsdream/3kJdo0U/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/北京音乐广播.png" group-title="音乐广播" radio="true",北京音乐广播
 http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
@@ -1890,7 +1898,7 @@ http://pull.hrbtv.net/tv/12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/福州音乐广播.png" group-title="音乐广播" radio="true",福州音乐广播
 http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/成都经典946.png" group-title="音乐广播" radio="true",成都文化休闲广播·radio946
-http://live.cooltv.top/cdgb.php?id=433-20
+http://live.cooltv.top/tv/cdgb.php?id=433-20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/亚洲音乐台成都.png" group-title="音乐广播" radio="true",AsiaFM 亚洲音乐台
 http://asiafm.vip:8000/fm965
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/海口音乐广播.png" group-title="音乐广播" radio="true",WHIZ Radio 海口音乐广播
