@@ -219,7 +219,7 @@ rtmp://59.124.75.138/sat/tv771
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",V2BEAT
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="境外",澳亚卫视
-http://live.mastvnet.com:800/4rlff1m/live.m3u8
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/hks.png" group-title="境外",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",香港卫视文旅台
@@ -881,17 +881,17 @@ http://live.cooltv.top/tv/jinan.php?id=11
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",济南发布
 http://live.cooltv.top/tv/jinan.php?id=12
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽影视
-http://live.cooltv.top/tv/hoge.php?id=ahys 
+http://live.cooltv.top/tv/anhui.php?id=ahys 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽经济生活
-http://live.cooltv.top/tv/hoge.php?id=ahjjsh 
+http://live.cooltv.top/tv/anhui.php?id=jjsh 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽综艺体育
-http://live.cooltv.top/tv/hoge.php?id=ahzyty
+http://live.cooltv.top/tv/anhui.php?id=zyty
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽农业科教
-http://live.cooltv.top/tv/hoge.php?id=ahnykj 
+http://live.cooltv.top/tv/anhui.php?id=nykj 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽公共
-http://live.cooltv.top/tv/hoge.php?id=ahgg 
+http://live.cooltv.top/tv/anhui.php?id=ahgg 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽国际
-http://live.cooltv.top/tv/hoge.php?id=ahgj 
+http://live.cooltv.top/tv/anhui.php?id=ahgj 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",绍兴公共
@@ -927,7 +927,13 @@ https://xiamencncc.v.wscdns.com/atjtd/yhxmt1_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/厦门-2.png" group-title="地方",厦门海峡
 https://xiamencncc.v.wscdns.com/atjtd/yhxmt2_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xmtv6.jpg" group-title="地方",厦门移动
-https://xiamencncc.v.wscdns.com/atjtd/yhxmtyd_1/index.m3u8
+https://xiamencncc.v.wscdns.com/atjtd/yhxmtyd_1/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵阳新闻综合
+http://live.cooltv.top/tv/guiyang.php?id=gyxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵阳经济生活
+http://live.cooltv.top/tv/guiyang.php?id=gyjjsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵阳都市
+http://live.cooltv.top/tv/guiyang.php?id=gyds
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dayuntongzhou.com/web/style/images/logo.png" group-title="地方",通州电视台
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.huairtv.com/Portal/Tpl/templates/default/images/logo.png" group-title="地方",怀柔电视台
@@ -1608,11 +1614,21 @@ https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/npr.png" group-title="境外广播" radio="true",n p r | News and Culture
 https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/256k/20220322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",POP Radio 台北流行广播电台
-http://live.cooltv.top/tv/popradio.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM联播网|台北之音
-http://live.cooltv.top/tv/hitfm.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播" radio="true",A-line Radio 网路音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",PopRadio台北流行广播电台
+http://live.cooltv.top/tv/popradio.php?station=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",PopRadio好听广播电台
+http://live.cooltv.top/tv/popradio.php?station=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM台北之音广播电台
+http://live.cooltv.top/tv/hitfm.php?station=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM中台湾广播电台
+http://live.cooltv.top/tv/hitfm.php?station=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM高屏广播电台
+http://live.cooltv.top/tv/hitfm.php?station=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM中山广播电台
+http://live.cooltv.top/tv/hitfm.php?station=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM东台湾广播电台
+http://live.cooltv.top/tv/hitfm.php?station=5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播" radio="true",A-Line Radio 网路音乐台
 http://live.cooltv.top/tv/alineradio.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",好事989
 http://live.cooltv.top/tv/bestradio.php?station=1
@@ -1624,6 +1640,24 @@ http://live.cooltv.top/tv/bestradio.php?station=3
 http://live.cooltv.top/tv/bestradio.php?station=4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/kiss.png" group-title="境外广播" radio="true",Kiss Radio
 http://live.cooltv.top/tv/kissradio.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/aiyue.png" group-title="境外广播" radio="true",台北爱乐FM99.7
+http://live.cooltv.top/tv/e-classical.php?id=onair
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/aiyue.png" group-title="境外广播" radio="true",台北爱乐Kids
+http://live.cooltv.top/tv/e-classical.php?id=kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/aiyue.png" group-title="境外广播" radio="true",台北爱乐Jazz
+http://live.cooltv.top/tv/e-classical.php?id=jazz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/aiyue.png" group-title="境外广播" radio="true",台北乐UR Classical
+http://live.cooltv.top/tv/e-classical.php?id=urclassical
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/aiyue.png" group-title="境外广播" radio="true",台北爱乐Oldies but Goodies
+http://live.cooltv.top/tv/e-classical.php?id=goodies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/台湾古典音乐台.png" group-title="境外广播" radio="true",台湾古典音乐台
+http://59.120.88.155:8000/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asia927.png" group-title="境外广播" radio="true",AsiaFM亚洲电台
+https://stream.rcs.revma.com/xpgtqc74hv8uv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asia923.png" group-title="境外广播" radio="true",AsiaFM亚太电台
+https://stream.rcs.revma.com/kydend74hv8uv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/flyfm.png" group-title="境外广播" radio="true",FlyRadio飞扬调频
+https://stream.rcs.revma.com/e0tdah74hv8uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png" group-title="境外广播" radio="true",全国治安交通网
 http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png" group-title="境外广播" radio="true",警察广播台北分台
@@ -1653,8 +1687,6 @@ http://fm983.cityfm.tw:8080/983.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hiradio.png" group-title="境外广播" radio="true",hi radio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/国立教育电台.png" group-title="境外广播" radio="true",国立教育电台
 http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/台湾古典音乐台.png" group-title="境外广播" radio="true",台湾古典音乐台
-http://59.120.88.155:8000/live.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/台北广播电台.png" group-title="境外广播" radio="true",台北广播电台FM93.1
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/台北广播电台.png" group-title="境外广播" radio="true",台北广播电台AM1134
