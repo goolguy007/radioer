@@ -454,19 +454,19 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/ind
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",济铁电视
 https://jsylivealone302.iqilu.com/jitie/jitie_tv01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电影
-http://111.40.196.30/PLTV/88888888/224/3221225660/index.m3u8
+http://124.232.231.246:8088/000000001001/201600020005/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南经视
-http://live.cooltv.top/tv/hunan.php?id=280
+http://124.232.231.246:8088/000000001001/201600020002/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南公共
-http://live.cooltv.top/tv/hunan.php?id=261
+http://124.232.231.246:8088/000000001001/201600020007/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南娱乐
-http://live.cooltv.top/tv/hunan.php?id=344
+http://124.232.231.246:8088/000000001001/201600020004/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电视剧
-http://live.cooltv.top/tv/hunan.php?id=484
+http://124.232.231.246:8088/000000001001/201600020006/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南都市
-http://live.cooltv.top/tv/hunan.php?id=346
+http://124.232.231.246:8088/000000001001/201600020003/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南国际
-http://live.cooltv.top/tv/hunan.php?id=229
+http://124.232.231.246:8088/000000001001/201600020001/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙政法
 http://live.cooltv.top/tv/ady.php?id=cszf
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20200109/f5078b7d3a8f020b8d6f6fcdcd938f1d.jpeg" group-title="地方",长沙影视
@@ -1590,46 +1590,24 @@ http://play.3xgd.com/fm/jtt.m3u8
 http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/房山电台.png" group-title="综合广播" radio="true",房山电台
 http://live.funhillrm.com/3/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc1.png" group-title="境外广播" radio="true",BBC Radio 1
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc1x.png" group-title="境外广播" radio="true",BBC Radio 1Xtra
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc1dance.png" group-title="境外广播" radio="true",BBC Radio 1 Dance
-https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc1relax.png" group-title="境外广播" radio="true",BBC Radio 1 relax
-https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc2.png" group-title="境外广播" radio="true",BBC Radio 2
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc3.png" group-title="境外广播" radio="true",BBC Radio 3
-https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc4.png" group-title="境外广播" radio="true",BBC Radio 4
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc4extra.png" group-title="境外广播" radio="true",BBC Radio 4 Extra
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc5.png" group-title="境外广播" radio="true",BBC Radio 5 live
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc6.png" group-title="境外广播" radio="true",BBC Radio 6
-https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbcws.png" group-title="境外广播" radio="true",BBC World Service
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/npr.png" group-title="境外广播" radio="true",n p r | News and Culture
-https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/256k/20220322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播" radio="true",A-Line Radio 网路音乐台
+http://live.cooltv.top/tv/alineradio.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/kiss.png" group-title="境外广播" radio="true",KissRadio大众广播
+http://live.cooltv.top/tv/kissradio.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",PopRadio台北流行广播电台
 http://live.cooltv.top/tv/popradio.php?station=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",PopRadio好听广播电台
 http://live.cooltv.top/tv/popradio.php?station=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM台北之音广播电台
 http://live.cooltv.top/tv/hitfm.php?station=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM中台湾广播电台
-http://live.cooltv.top/tv/hitfm.php?station=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM高屏广播电台
 http://live.cooltv.top/tv/hitfm.php?station=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM中山广播电台
-http://live.cooltv.top/tv/hitfm.php?station=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM中台湾广播电台
+http://live.cooltv.top/tv/hitfm.php?station=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM东台湾广播电台
 http://live.cooltv.top/tv/hitfm.php?station=5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播" radio="true",A-Line Radio 网路音乐台
-http://live.cooltv.top/tv/alineradio.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM中山广播电台
+http://live.cooltv.top/tv/hitfm.php?station=4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",好事989
 http://live.cooltv.top/tv/bestradio.php?station=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",好事903
@@ -1638,8 +1616,6 @@ http://live.cooltv.top/tv/bestradio.php?station=2
 http://live.cooltv.top/tv/bestradio.php?station=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",好事935
 http://live.cooltv.top/tv/bestradio.php?station=4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/kiss.png" group-title="境外广播" radio="true",Kiss Radio
-http://live.cooltv.top/tv/kissradio.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/aiyue.png" group-title="境外广播" radio="true",台北爱乐FM99.7
 http://live.cooltv.top/tv/e-classical.php?id=onair
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/aiyue.png" group-title="境外广播" radio="true",台北爱乐Kids
@@ -1676,13 +1652,13 @@ http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
 http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png" group-title="境外广播" radio="true",警察广播宜兰分台
 http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|城市广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM城市广播
 http://fm929.cityfm.tw:8080/929.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|台北健康
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM台北健康
 http://fm901.cityfm.tw:8080/901.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|台南之音
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM台南之音
 http://fm971.cityfm.tw:8080/971.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM|大苗栗广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播" radio="true",CityFM大苗栗广播
 http://fm983.cityfm.tw:8080/983.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hiradio.png" group-title="境外广播" radio="true",hi radio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/国立教育电台.png" group-title="境外广播" radio="true",国立教育电台
@@ -1719,6 +1695,8 @@ https://phate.io/listen.ogg
 http://211.20.119.103:8081
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/太阳电台.png" group-title="境外广播" radio="true",太阳电台
 http://211.20.119.102:8081
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/young.png" group-title="境外广播" radio="true",青春线上
+http://live.cooltv.top/tv/young.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/aifm.png" group-title="境外广播" radio="true",Ai FM
 https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/capital958.png" group-title="境外广播" radio="true",CAPITAL 958
@@ -1746,7 +1724,31 @@ https://voaaudio-lh.akamaihd.net/i/PACKVOA151_124L@824401/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/自由亚洲电台.png" group-title="境外广播" radio="true",自由亚洲电台
 https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外广播" radio="true",CNA 938
-https://14033.live.streamtheworld.com/938NOW_PREM.aac
+https://14033.live.streamtheworld.com/938NOW_PREM.aac 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc1.png" group-title="境外广播" radio="true",BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc1x.png" group-title="境外广播" radio="true",BBC Radio 1Xtra
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc1dance.png" group-title="境外广播" radio="true",BBC Radio 1 Dance
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc1relax.png" group-title="境外广播" radio="true",BBC Radio 1 relax
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc2.png" group-title="境外广播" radio="true",BBC Radio 2
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc3.png" group-title="境外广播" radio="true",BBC Radio 3
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc4.png" group-title="境外广播" radio="true",BBC Radio 4
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc4extra.png" group-title="境外广播" radio="true",BBC Radio 4 Extra
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc5.png" group-title="境外广播" radio="true",BBC Radio 5 live
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbc6.png" group-title="境外广播" radio="true",BBC Radio 6
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/bbcws.png" group-title="境外广播" radio="true",BBC World Service
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/npr.png" group-title="境外广播" radio="true",n p r | News and Culture
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/256k/20220322.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kcrw.com/music/shows/eclectic24/@@images/square_image/giant-square" group-title="境外广播" radio="true",Eclectic24
 https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/vocalo.org/wp-content/uploads/2017/01/black_teal_square.png?resize=170%2C170&ssl=1" group-title="境外广播" radio="true",VOCALO
