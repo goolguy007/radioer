@@ -160,11 +160,11 @@ http://live.cooltv.top/tv/tvb.php?id=1
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="境外",有线新闻台
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now新闻台
-http://live.cooltv.top/tv/now.php?channelno=332
+http://live.cooltv.top/tv/now.php?id=332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now财经台
-http://live.cooltv.top/tv/now.php?channelno=333
+http://live.cooltv.top/tv/now.php?id=333
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",now直播台
-http://live.cooltv.top/tv/now.php?channelno=331
+http://live.cooltv.top/tv/now.php?id=331
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="境外",有线财经资讯台
 https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="境外",无线财经资讯台
@@ -1595,27 +1595,27 @@ http://live.cooltv.top/tv/alineradio.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/kiss.png" group-title="境外广播" radio="true",KissRadio大众广播
 http://live.cooltv.top/tv/kissradio.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",PopRadio台北流行广播电台
-http://live.cooltv.top/tv/popradio.php?station=1
+http://live.cooltv.top/tv/popradio.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播" radio="true",PopRadio好听广播电台
-http://live.cooltv.top/tv/popradio.php?station=2
+http://live.cooltv.top/tv/popradio.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM台北之音广播电台
-http://live.cooltv.top/tv/hitfm.php?station=1
+http://live.cooltv.top/tv/hitfm.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM高屏广播电台
-http://live.cooltv.top/tv/hitfm.php?station=3
+http://live.cooltv.top/tv/hitfm.php?id=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM中台湾广播电台
-http://live.cooltv.top/tv/hitfm.php?station=2
+http://live.cooltv.top/tv/hitfm.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM东台湾广播电台
-http://live.cooltv.top/tv/hitfm.php?station=5
+http://live.cooltv.top/tv/hitfm.php?id=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/hitfm.png" group-title="境外广播" radio="true",HitFM中山广播电台
-http://live.cooltv.top/tv/hitfm.php?station=4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",好事989
-http://live.cooltv.top/tv/bestradio.php?station=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",好事903
-http://live.cooltv.top/tv/bestradio.php?station=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",港都983
-http://live.cooltv.top/tv/bestradio.php?station=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",好事935
-http://live.cooltv.top/tv/bestradio.php?station=4
+http://live.cooltv.top/tv/hitfm.php?id=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",BestRadio港都983
+http://live.cooltv.top/tv/bestradio.php?id=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",BestRadio好事989
+http://live.cooltv.top/tv/bestradio.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",BestRadio好事903
+http://live.cooltv.top/tv/bestradio.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestradio.png" group-title="境外广播" radio="true",BestRadio好事935
+http://live.cooltv.top/tv/bestradio.php?id=4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/aiyue.png" group-title="境外广播" radio="true",台北爱乐FM99.7
 http://live.cooltv.top/tv/e-classical.php?id=onair
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/aiyue.png" group-title="境外广播" radio="true",台北爱乐Kids
