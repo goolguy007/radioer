@@ -625,17 +625,17 @@ http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃文化影视
 http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南都市
-https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8
+https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南影视
-https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8
+https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南娱乐
-http://hwzbout.yunshicloud.com/62hdvf/iq8639.m3u8
+https://hwapi.yunshicloud.com/62hdvf/iq8639.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南公共
-http://hwzbout.yunshicloud.com/62hdvf/227q43.m3u8
+https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南生活资讯
-http://hwzbout.yunshicloud.com/62hdvf/180p57.m3u8
+https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南少儿
-http://hwzbout.yunshicloud.com/62hdvf/9ojsty.m3u8
+https://hwapi.yunshicloud.com/62hdvf/9ojsty.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥新闻
 http://live.cooltv.top/tv/hfcatv.php?id=185
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥生活
@@ -779,17 +779,20 @@ https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel2/pl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",雨城频道
 https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="地方",成都新闻综合
-http://live.cooltv.top/cdtv.php?id=1
+http://live.cooltv.top/tv/cdtv.php?id=cdxwzh
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="地方",成都经济
-http://live.cooltv.top/cdtv.php?id=2
+资讯
+http://live.cooltv.top/tv/cdtv.php?id=cdjjzx
 #EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="地方",成都都市
-http://live.cooltv.top/cdtv.php?id=3
+生活
+http://live.cooltv.top/tv/cdtv.php?id=cddssh
 #EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="地方",成都影视
-http://live.cooltv.top/cdtv.php?id=45
+文艺
+http://live.cooltv.top/tv/cdtv.php?id=cdyswy
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="地方",成都公共
-http://live.cooltv.top/cdtv.php?id=5
+http://live.cooltv.top/tv/cdtv.php?id=cdgg
 #EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="地方",成都少儿
-http://live.cooltv.top/cdtv.php?id=6
+http://live.cooltv.top/tv/cdtv.php?id=cdse
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古文体娱乐
 http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古农牧频道
@@ -1061,7 +1064,7 @@ http://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/hxfh.png" group-title="综合广播" radio="true",CRI粤语国际
 http://sk.cri.cn/hxfh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/中国之声.png" group-title="综合广播" radio="true",CNR中国之声
-https://live-play.cctvnews.cctv.com/cctv/zgzs192.m3u8
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经济之声.png" group-title="综合广播" radio="true",CNR经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/文艺之声.png" group-title="综合广播" radio="true",CNR文艺之声
@@ -1965,9 +1968,9 @@ http://stream.hztvmg.com/test17/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/苏州音乐广播.png" group-title="音乐广播" radio="true",苏州都市音乐广播
 http://live.cooltv.top/tv/szradio.php?id=szdsyygb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙城市之声.png" group-title="音乐广播" radio="true",长沙城市之声
-http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
+http://20573.hlsplay.aodianyun.com/zhcs_radio/cszs1017.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙音乐广播.png" group-title="音乐广播" radio="true",长沙音乐广播
-http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
+http://20573.hlsplay.aodianyun.com/zhcs_radio/jjgb886.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/太原音乐广播.png" group-title="音乐广播" radio="true",太原音乐广播
 http://live.cooltv.top/tv/cutv.php?id=tyyygb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/杭州城市资讯广播.PNG" group-title="音乐广播" radio="true",杭州城市资讯广播
