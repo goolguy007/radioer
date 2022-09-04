@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",坠落
+https://new.qqaku.com/20220901/dgGlaCIo/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://live.cooltv.top/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://live.cooltv.top/tv/aishang.php?id=hunwshd
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://live.cooltv.top/logo/浙江卫视.png" group-title="卫视",浙江卫视
@@ -48,7 +50,7 @@ http://live.cooltv.top/tv/aishang.php?id=hljwshd
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://live.cooltv.top/logo/河北卫视.png" group-title="卫视",河北卫视
 http://live.cooltv.top/tv/aishang.php?id=hbwshd
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://v.mp.haue.edu.cn/hls/lyhd.m3u8 
+http://live.cooltv.top/tv/yqdtv.php?id=061 
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://live.cooltv.top/logo/青海卫视.png" group-title="卫视",青海卫视
 http://live.cooltv.top/tv/aishang.php?id=qhws
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://live.cooltv.top/logo/贵州卫视.png" group-title="卫视",贵州卫视
@@ -570,6 +572,8 @@ http://live.cooltv.top/tv/sctv.php?id=scxc
 http://live.cooltv.top/tv/sctv.php?id=scxkgw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ohudong.cztv.com/1/logos/2020/12/31/cc2b0ca1bd0db74f75ad810587c28c32.png" group-title="地方",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ohudong.cztv.com/1/logos/2020/12/31/cc2b0ca1bd0db74f75ad810587c28c32.png" group-title="地方",之江纪录
+http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/72d035c03412d7cb2d319c6607fef8e9.png" group-title="地方",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/33b59c051574c604f93157baa61455b2.png" group-title="地方",浙江少儿
@@ -1831,7 +1835,7 @@ http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2014/07/iTunes-12-icon.png" group-title="音乐广播" radio="true",苹果音乐台
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/qqmusic.png" group-title="音乐广播" radio="true",QQ音乐台
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/音乐之声.png" group-title="音乐广播" radio="true",CNR音乐之声
-http://audiows003.cnr.cn/live/yyzs192/playlist.m3u8
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经典音乐广播.png" group-title="音乐广播" radio="true",CNR经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/河北汽车音乐台.png" group-title="音乐广播" radio="true",河北汽车音乐台
