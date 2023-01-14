@@ -1,64 +1,64 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hunanweishi.png" group-title="卫视",湖南卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/zhejiangweishi.png" group-title="卫视",浙江卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/shenzhenweishi.png" group-title="卫视",深圳卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/shandongweishi.png" group-title="卫视",山东卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",大湾区卫视
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000021/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="32" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/dongnanweishi.png" group-title="卫视",东南卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dnwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://iptv.cooltv.top/tv/cutv.php?id=sxws2
 #EXTINF:-1 tvg-id="39" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/tianjinweishi.png" group-title="卫视",天津卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cqws8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000066/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="56" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/henanweishi.png" group-title="卫视",河南卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://iptv.cooltv.top/tv/aishang.php?id=sxws
 #EXTINF:-1 tvg-id="51" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jlwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/liaoningweishi.png" group-title="卫视",辽宁卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/lnwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hljwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hebeiweishi.png" group-title="卫视",河北卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/qinghaiweishi.png" group-title="卫视",青海卫视
 http://stream.qhbtv.com/qhws/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/guizhouweishi.png" group-title="卫视",贵州卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gzwshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",西藏卫视
 http://iptv.cooltv.top/tv/aishang.php?id=xzws
 #EXTINF:-1 tvg-id="42" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/gansuweishi.png" group-title="卫视",甘肃卫视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://iptv.cooltv.top/tv/aishang.php?id=xjws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",内蒙古卫视
@@ -72,70 +72,70 @@ http://test5.btzx.com.cn/live/xjbtws.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001016000000113818/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="73" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="卫视",中国教育1
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png" group-title="卫视",中国教育2
 http://iptv.cooltv.top/tv/aishang.php?id=cetv2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",中国教育4
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东教育卫视
 http://iptv.cooltv.top/tv/aishang.php?id=sdjy
 #EXTINF:-1 tvg-id="1988" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",纪实人文
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jspdhd/4000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1874" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="卫视",北京纪实科教
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dajs8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="67" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/kkse8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hhxd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",优漫卡通
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1046" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卫视",优漫卡通
 http://[2409:8087:5011:1020::1a]/180000001001/00000000000000020000000000182321/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视",嘉佳卡通
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001016000000113820/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7 国防军事
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 科教
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV-15.png" group-title="央视",CCTV-15 音乐
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克4K
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN 
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://iptv.cooltv.top/tv/aishang.php?id=cgtnhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/CGTN纪录.png" group-title="央视",CGTN纪录
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
@@ -297,30 +297,31 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱上4K
 http://iptv.cooltv.top/tv/aishang.php?id=as4k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV全球大片
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV华语影院
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV星光影院
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV宝宝动画
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV青春动漫
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV健康养生
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV谍战剧场
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV热门剧场
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV百变课堂
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="数字",BesTV看天下精选
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="数字",BesTV热门综艺
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="数字",BesTV电竞天堂
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/1905.png" group-title="数字",1905电影网
+http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC动作电影
 http://iptv.cooltv.top/tv/aishang.php?id=chcdzdy
 #EXTINF:-1 tvg-id="6241" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC高清电影
@@ -330,37 +331,37 @@ http://iptv.cooltv.top/tv/aishang.php?id=chcjtyy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",东方财经
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227087/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/都市剧场.png" group-title="数字",SiTV都市剧场
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dsjc8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字",SiTV欢笑剧场
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV动漫秀场
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字",SiTV乐游
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV金色学堂
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jingsepd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV法治天地
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字",SiTV生活时尚
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="数字",SiTV劲爆体育
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="数字",SiTV魅力足球
 http://183.207.255.188/live/program/live/mlyyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV游戏风云
 http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV七彩戏剧
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",百视TV
 http://iptv.cooltv.top/tv/bestv.php?id=27
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="数字",求索纪录
-http://111.11.123.30:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.193.112:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="数字",求索动物
-http://111.11.123.30:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.193.112:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="数字",求索科学
-http://111.11.123.30:6610/000000001000/6000000002000032344/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.193.112:6610/000000001000/6000000002000032344/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",求索生活
-http://111.11.123.30:6610/000000001000/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.193.112:6610/000000001000/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CCTV卫生健康
 http://iptv.cooltv.top/tv/yqdtv.php?id=111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dyjc.png" group-title="数字",CCTV第一剧场
@@ -405,43 +406,43 @@ http://iptv.cooltv.top/tv/aishang.php?id=xdm
 https://tv.lanjingfm.com/cctbn/hubei.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="地方",黄河电视台
 http://iptv.cooltv.top/tv/cutv.php?id=sxhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://apphhplushttps.sxrtv.com/images/2020/12/31/202012311609402077716_90.jpg" group-title="地方",山西社会与法治
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/sxsh.png" group-title="地方",山西社会与法治
 http://iptv.cooltv.top/tv/cutv.php?id=sxkj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://apphhplushttps.sxrtv.com/images/2020/12/31/202012311609402311324_90.jpg" group-title="地方",山西经济与科技
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/sxjj.png" group-title="地方",山西经济与科技
 http://iptv.cooltv.top/tv/cutv.php?id=sxjj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897361061_33_t1080.jpg" group-title="地方",山西影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/sxys.png" group-title="地方",山西影视
 http://iptv.cooltv.top/tv/cutv.php?id=sxys
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg" group-title="地方",山西文体生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/sxwt.png" group-title="地方",山西文体生活
 http://iptv.cooltv.top/tv/cutv.php?id=sxgg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",晋中综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/jzzh.png" group-title="地方",晋中综合
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",晋中公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/jzgg.png" group-title="地方",晋中公共
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="地方",东方影视
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="地方",上海新闻综合
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dshd8m/8000000/mnf.m3u8
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="地方",五星体育
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海外语
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/icshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电影
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1991" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="地方",上海外语
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hndy.png" group-title="地方",湖南电影
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南经视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hnjs.png" group-title="地方",湖南经视
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000027983/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hnds.png" group-title="地方",湖南都市
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南爱晚
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hnaw.png" group-title="地方",湖南爱晚
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000044/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电视剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hndsj.png" group-title="地方",湖南电视剧
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hnyl.png" group-title="地方",湖南娱乐
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南国际
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hngj.png" group-title="地方",湖南国际
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000045/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-pro.guangdianyun.tv/1648/program/20180503/788f5c95682c2bdd3a4945cc018b5067.png" group-title="地方",长沙政法
 http://[2409:8087:5011:1020::15]/180000001002/00000001000000000008000000047430/main.m3u8
@@ -538,7 +539,7 @@ http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227184/index.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建旅游
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建少儿
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetyp
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建文体
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建乡村振兴公共
@@ -588,47 +589,47 @@ http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/bf6ad9ce4da1182a3a7ed0e188d8632f.png" group-title="地方",浙江钱江频道
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南都市
-http://iptv.cooltv.top/tv/dxxw.php?id=141
+http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南电视剧
-http://iptv.cooltv.top/tv/dxxw.php?id=148
+http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226521/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南民生
-http://iptv.cooltv.top/tv/dxxw.php?id=146
+http://[2409:8087:4400:20:1:a0f:12:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226685/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南法治
-http://iptv.cooltv.top/tv/dxxw.php?id=147
+http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226724/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南新闻
-http://iptv.cooltv.top/tv/dxxw.php?id=149
+http://[2409:8087:4402:20:1:1216:401:3c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226544/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南公共
-http://iptv.cooltv.top/tv/dxxw.php?id=151
+http://[2409:8087:4402:20:1:1216:401:29]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南乡村
-http://iptv.cooltv.top/tv/dxxw.php?id=152
+http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226443/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南国际
-http://iptv.cooltv.top/tv/dxxw.php?id=153
+http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226588/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",睛彩中原
-http://iptv.cooltv.top/tv/dxxw.php?id=157
+http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",移动戏曲
-http://iptv.cooltv.top/tv/dxxw.php?id=163
+http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河北影视剧
-https://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8
+https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河北经济生活
-https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8
+https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河北农民
-https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8
+https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河北都市
-https://tv.pull.hebtv.com/jishi/dushipindao.m3u8
+https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河北少儿科教
-https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8
+https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河北公共
-https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8
+https://event.pull.hebtv.com/jishi/gonggongpindao.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃都市
-http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
+https://hls.gstv.com.cn/49048r/l54391.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃公共应急
-http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
+https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃经济
-http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8
+https://hls.gstv.com.cn/49048r/10iv1j.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃少儿
-http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
+https://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃文化影视
-http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
+https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南都市
 https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方",云南影视
@@ -652,7 +653,7 @@ http://iptv.cooltv.top/tv/hfcatv.php?id=189
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥故事休闲
 http://iptv.cooltv.top/tv/hfcatv.php?id=191
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥公共
-http://iptv.cooltv.top/tv/hfcatv.php?id=025
+http://117.91.183.178/s1.hfbtv.com/hfbtv/ggpd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",昆明新闻综合
 https://devlivepull.migucloud.com/live/01YCQY7M_C0.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",昆明公共
@@ -1653,6 +1654,8 @@ http://fm929.cityfm.tw:8080/929.mp3
 http://fm901.cityfm.tw:8080/901.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播",CityFM大苗栗广播
 http://fm983.cityfm.tw:8080/983.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/997.png" group-title="境外广播",南投广播
+http://fm997.cityfm.tw:8080/997a.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/kiss.png" group-title="境外广播",KissRadio大众广播
 http://iptv.cooltv.top/tv/kissradio_backup.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/bestradio.png" group-title="境外广播",BestRadio港都983
@@ -1924,7 +1927,7 @@ http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/芒果音乐台.png" group-title="音乐广播",湖南音乐之声·芒果音乐台
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/ynyygb.png" group-title="音乐广播",云南音乐广播
-http://iptv.cooltv.top/tv/ytradio.php?id=592
+http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声文化生活广播.png" group-title="音乐广播",海峡之声·文化生活广播
 mmst://27.151.117.209/996
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/北京音乐广播.png" group-title="音乐广播",北京音乐广播
@@ -1932,7 +1935,7 @@ http://iptv.cooltv.top/tv/ytradio.php?id=356
 #EXTINF:-1 tvg-id="1879" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/北京青年广播.png" group-title="音乐广播",北京青年广播
 http://iptv.cooltv.top/tv/ytradio.php?id=686
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/安徽音乐广播.png" group-title="音乐广播",安徽音乐广播
-http://iptv.cooltv.top/tv/ytradio.php?id=601
+http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/陕西音乐广播.png" group-title="音乐广播",陕西音乐广播·快乐988
 http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/好听1055.png" group-title="音乐广播",陕西青少广播·好听1055
@@ -1954,7 +1957,7 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江西旅游广播.png" group-title="音乐广播",江西旅游广播iFM97.4
 https://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_pyhgb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江西音乐广播.png" group-title="音乐广播",江西音乐广播
-http://iptv.cooltv.top/tv/ytradio.php?id=509
+http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宁波音乐广播.png" group-title="音乐广播",宁波音乐广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/playfm.png" group-title="音乐广播",PlayFM甬江之声
@@ -1966,9 +1969,9 @@ http://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/湖北经典音乐广播.png" group-title="音乐广播",湖北经典音乐广播
 http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0225/20150225111148873.png" group-title="音乐广播",广西音乐广播
-http://iptv.cooltv.top/tv/ytradio.php?id=590
+http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/广西女主播.png" group-title="音乐广播",广西经济广播·女主播电台
-http://iptv.cooltv.top/tv/ytradio.php?id=587
+http://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/四川城市之音.png" group-title="音乐广播",四川城市之音
 http://iptv.cooltv.top/tv/ytradio.php?id=450
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/四川岷江音乐.png" group-title="音乐广播",四川岷江音乐
@@ -1976,11 +1979,11 @@ http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/厦门音乐广播.png" group-title="音乐广播",厦门音乐广播
 http://iptv.cooltv.top/tv/ytradio.php?id=1897
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江苏音乐广播.png" group-title="音乐广播",江苏音乐广播
-http://iptv.cooltv.top/tv/ytradio.php?id=415
+http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江苏经典流行音乐广播.png" group-title="音乐广播",江苏经典流行音乐广播
-http://iptv.cooltv.top/tv/ytradio.php?id=414
+http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/动听968.png" group-title="音乐广播",浙江音乐调频·动听968
-rtmp://satellitepull.cnr.cn/live/wxzj968
+http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/河北音乐广播.png" group-title="音乐广播",河北音乐广播
 http://iptv.cooltv.top/tv/ytradio.php?id=381
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/944.png" group-title="音乐广播",郑州音乐广播
