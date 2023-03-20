@@ -984,6 +984,12 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hnxttv.com/_CMS_NEWS_IMG_/1/201512/31/2d115c55-302d-4eb1-806d-7ac417875d92.png" group-title="地方",湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p2-yueting.yuetingapp.com/upload/new-mc/2021-07/c66fa90f3b349deaOSS1626337779.jpg" group-title="网络广播",精选807
+http://live.cooltv.top/tv/807.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p2-yueting.yuetingapp.com/upload/new-mc/2022-09/9dfbc98283519043OSS1663831185.png" group-title="网络广播",小满音乐台
+http://live.cooltv.top/tv/xmyyt.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p2-yueting.yuetingapp.com/upload/new-mc/2021-07/e5b9b264ab83c617OSS1627555214.jpg" group-title="网络广播",太平洋之声
+http://live.cooltv.top/tv/tpy.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s242677/images/logog.jpg?t=2" group-title="网络广播",Today’s Hits
 http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249976/images/logog.png?t=156961" group-title="网络广播",Pop Hits
@@ -1661,7 +1667,7 @@ http://live.cooltv.top/tv/popradio_backup.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播",PopRadio好听广播
 http://live.cooltv.top/tv/popradio_backup.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/pulsefm.png" group-title="境外广播",PulseFM心动音乐电台
-http://live.cooltv.top/tv/tstest.php
+http://live.cooltv.top/tv/pulse899.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播",A-Line Radio 网路音乐台
 http://live.cooltv.top/tv/alineradio_backup.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播",CityFM台南知音
@@ -1702,8 +1708,10 @@ https://onair.bravo913.com.tw:9130/live.mp3
 https://onair.family977.com.tw:8977/live.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/kwongwah.png" group-title="境外广播",光华之声
 http://live.cooltv.top/tv/kwongwah.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/voh.png" group-title="境外广播",汉声广播电台
-http://live.cooltv.top/tv/voh.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/voh.png" group-title="境外广播",汉声广播电台FM
+http://live.cooltv.top/tv/voh.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/voh.png" group-title="境外广播",汉声广播电台AM
+http://live.cooltv.top/tv/voh.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fhbs.png" group-title="境外广播",复兴电台
 http://live.cooltv.top/tv/fhbs.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/uni967.png" group-title="境外广播",环宇广播
