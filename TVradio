@@ -178,7 +178,7 @@ http://live.cooltv.top/tv/good.php?id=xingkong_1500
 #EXTINF:-1 tvg-id="126" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="境外",翡翠台
 http://live.cooltv.top/tv/good.php?id=1350_4500
 #EXTINF:-1 tvg-id="127" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="境外",明珠台
-https://live.hkanime.com.hk/xxxx/84/index.m3u8
+http://live.cooltv.top/tv/good.php?id=1351_4500
 #EXTINF:-1 tvg-id="416" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="境外",J2
 https://live.hkanime.com.hk/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="境外",ViU TV
@@ -293,7 +293,7 @@ http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000050000000448
 #EXTINF:-1 tvg-id="6246" tvg-name="" tvg-logo="http://live.cooltv.top/logo/chcjt.png" group-title="数字",CHC家庭影院
 http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000050000000448840/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/dfcj.png" group-title="数字",东方财经
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227087/index.m3u8
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/dz.png" group-title="数字",点掌财经
 https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/sitvdsjc.png" group-title="数字",SiTV都市剧场
@@ -309,11 +309,11 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227208/index.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fztd.png" group-title="数字",SiTV法治天地
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字",SiTV生活时尚
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227091/index.m3u8
+http://[2409:8087:4402:20:1:1216:401:3e]/wh7f454c46tw339382468_-2041037398/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="" tvg-logo="http://live.cooltv.top/logo/jbty.png" group-title="数字",SiTV劲爆体育
 http://120.204.20.48/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="数字",SiTV魅力足球
-http://120.204.20.48/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/yxfy.png" group-title="数字",SiTV游戏风云
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/qcxj.png" group-title="数字",SiTV七彩戏剧
@@ -508,7 +508,9 @@ http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv58f9fb5888dedbe0c6a1b/1.m3
 #EXTINF:-1 tvg-id="2059" tvg-name="" tvg-logo="http://live.cooltv.top/logo/scfnet.png" group-title="地方",四川妇女儿童
 http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv78f9fb5888dedbe0c6a1b/1.m3u8
 #EXTINF:-1 tvg-id="2061" tvg-name="" tvg-logo="http://live.cooltv.top/logo/scxc.png" group-title="地方",四川乡村
-http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv98f9fb5888dedbe0c6a1b/1.m3u8
+http://zhibo.sctvcloud.com/live/sichuanxiangcun.m3u8
+#EXTINF:-1 tvg-id="2061" tvg-name="" tvg-logo="http://live.cooltv.top/logo/sckj.png" group-title="地方",四川科教
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fjzh.png" group-title="地方",福建综合
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fjdsj.png" group-title="地方",福建电视剧
@@ -1667,7 +1669,7 @@ http://live.cooltv.top/tv/popradio_backup.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/popradio.png" group-title="境外广播",PopRadio好听广播
 http://live.cooltv.top/tv/popradio_backup.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/pulsefm.png" group-title="境外广播",PulseFM心动音乐电台
-http://live.cooltv.top/tv/pulse899.php
+http://live.cooltv.top/tv/pulsefm.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/aline.png" group-title="境外广播",A-Line Radio 网路音乐台
 http://live.cooltv.top/tv/alineradio_backup.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cityfm.png" group-title="境外广播",CityFM台南知音
@@ -1783,7 +1785,7 @@ http://211.20.119.102:8081
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/young.png" group-title="境外广播",青春线上
 http://live.cooltv.top/tv/young.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/aifm.png" group-title="境外广播",Ai FM
-https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
+https://23693.live.streamtheworld.com/AI_FMAAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/capital958.png" group-title="境外广播",CAPITAL 958
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/988.png" group-title="境外广播",988友声有色
@@ -1938,16 +1940,16 @@ http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 https://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/hitfm.png" group-title="音乐广播",CRI HIT FM
 http://liveop.cctv.cn/hls/cctvn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/spacemusic.png" group-title="音乐广播",湖南旅游广播·芒果时空音乐台
+http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/摩登音乐台.png" group-title="音乐广播",湖南文艺广播·摩登音乐台
+http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/芒果音乐台.png" group-title="音乐广播",湖南音乐之声·芒果音乐台
+http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/nn1049.png" group-title="音乐广播",南宁乡村生活广播经典1049
 http://hls.nntv.cn/nnradio/FM1049.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/nn895.png" group-title="音乐广播",南宁故事广播快乐895
 http://hls.nntv.cn/nnradio/FM895.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/摩登音乐台.png" group-title="音乐广播",湖南文艺广播·摩登音乐台
-http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/spacemusic.png" group-title="音乐广播",湖南旅游广播·芒果时空音乐台
-http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/芒果音乐台.png" group-title="音乐广播",湖南音乐之声·芒果音乐台
-http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/876.png" group-title="音乐广播",合肥文艺广播
 http://live.cooltv.top/tv/tide.php?id=hfwygb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/苏州音乐广播.png" group-title="音乐广播",苏州都市音乐广播
