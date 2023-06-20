@@ -143,9 +143,7 @@ http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/cnc-world-en.png" group-title="央视",CNC英文
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fhzw.png" group-title="境外",凤凰中文
-http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fhzx.png" group-title="境外",凤凰资讯
-http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="境外",凤凰香港
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/lotus.png" group-title="境外",莲花卫视
 http://live.cooltv.top/tv/lotus.php
@@ -599,19 +597,12 @@ http://live.cooltv.top/tv/gd.php?id=gdse
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/gdgj.png" group-title="地方",广东国际
 http://live.cooltv.top/tv/gd.php?id=gdgj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="地方",湖北综合
-http://live.cooltv.top/tv/cjy.php?id=hbzh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="地方",湖北公共新闻
-http://live.cooltv.top/tv/cjy.php?id=hbgg
 #EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="" group-title="地方",湖北经视
-http://live.cooltv.top/tv/cjy.php?id=hbjs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png" group-title="地方",湖北教育
-http://live.cooltv.top/tv/cjy.php?id=hbjy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png" group-title="地方",湖北垄上
-http://live.cooltv.top/tv/cjy.php?id=hbls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png" group-title="地方",湖北生活
-http://live.cooltv.top/tv/cjy.php?id=hbsh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="地方",湖北影视
-http://live.cooltv.top/tv/cjy.php?id=hbys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",济铁电视
 https://jsylivealone302.iqilu.com/jitie/jitie_tv01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",重庆新闻
@@ -718,15 +709,11 @@ https://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃文化影视
 https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥新闻
-http://live.cooltv.top/tv/hfcatv.php?id=185
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥生活
-http://live.cooltv.top/tv/hfcatv.php?id=188
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥生活188
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥财经
-http://live.cooltv.top/tv/hfcatv.php?id=190
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥教育法制
 http://live.cooltv.top/tv/tide.php?id=hfjy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥故事休闲
-http://live.cooltv.top/tv/hfcatv.php?id=191
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥公共
 http://live.cooltv.top/tv/tide.php?id=hfgg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南昌新闻综合
@@ -1778,8 +1765,8 @@ http://211.20.119.102:8081
 https://23693.live.streamtheworld.com/AI_FMAAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/capital958.png" group-title="境外广播",CAPITAL 958
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/988.png" group-title="境外广播",988友声有色
-http://23023.live.streamtheworld.com/988_FMAAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/988.png" group-title="境外广播",988
+https://23693.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/my.png" group-title="境外广播",MY
 https://astro1.rastream.com/myfm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/melody.png" group-title="境外广播",Melody
@@ -1912,6 +1899,8 @@ http://live.cooltv.top/tv/news1296.php?id=7
 http://live.cooltv.top/tv/news1296.php?id=9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/jd947.png" group-title="音乐广播",经典947
 http://live.cooltv.top/tv/news1296.php?id=8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/876.png" group-title="音乐广播",合肥文艺广播
+http://live.cooltv.top/tv/tide.php?id=hfwygb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/jsyygb.png" group-title="音乐广播",江苏音乐广播
 http://live.cooltv.top/tv/ytradio.php?id=415
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/jsjdlxyygb.png" group-title="音乐广播",江苏经典流行音乐广播
